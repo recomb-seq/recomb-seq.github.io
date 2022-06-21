@@ -4,6 +4,14 @@
         <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site.aboutTitle }}</h3>
             <div class="row about-details">
+                <p class="lead text-justify">High-throughput sequencing is now a primary tool in basic science and biomedicine.  
+                Applications of both short- and long-read sequencing are continually expanding. 
+                The RECOMB Satellite Workshop on Massively Parallel Sequencing (RECOMB-Seq) gathers
+                 leading researchers in computational genomics and genomic biology to discuss emerging
+                  frontiers in algorithm development for sequencing data. The emphasis is on applying computational approaches to improve analysis, interpretation and data management.</p>
+                </p>
+            {% if site.aboutBlock == nil %}
+            <div class="row about-details">
                 {% assign animationDelay = 0 %}
                 {% for about in site.aboutBlock %}
                 {% assign colWidth = 12 | divided_by: forloop.length %}
@@ -19,6 +27,7 @@
                 {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
                 {% endfor %}
             </div>
+            {% endif %}
         </div>
     </div>
 </section>
