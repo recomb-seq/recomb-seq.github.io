@@ -1,6 +1,7 @@
 The MIT License (MIT)
 
-Copyright (c) 2014 - 2017 Oleh Zasadnyy, Vitaliy Zasadnyy
+Original Project Zepplin Copyright (c) 2014 - 2017 Oleh Zasadnyy, Vitaliy Zasadnyy
+Copyright (c) 2022 RECOMB-SEQ Steering Committee
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
