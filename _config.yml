@@ -52,8 +52,8 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "RECOMB-SEQ 2023"
 heroSubTitle: "The 13th RECOMB Satellite Workshop on Massively Parallel Sequencing"
-eventDate: "May 2023"
-eventLocation: "Istanbul, Turkey"
+eventDate: "April 2023"
+eventLocation: "İstanbul, Turkey"
 #typeoutTextValues: '"2023"'
 #typeoutFallback: "2023"
 heroButtons:
@@ -167,7 +167,7 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "https://twitter.com/recombseq", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+# - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {link: "https://www.youtube.com/channel/UCYdQZ9egzBoszApB4ksjE3g/playlists", icon: "youtube"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
