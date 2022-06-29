@@ -8,7 +8,6 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-#    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
     - {name: "twitter", link: "https://twitter.com/calkan_cs"}
     - {name: "github", link: "https://github.com/calkan"}
     - {name: "site", link: "http://alkanlab.org/"}
@@ -38,7 +37,45 @@
     - {name: "github", link: "https://github.com/pashadag"}
     - {name: "site", link: "https://medvedevgroup.com/"}
 - 
+  id: 3
+  name: "Paul"
+  surname: "Medvedev"
+  title: "Steering Committee Member"
+  thumbnailUrl: PaulMedvedev.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/pashadag"}
+    - {name: "github", link: "https://github.com/pashadag"}
+    - {name: "site", link: "https://medvedevgroup.com/"}
+
+- 
   id: 4
+  name: "Nadia"
+  surname: "Pisanti"
+  title: "Steering Committee Member"
+  thumbnailUrl: NadiaPisanti.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "site", link: "https://pages.di.unipi.it/pisanti/"}
+
+- 
+  id: 5
+  name: "Alex"
+  surname: "Schönhuth"
+  title: "Steering Committee Member"
+  thumbnailUrl: AlexSchonhuth.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "site", link: "https://homepages.cwi.nl/~as/"}
+
+- 
+  id: 6
   name: "Dmytro"
   surname: "Danylyk"
   title: "Android Program Committee"
