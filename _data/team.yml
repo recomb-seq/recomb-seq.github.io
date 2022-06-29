@@ -38,20 +38,6 @@
     - {name: "site", link: "https://medvedevgroup.com/"}
 - 
   id: 3
-  name: "Paul"
-  surname: "Medvedev"
-  title: "Steering Committee Member"
-  thumbnailUrl: PaulMedvedev.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "twitter", link: "https://twitter.com/pashadag"}
-    - {name: "github", link: "https://github.com/pashadag"}
-    - {name: "site", link: "https://medvedevgroup.com/"}
-
-- 
-  id: 4
   name: "Nadia"
   surname: "Pisanti"
   title: "Steering Committee Member"
@@ -63,7 +49,7 @@
     - {name: "site", link: "https://pages.di.unipi.it/pisanti/"}
 
 - 
-  id: 5
+  id: 4
   name: "Alex"
   surname: "Schönhuth"
   title: "Steering Committee Member"
@@ -73,17 +59,17 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "site", link: "https://homepages.cwi.nl/~as/"}
-
 - 
-  id: 6
+  id: 5
   name: "Broňa"
   surname: "Brejová"
   title: "Program Committee Chair"
   thumbnailUrl: BronaBrejova.jpg
   subTeam: true
   social: 
-    - {name: "site", link: "http://compbio.fmph.uniba.sk/~bbrejova/"}- 
-  id: 7
+    - {name: "site", link: "http://compbio.fmph.uniba.sk/~bbrejova/"}
+- 
+  id: 6
   name: "A. Ercüment"
   surname: "Çiçek"
   title: "Program Committee Chair"
