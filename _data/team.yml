@@ -14,29 +14,29 @@
     - {name: "site", link: "http://alkanlab.org/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Christina"
+  surname: "Boucher"
+  title: "Steering Committee Member"
+  thumbnailUrl: ChristinaBoucher.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "github", link: "https://github.com/boucherufl"}
+    - {name: "site", link: "https://www.christinaboucher.com/"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Paul"
+  surname: "Medvedev"
+  title: "Steering Committee Member"
+  thumbnailUrl: PaulMedvedev.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "twitter", link: "https://twitter.com/pashadag"}
+    - {name: "github", link: "https://github.com/pashadag"}
+    - {name: "site", link: "https://medvedevgroup.com/"}
 - 
   id: 4
   name: "Dmytro"
