@@ -76,22 +76,19 @@
 
 - 
   id: 6
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Broňa"
+  surname: "Brejová"
+  title: "Program Committee Chair"
+  thumbnailUrl: BronaBrejova.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
+    - {name: "site", link: "http://compbio.fmph.uniba.sk/~bbrejova/"}- 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "A. Ercüment"
+  surname: "Çiçek"
+  title: "Program Committee Chair"
+  thumbnailUrl: ErcumentCicek.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "twitter", link: "https://twitter.com/crashius"}
+    - {name: "site", link: "http://ciceklab.cs.bilkent.edu.tr/"}
