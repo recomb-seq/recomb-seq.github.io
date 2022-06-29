@@ -1,17 +1,17 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Can"
+  surname: "Alkan"
+  title: "Steering Committee Member"
+  thumbnailUrl: CanAlkan.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+#    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+    - {name: "twitter", link: "https://twitter.com/calkan_cs"}
+    - {name: "github", link: "https://github.com/calkan"}
+    - {name: "site", link: "http://alkanlab.org/"}
 - 
   id: 1
   name: "Oleh"
