@@ -53,7 +53,7 @@ To reflect this, the conference name was changed in 2022 from "RECOMB Satellite 
  - 2012: Alex Zelikovsky and Pavel Pevzner
  - 2011: Lior Pachter and David Jaffe
 
-### Steering Commmittee Alumni
+#### Steering Commmittee Alumni
   - Inanc Birol
   - Michael Brudno
   - Eran Halperin
