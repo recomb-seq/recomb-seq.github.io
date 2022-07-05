@@ -36,18 +36,19 @@ You have a COI with:
     other love interests.  However, you do not automatically inherit
     their own COIs.
    
-   3.  With close personal friends.  Here again, you do not automatically
+
+3.  With close personal friends.  Here again, you do not automatically
     inherit your close friends' COIs.
 4.  With anyone whom you have reason to believe may be somewhat hostile to you
     and with anyone towards whom you are somewhat hostile; also with
     anyone with whom you are currently in competition for a position.
 5.  With anyone at your current institution or company, at an institution or
     company where you worked (as a salaried employee) at some point in the
-    last 3 years, or at an institution or company where you are applying
+    last 4 years, or at an institution or company where you are applying
     for a position.
 6.  With anyone at an institution or company that has paid you some type
     of wages (e.g., consulting fees, sabbatical supplementary salary, etc.)
-    over the last 3 years or that is currently retaining you as a consultant
+    over the last 4 years or that is currently retaining you as a consultant
     or in another paid capacity.
     (Honoraria for giving a research talk do not count, nor do
     in-kind benefits such as paid transportation and accommodations for
@@ -55,10 +56,7 @@ You have a COI with:
 7.  With any current research collaborator (with whom you have an ongoing
     project), any prospective collaborator (with whom you are writing a
     research proposal, for instance), and with anyone with whom you have
-    collaborated in the last 3 years.
-8.  With anyone with whom you have coauthored a paper in the last 3 years.
-    (Regardless of the size of the authors' list and even if you do not
-    know the person, have never communicated with the person, etc.)
+    collaborated in the last 4 years.
 
 These constitute the minimum collection of COIs.  You may have additional
 COIs that you are best placed to evaluate in the light of the list
@@ -78,7 +76,7 @@ On the other hand you do not automatically have a COI just because
     some people in their group (and perhaps even received an academic
     honorarium for your talk)
   - you both applied for the same job last year (but that search is over)
-  - you have (or had) a common collaborator over the last 3 years, but on
+  - you have (or had) a common collaborator over the last 4 years, but on
     different projects
   - you would rather not socialize with the authors
   - you got your PhD from the same lab as one of the authors 10 years ago
