@@ -50,6 +50,12 @@ High-throughput sequencing is now a primary tool in basic science and biomedicin
  - 2012: Alex Zelikovsky and Pavel Pevzner
  - 2011: Lior Pachter and David Jaffe
 
-
+### Steering Commmittee Alumni
+  - Inanc Birol
+  - Michael Brudno
+  - Eran Halperin
+  - Pavel Pevzner
+  - Benjamin Raphael
+  - S. Cenk Şahinalp
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
