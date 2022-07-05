@@ -47,8 +47,9 @@ High-throughput sequencing is now a primary tool in basic science and biomedicin
  - 2015: Gerton Lunter and Jacek Błażewicz
  - 2014: Cecilia Lo and Ben Raphael
  - 2013: Inna Dubchak, Bing Ren, and Colin Collins
- - 2012: Alex Zelikovsky and Pavel Pevzner 
- - 2011: Lior Pachter and David Jaffe 
+ - 2012: Alex Zelikovsky and Pavel Pevzner
+ - 2011: Lior Pachter and David Jaffe
+
 
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
