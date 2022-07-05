@@ -5,7 +5,10 @@ permalink: /history/
 isStaticPost: true
 ---
 
-High-throughput sequencing is now a primary tool in basic science and biomedicine. Applications of both short- and long-read sequencing are continually expanding. The RECOMB Satellite Workshop on Massively Parallel Sequencing (RECOMB-Seq) gathers leading researchers in computational genomics and genomic biology to discuss emerging frontiers in algorithm development for sequencing data. The emphasis is on applying computational approaches to improve analysis, interpretation and data management.
+RECOMB-seq was founded in 2011 as a response to the expanding applications of high-throughput sequencing as a  tool of basic science and biomedicine.
+The conference gathered leading researchers in computational genomics and genomic biology to discuss emerging frontiers in algorithm development for sequencing data. The emphasis is on applying computational approaches to improve analysis, interpretation and data management.
+Since then, the scope of RECOMB-seq has expanded beyond sequencing data to include assembled data as well, all the while focusing on methodological developments.
+To reflect this, the conference name was changed in 2022 from "RECOMB Satellite Workshop on Massively Parallel Sequencing" to "RECOMB Satellite Conference on Biological Sequence Analysis."
 {: .text-justify }
                 
 #### Program Committee Chairs
