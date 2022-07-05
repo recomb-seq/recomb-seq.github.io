@@ -38,8 +38,8 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/papers/", text: "Paper Submission"}
- - {permalink: "/team/", text: "Organizing Team"}
+ - {permalink: "/papers/", text: "Call for contributions"}
+ - {permalink: "/team/", text: "Committees"}
  - {permalink: "/speakers/", text: "Keynote Speakers"}
  - {permalink: "/program/", text: "Program"}
  - {permalink: "/history/", text: "History of RECOMB SEQ"}
@@ -176,14 +176,14 @@ footerBlocks:
   links:
   # - {link: "https://recomb2022.net", text: "RECOMB 2022"}
  -
-  title: "Contacts"
-  links:
-   - {link: "mailto:christinaboucher@ufl.edu", text: "christinaboucher@ufl.edu"}
+  # title: "Contacts"
+  # links:
+  # - {link: "mailto:christinaboucher@ufl.edu", text: "christinaboucher@ufl.edu"}
  -
-  title: "FAQ"
+  title: "Policies"
   links:
    - {permalink: "/coi/", text: "Conflict-of-interest Policy"}
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   # - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
