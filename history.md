@@ -11,6 +11,8 @@ Since then, the scope of RECOMB-seq has expanded beyond sequencing data to inclu
 To reflect this, the conference name was changed in 2022 from "RECOMB Satellite Workshop on Massively Parallel Sequencing" to "RECOMB Satellite Conference on Biological Sequence Analysis."
 {: .text-justify }
                 
+You can watch some previous talks of the conference at our [YouTube channel](https://www.youtube.com/channel/UCYdQZ9egzBoszApB4ksjE3g/playlists).
+
 #### Program Committee Chairs
  - 2022: Ben Langmead
  - 2021: Cinzia Pizzi and Layla Oesper
