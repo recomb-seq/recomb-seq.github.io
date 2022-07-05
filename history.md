@@ -1,6 +1,6 @@
 ---
 layout: post
-title: History of Recomb-Seq
+title: History of RECOMB-Seq
 permalink: /history/
 isStaticPost: true
 ---
@@ -8,7 +8,7 @@ isStaticPost: true
 High-throughput sequencing is now a primary tool in basic science and biomedicine. Applications of both short- and long-read sequencing are continually expanding. The RECOMB Satellite Workshop on Massively Parallel Sequencing (RECOMB-Seq) gathers leading researchers in computational genomics and genomic biology to discuss emerging frontiers in algorithm development for sequencing data. The emphasis is on applying computational approaches to improve analysis, interpretation and data management.
 {: .text-justify }
                 
-#### Program Committe Chairs
+#### Program Committee Chairs
  - 2022: Ben Langmead
  - 2021: Cinzia Pizzi and Layla Oesper
  - 2020: Leena Salmela and Rob Patro
@@ -23,15 +23,15 @@ High-throughput sequencing is now a primary tool in basic science and biomedicin
  - 2011: Can Alkan
 
 #### Conference Venues
- - 2022: San Diego, California
+ - 2022: San Diego, CA, USA
  - 2021: Padova, Italy (virtual)
  - 2020: Padova, Italy (virtual)
  - 2019: Washington DC, USA
  - 2018: Paris, France
  - 2017: Hong Kong, China
- - 2016: Los Angeles, USA
+ - 2016: Los Angeles, CA, USA
  - 2015: Warsaw, Poland
- - 2014: Pittsburgh, USA
+ - 2014: Pittsburgh, PA, USA
  - 2013: Beijing, China
  - 2012: Barcelona. Spain
  - 2011: Vancouver, Canada
@@ -49,6 +49,7 @@ High-throughput sequencing is now a primary tool in basic science and biomedicin
  - 2013: Inna Dubchak, Bing Ren, and Colin Collins
  - 2012: Alex Zelikovsky and Pavel Pevzner
  - 2011: Lior Pachter and David Jaffe
+
 
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
