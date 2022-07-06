@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "RECOMB-Seq Workshop"
 email: "calkan@gmail.com"
-description: "RECOMB-Seq is the RECOMB Satellite Workshop on Massively Parallel Sequencing"
+description: "RECOMB-Seq is the RECOMB Satellite Conference on Biological Sequence Analysis"
 baseurl: ""
 url: "https://recomb-seq.github.io"
 permalink: "/blog/:title"
@@ -51,7 +51,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "RECOMB-SEQ 2023"
-heroSubTitle: "The 13th RECOMB Satellite Workshop on Massively Parallel Sequencing"
+heroSubTitle: "The 13th RECOMB Satellite RECOMB Satellite Conference on Biological Sequence Analysis"
 eventDate: "April 2023"
 eventLocation: "İstanbul, Turkey"
 #typeoutTextValues: '"2023"'
