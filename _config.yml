@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "RECOMB-Seq Workshop"
+title: "RECOMB-Seq Conference"
 email: "calkan@gmail.com"
 description: "RECOMB-Seq is the RECOMB Satellite Conference on Biological Sequence Analysis"
 baseurl: ""
