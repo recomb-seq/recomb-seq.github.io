@@ -63,4 +63,7 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
   - Benjamin Raphael
   - S. Cenk Şahinalp
 
+#### Best Paper Award
+  - 2019: Samovar: Single-Sample Mosaic Single-Nucleotide Variant Calling with Linked Reads
+
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
