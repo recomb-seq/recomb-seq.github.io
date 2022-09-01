@@ -66,4 +66,7 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
 #### Best Paper Award
   - 2019: Samovar: Single-Sample Mosaic Single-Nucleotide Variant Calling with Linked Reads
 
+#### Best Poster Award
+  - 2018: Damla Senol Cali, "Accelerating Approximate Pattern Matching with PiM/SIMD Programming"
+
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
