@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "RECOMB-seq 2023 Call for Papers"
-date:   2022-10-17 15:00:00
 isStaticPost: true
 ---
 # RECOMB-seq 2023 Call for Papers
 
-**The 13th RECOMB Satellite Conference on Biological Sequence Analysis (RECOMB-Seq 2023)**, will be held on **14-15 April, 2023 in Istanbul, Turkey**, just before the main RECOMB conference. The conference brings together leading researchers in computational genomics and genomic biology. The emphasis will be on new algorithmic and statistical methods for sequence data analysis, management, and interpretation of sequencing data as well as assembled genomes.
+**The 13th RECOMB Satellite Conference on Biological Sequence Analysis (RECOMB-Seq 2023)** will be held on **14-15 April, 2023 in Istanbul, Turkey**, just before the main RECOMB conference. The conference brings together leading researchers in computational genomics and genomic biology. The emphasis will be on new algorithmic and statistical methods for sequence data analysis, management, and interpretation of sequencing data as well as assembled genomes.
 
 ## Topics of Interest (including but not limited to)
 
