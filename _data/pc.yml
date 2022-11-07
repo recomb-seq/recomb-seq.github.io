@@ -1,0 +1,135 @@
+-
+  id: pc1
+  name: "Vikas"
+  surname: "Bansal"
+  company: "University of California San Diego"
+-
+  id: pc2
+  name: "Christina"
+  surname: "Boucher"
+  company: "University of Florida"
+-
+  id: pc3
+  name: "Rayan"
+  surname: "Chikhi"
+  company: "CNRS"
+-
+  id: pc4
+  name: "Fabio"
+  surname: "Cunial"
+  company: "Max Planck Institute of Molecular Cell Biology and Genetics"
+-
+  id: pc5
+  name: "Dan"
+  surname: "DeBlasio"
+  company: "University of Texas at El Paso"
+-
+  id: pc6
+  name: "Travis"
+  surname: "Gagie"
+  company: "Diego Portales University"
+-
+  id: pc7
+  name: "Shilpa"
+  surname: "Garg"
+  company: "University of Copenhagen"
+-
+  id: pc8
+  name: "Faraz"
+  surname: "Hach"
+  company: "University of British Columbia and Vancouver Prostate Centre"
+-
+  id: pc9
+  name: "Fereydoun"
+  surname: "Hormozdiari"
+  company: "University of Washington"
+-
+  id: pc10
+  name: "Chirag"
+  surname: "Jain"
+  company: "Indian Institute of Science"
+-
+  id: pc11
+  name: "Andre"
+  surname: "Kahles"
+  company: "ETH Zurich"
+-
+  id: pc12
+  name: "Benjamin"
+  surname: "Langmead"
+  company: "Johns Hopkins University"
+-
+  id: pc13
+  name: "Heng"
+  surname: "Li"
+  company: "Harvard University and Dana-Farber Cancer Institute"
+-
+  id: pc14
+  name: "Antoine"
+  surname: "Limasset"
+  company: "CNRS"
+-
+  id: pc15
+  name: "Ruibang"
+  surname: "Luo"
+  company: "The University of Hong Kong"
+-
+  id: pc16
+  name: "Serghei"
+  surname: "Mangul"
+  company: "University of California, Los Angeles"
+-
+  id: pc17
+  name: "Tobias"
+  surname: "Marschall"
+  company: "Saarland University / Max Planck Institute for Informatics"
+-
+  id: pc18
+  name: "Niranjan"
+  surname: "Nagarajan"
+  company: "Genome Institute of Singapore"
+-
+  id: pc19
+  name: "Rob"
+  surname: "Patro"
+  company: "University of Maryland"
+-
+  id: pc20
+  name: "Sven"
+  surname: "Rahmann"
+  company: "Saarland University"
+-
+  id: pc21
+  name: "Kristoffer"
+  surname: "Sahlin"
+  company: "Department of Mathematics, Stockholm University"
+-
+  id: pc22
+  name: "Leena"
+  surname: "Salmela"
+  company: "University of Helsinki"
+-
+  id: pc23
+  name: "Alexander"
+  surname: "Schliep"
+  company: "Gothenburg University"
+-
+  id: pc24
+  name: "Marcel"
+  surname: "Schulz"
+  company: "Goethe University"
+-
+  id: pc25
+  name: "Jouni"
+  surname: "Sirén"
+  company: "University of California, Santa Cruz"
+-
+  id: pc26
+  name: "Sharma V."
+  surname: "Thankachan"
+  company: "University of Central Florida"
+-
+  id: pc27
+  name: "Catherine"
+  surname: "Welsh"
+  company: "Rhodes College"
