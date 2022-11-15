@@ -168,7 +168,7 @@ ticketsOffers:
 socialLinks:
  - {link: "https://twitter.com/recombseq", icon: "twitter"}
 # - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {link: "https://www.youtube.com/channel/UCYdQZ9egzBoszApB4ksjE3g/playlists", icon: "youtube"}
+ - {link: "https://www.youtube.com/@recomb-seq", icon: "youtube"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
