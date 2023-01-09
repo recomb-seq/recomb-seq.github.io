@@ -5,7 +5,7 @@ isStaticPost: true
 ---
 #### RECOMB-seq 2023 Call for Papers
 
-**Note:** The submission deadline was extended until **January 23** (abstract) / **January 30** (full paper).
+**Note:** The submission deadline was extended until **January 23** (abstract) / **January 30** (full paper). The formatting requirements for submissions were relaxed to be the same as at the main RECOMB conference.
 
 
 **The 13th RECOMB Satellite Conference on Biological Sequence Analysis (RECOMB-Seq 2023)** will be held on **14-15 April, 2023 in Istanbul, Turkey**, just before the main RECOMB conference. The conference brings together leading researchers in computational genomics and genomic biology. The emphasis will be on new algorithmic and statistical methods for sequence data analysis, management, and interpretation of sequencing data as well as assembled genomes.
@@ -75,7 +75,7 @@ Reduced Open Access charges for authors in developing countries and others in fi
 
 #### Paper and Abstract Submission Procedures
 
-Manuscripts for the "proceedings track" should not exceed 10 pages using at least 11 point font on U.S. standard 8 1/2 by 11 inch paper with no less than one inch margin all around. This excludes the cover page and references. The cover page should have the title and the corresponding author's email address. An optional short appendix can be included if necessary but reading it will be at the discretion of the program committee. Manuscripts must be submitted electronically in PDF format via the EasyChair system. 
+Manuscripts for the "proceedings track" should not exceed 10 pages using at least 10 point font on U.S. standard 8 1/2 by 11 inch paper with no less than one inch margin all around. This excludes the cover page and references. The cover page should have the title and the corresponding author's email address. An optional short appendix can be included if necessary but reading it will be at the discretion of the program committee. Manuscripts must be submitted electronically in PDF format via the EasyChair system. 
 
 In EasyChair, please select "RECOMBSeq 2023" track within RECOMB conference at https://easychair.org/conferences/?conf=recomb2023.
 
