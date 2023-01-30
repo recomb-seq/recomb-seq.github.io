@@ -28,7 +28,7 @@ isStaticPost: true
 Proceedings and Overlay tracks:
 
 * Abstract registration deadline: **January 23, 2023** 23:59 AoE
-* Submission deadline: **January 30, 2023** 23:59 AoE (updates to existing submissions only)
+* Submission deadline: **January 31, 2023** 23:59 AoE (updates to existing submissions only)
 * Author notification: March 1, 2023
 
 Short talks / Posters
