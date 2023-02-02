@@ -2,10 +2,10 @@
   id: 1
   name: "Shilpa"
   surname: "Garg"
-  company: "Department of Biology, Københavns Universitet, Denmark"
+  company: "Novo Nordisk Foundation Center for Biosustainability, Genomics Sustainable Solutions, Denmark"
   thumbnailUrl: ShilpaGarg2.jpg
   social: 
-    - {name: "site", link: "https://www1.bio.ku.dk/english/staff/?pure=en/persons/708474"}
+    - {name: "site", link: "https://orbit.dtu.dk/en/persons/shilpa-garg"}
 - 
   id: 2
   name: "Gioele"
