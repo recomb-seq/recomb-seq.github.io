@@ -14,6 +14,7 @@ To reflect this, the conference name was changed in 2022 from "RECOMB Satellite 
 You can watch some previous talks of the conference at our [YouTube channel](https://www.youtube.com/@recomb-seq).
 
 #### Program Committee Chairs
+ - 2023: Broňa Brejová and A. Ercüment Çiçek
  - 2022: Ben Langmead
  - 2021: Cinzia Pizzi and Layla Oesper
  - 2020: Leena Salmela and Rob Patro
@@ -28,6 +29,7 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
  - 2011: Can Alkan
 
 #### Conference Venues
+ - 2023: Istanbul, Turkey
  - 2022: San Diego, CA, USA
  - 2021: Padova, Italy (virtual)
  - 2020: Padova, Italy (virtual)
@@ -42,6 +44,7 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
  - 2011: Vancouver, Canada
 
 #### Keynote Speakers:
+ - 2023: Shilpa Garg and Gioele La Manno
  - 2022: Arang Rhie and Siavash Mirarab 
  - 2021: Ben Langmead and Nadia Pisanti
  - 2020: Paola Bonizzoni and Zamin Iqbal
@@ -64,9 +67,11 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
   - S. Cenk Şahinalp
 
 #### Best Paper Award
-  - 2019: Samovar: Single-Sample Mosaic Single-Nucleotide Variant Calling with Linked Reads
+  - 2023: Noor Pratap Singh, Michael I Love and Rob Patro. *TreeTerminus - Creating Transcript Trees Using Inferential Replicate Counts*
+  - 2019: C.A. Darby, J.R. Fitch, P.J. Brennan, B.J. Kelly, N. Bir, V. Magrini, J. Leonard, C.E. Cottrell, J.M. Gastier-Foster, R.K. Wilson, E.R. Mardis, P. White, B. Langmead, M. C. Schatz: *Samovar: Single-Sample Mosaic Single-Nucleotide Variant Calling with Linked Reads*
 
 #### Best Poster Award
-  - 2018: Damla Senol Cali, "Accelerating Approximate Pattern Matching with PiM/SIMD Programming"
+  - 2023: Vikram Shivakumar, Omar Ahmed, Sam Kovaka, Mohsen Zakeri and Ben Langmead. *Sigmoni: Efficient Pangenome Multi-Classification of Nanopore Signal*
+  - 2018: Damla Senol Cali *Accelerating Approximate Pattern Matching with PiM/SIMD Programming*
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
