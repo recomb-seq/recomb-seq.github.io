@@ -1,7 +1,8 @@
 # RECOMB-SEQ Website Template
 
 ### About
-This project is the website template and content used for RECOMB-SEQ, see https://recomb-seq.github.io.
+This project is the website template and content used for RECOMB-SEQ, see the live website at https://recomb-seq.github.io. Some of the unused files were moved to _unused folder; more can be moved as well.
+
 
 This site is based on [Project Zeppelin](https://github.com/gdg-x/zeppelin). Project Zeppelin is built on top of [Jekyll](http://jekyllrb.com/) - simple, blog-aware, static site generator. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your website from GitHub’s servers for free. [Learn more about Jekyll](http://jekyllrb.com/). Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
 
