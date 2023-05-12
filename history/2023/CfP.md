@@ -4,7 +4,7 @@ title:  "RECOMB-seq 2023 Call for Papers"
 isStaticPost: true
 ---
 
-RECOMB-seq 2023: [About](./about.html), [Proceedings](https://www.sciencedirect.com/journal/iscience/special-issue/103F93M98NT), [Program](./program.html), [Keynotes](./speakers.html) [Posters](./posters.html), [Committees](./team.html)
+RECOMB-seq 2023: [About](./about.html), [Proceedings](https://www.sciencedirect.com/journal/iscience/special-issue/103F93M98NT), [Program](./program.html), [Keynotes](./speakers.html), [Posters](./posters.html), [Committees](./team.html)
   
 #### RECOMB-seq 2023 Call for Papers
 
