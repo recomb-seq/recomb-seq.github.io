@@ -29,7 +29,7 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
  - 2011: Can Alkan
 
 #### Conference Venues
- - 2023: Istanbul, Turkey [About](./history/2023/about.html), [Proceedings](https://www.sciencedirect.com/journal/iscience/special-issue/103F93M98NT), [Program](./history/2023/program.html), [Keynotes](./history/2023/speakers.html), [Posters](./history/2023/posters.html), [Call for papers](./history/2023/cfP), [Committees](./history/2023/team.html)
+ - 2023: Istanbul, Turkey [About](./history/2023/about.html), [Proceedings](https://www.sciencedirect.com/journal/iscience/special-issue/103F93M98NT), [Program](./history/2023/program.html), [Keynotes](./history/2023/speakers.html), [Posters](./history/2023/posters.html), [Call for papers](./2023/CfP.html), [Committees](./history/2023/team.html)
  - 2022: San Diego, CA, USA [Website](https://recomb2022.net/recomb-seq/), [Proceedings](https://www.sciencedirect.com/journal/iscience/special-issue/10WWDRTKFT2)
  - 2021: Padova, Italy (virtual) [Proceedings](https://www.sciencedirect.com/journal/iscience/special-issue/10W0FF85C2N)
  - 2020: Padova, Italy (virtual) [Proceedings](https://www.sciencedirect.com/science/journal/25890042/vsi/10RXQZ3KPM1)
