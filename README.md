@@ -1,8 +1,23 @@
 # RECOMB-SEQ Website Template
 
 ### About
-This project is the website template and content used for RECOMB-SEQ, see the live website at https://recomb-seq.github.io. Some of the unused files were moved to _unused folder; more can be moved as well.
+This project is the website template and content used for RECOMB-SEQ, see the live website at https://recomb-seq.github.io. 
 
+#### The main files to edit
+
+* _config.yml: some data such dates, location etc
+* history.md: history page to be updated after the conference
+* history/  : folder with archived information for each year
+* _data/pc.yml: list of PC (perhaps it would be easier to do simply im html)
+* _data/speakers.yml: keynote spekers with bio + abstract, used on two places (keynotes and program)
+* _data/team.yml: PC chairs and SC
+* _includes/about.html: home page with basic info
+* _includes/posters.html: plain html list of posters
+* _includes/schedule-tbd.html: plain html schedule (earlier used to post the list of accepted papers)
+
+Some of the unused files were moved to _unused folder; more can be moved as well.
+
+### Software
 
 This site is based on [Project Zeppelin](https://github.com/gdg-x/zeppelin). Project Zeppelin is built on top of [Jekyll](http://jekyllrb.com/) - simple, blog-aware, static site generator. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your website from GitHub’s servers for free. [Learn more about Jekyll](http://jekyllrb.com/). Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
 
