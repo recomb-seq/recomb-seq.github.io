@@ -25,7 +25,7 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
  - 2015: Niko Beerenwinkel and Jan Korbel
  - 2014: Mihai Pop and Ali Bashir
  - 2013: Haixu Tang and Tao Jiang
- - 2012: Paul Medvedev and Elezar Eskin
+ - 2012: Paul Medvedev and Eleazar Eskin
  - 2011: Can Alkan
 
 #### Conference Venues
