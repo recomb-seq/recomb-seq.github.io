@@ -50,10 +50,10 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "RECOMB-SEQ 2023"
-heroSubTitle: "The 13th RECOMB Satellite Conference on Biological Sequence Analysis"
-eventDate: "April 14-15, 2023"
-eventLocation: "İstanbul, Turkey"
+heroTitle: "RECOMB-SEQ 2024"
+heroSubTitle: "The 14th RECOMB Satellite Conference on Biological Sequence Analysis"
+eventDate: "April 27-28, 2024"
+eventLocation: "Boston, MA, USA"
 #typeoutTextValues: '"2023"'
 #typeoutFallback: "2023"
 heroButtons:
@@ -90,15 +90,15 @@ eventLocationName: "TBD"
 eventLocationLink: "TBD"
 eventStreetAddress: "TBD"
 eventAddressLocality: ""
-eventAddressLocalityRegion: "Istanbul"
+eventAddressLocalityRegion: "Boston"
 eventPostalCode: ""
-eventAddressCountry: "Turkey"
-eventStartTime: "2022-10-25T10:00"
+eventAddressCountry: "United States"
+eventStartTime: "2024-04-27T08:00"
 eventDoorTime: "09:00"
-eventEndTime: "2022-10-25T20:00"
-eventPlaceCoordinates: "41.0053215,29.0121795"
-mapCenterCoordinates: "41.0053215,29.0121795"
-mapMobileCenterCoordinates: "41.0053215,29.0121795"
+eventEndTime: "2024-04-28T18:00"
+eventPlaceCoordinates: "42.3616134,-71.0932104"
+mapCenterCoordinates: "42.3616134,-71.0932104"
+mapMobileCenterCoordinates: "42.3616134,-71.0932104"
 
 # Venue Block
 venueBlockTitle: "Venue"
