@@ -24,7 +24,7 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
  - 2016: Carl Kingsford and Alexander Schoenhuth
  - 2015: Niko Beerenwinkel and Jan Korbel
  - 2014: Mihai Pop and Ali Bashir
- - 2013: Haxiu Tang and Tao Jiang
+ - 2013: Haixu Tang and Tao Jiang
  - 2012: Paul Medvedev and Elezar Eskin
  - 2011: Can Alkan
 
