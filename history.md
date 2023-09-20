@@ -1,6 +1,6 @@
 ---
 layout: post
-title: History of RECOMB-Seq
+title: History of RECOMB-seq
 permalink: /history/
 isStaticPost: true
 ---

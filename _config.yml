@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "RECOMB-Seq Conference"
+title: "RECOMB-seq Conference"
 email: "calkan@gmail.com"
-description: "RECOMB-Seq is the RECOMB Satellite Conference on Biological Sequence Analysis"
+description: "RECOMB-seq is the RECOMB Satellite Conference on Biological Sequence Analysis"
 baseurl: ""
 url: "https://recomb-seq.github.io"
 permalink: "/blog/:title"
@@ -21,8 +21,8 @@ googleAnalyticsSiteUrl: "recomb-seq.github.io"
 siteVerification: ""
 
 # Organizer Info
-organizerName: "RECOMB-Seq"
-organizerAlternateName: "RECOMB-Seq"
+organizerName: "RECOMB-seq"
+organizerAlternateName: "RECOMB-seq"
 organizerDescription: "Algorithm development for analyzing sequence data"
 organizerEmail: "calkan@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
