@@ -14,6 +14,7 @@ To reflect this, the conference name was changed in 2022 from "RECOMB Satellite 
 You can watch some previous talks of the conference at our [YouTube channel](https://www.youtube.com/@recomb-seq).
 
 #### Program Committee Chairs
+ - 2024: Ritambhara Singh and Mingfu Shao 
  - 2023: Broňa Brejová and A. Ercüment Çiçek
  - 2022: Ben Langmead
  - 2021: Cinzia Pizzi and Layla Oesper
@@ -29,6 +30,7 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
  - 2011: Can Alkan
 
 #### Conference Venues
+ - 2024: Boston, MA, USA
  - 2023: Istanbul, Turkey [About](./history/2023/about.html), [Proceedings](https://www.sciencedirect.com/journal/iscience/special-issue/103F93M98NT), [Program](./history/2023/program.html), [Keynotes](./history/2023/speakers.html), [Posters](./history/2023/posters.html), [Call for papers](./2023/CfP.html), [Committees](./history/2023/team.html)
  - 2022: San Diego, CA, USA [Website](https://recomb2022.net/recomb-seq/), [Proceedings](https://www.sciencedirect.com/journal/iscience/special-issue/10WWDRTKFT2)
  - 2021: Padova, Italy (virtual) [Proceedings](https://www.sciencedirect.com/journal/iscience/special-issue/10W0FF85C2N)
