@@ -61,20 +61,39 @@
     - {name: "site", link: "https://homepages.cwi.nl/~as/"}
 - 
   id: 5
-  name: "Broňa"
-  surname: "Brejová"
+  name: "Ritambhara"
+  surname: "Singh"
   title: "Program Committee Chair"
-  thumbnailUrl: BronaBrejova.jpg
+  thumbnailUrl: RitambharaSingh.jpg
   subTeam: true
   social: 
-    - {name: "site", link: "http://compbio.fmph.uniba.sk/~bbrejova/"}
+    - {name: "site", link: "https://rsinghlab.org"}
 - 
   id: 6
-  name: "A. Ercüment"
-  surname: "Çiçek"
+  name: "Mingfu"
+  surname: "Shao"
   title: "Program Committee Chair"
-  thumbnailUrl: ErcumentCicek.jpg
+  thumbnailUrl: MingfuShao.jpg
   subTeam: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/crashius"}
-    - {name: "site", link: "http://ciceklab.cs.bilkent.edu.tr/"}
+    - {name: "twitter", link: "https://twitter.com/shaomingfu"}
+    - {name: "site", link: "https://sites.psu.edu/mxs2589/"}
+#- 
+#  id: 5
+#  name: "Broňa"
+#  surname: "Brejová"
+#  title: "Program Committee Chair"
+#  thumbnailUrl: BronaBrejova.jpg
+#  subTeam: true
+#  social: 
+#    - {name: "site", link: "http://compbio.fmph.uniba.sk/~bbrejova/"}
+#- 
+#  id: 6
+#  name: "A. Ercüment"
+#  surname: "Çiçek"
+#  title: "Program Committee Chair"
+#  thumbnailUrl: ErcumentCicek.jpg
+#  subTeam: true
+#  social: 
+#    - {name: "twitter", link: "https://twitter.com/crashius"}
+#    - {name: "site", link: "http://ciceklab.cs.bilkent.edu.tr/"}
