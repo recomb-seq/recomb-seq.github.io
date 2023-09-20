@@ -38,7 +38,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/papers/", text: "Call for contributions"}
+ - {permalink: "/papers/", text: "Call for Contributions"}
  - {permalink: "/team/", text: "Committees"}
  - {permalink: "/speakers/", text: "Keynote Speakers"}
  - {permalink: "/program/", text: "Program"}
