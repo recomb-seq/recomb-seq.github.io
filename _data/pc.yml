@@ -1,150 +1,154 @@
 -
   id: pc1
-  name: "Vikas"
-  surname: "Bansal"
-  company: "University of California San Diego"
--
-  id: pc2
-  name: "Christina"
-  surname: "Boucher"
-  company: "University of Florida"
--
-  id: pc3
-  name: "Rayan"
-  surname: "Chikhi"
-  company: "CNRS"
--
-  id: pc4
-  name: "Fabio"
-  surname: "Cunial"
-  company: "Broad Institute"
--
-  id: pc5
-  name: "Dan"
-  surname: "DeBlasio"
-  company: "University of Texas at El Paso"
--
-  id: pc6
-  name: "Jan"
-  surname: "Fostier"
-  company: "Ghent University"
--
-  id: pc7
-  name: "Travis"
-  surname: "Gagie"
-  company: "Dalhousie University"
--
-  id: pc8
-  name: "Shilpa"
-  surname: "Garg"
-  company: "University of Copenhagen"
--
-  id: pc9
-  name: "Faraz"
-  surname: "Hach"
-  company: "University of British Columbia and Vancouver Prostate Centre"
--
-  id: pc10
-  name: "Fereydoun"
-  surname: "Hormozdiari"
-  company: "University of Washington"
--
-  id: pc11
-  name: "Chirag"
-  surname: "Jain"
-  company: "Indian Institute of Science"
--
-  id: pc12
-  name: "Andre"
-  surname: "Kahles"
-  company: "ETH Zurich"
--
-  id: pc13
-  name: "Benjamin"
-  surname: "Langmead"
-  company: "Johns Hopkins University"
--
-  id: pc14
-  name: "Heng"
-  surname: "Li"
-  company: "Harvard University and Dana-Farber Cancer Institute"
--
-  id: pc15
-  name: "Antoine"
-  surname: "Limasset"
-  company: "CNRS"
--
-  id: pc16
-  name: "Ruibang"
-  surname: "Luo"
-  company: "The University of Hong Kong"
--
-  id: pc17
-  name: "Serghei"
-  surname: "Mangul"
-  company: "University of California, Los Angeles"
--
-  id: pc18
-  name: "Tobias"
-  surname: "Marschall"
-  company: "Saarland University / Max Planck Institute for Informatics"
--
-  id: pc19
-  name: "Niranjan"
-  surname: "Nagarajan"
-  company: "Genome Institute of Singapore"
--
-  id: pc20
-  name: "Rob"
-  surname: "Patro"
-  company: "University of Maryland"
--
-  id: pc21
-  name: "Giulio Ermanno"
-  surname: "Pibiri"
-  company: "Ca’ Foscari University of Venice"
--
-  id: pc22
-  name: "Sven"
-  surname: "Rahmann"
-  company: "Saarland University"
--
-  id: pc23
-  name: "Kristoffer"
-  surname: "Sahlin"
-  company: "Department of Mathematics, Stockholm University"
--
-  id: pc24
-  name: "Leena"
-  surname: "Salmela"
-  company: "University of Helsinki"
--
-  id: pc25
-  name: "Alexander"
-  surname: "Schliep"
-  company: "Gothenburg University"
--
-  id: pc26
-  name: "Marcel"
-  surname: "Schulz"
-  company: "Goethe University"
--
-  id: pc27
-  name: "Jouni"
-  surname: "Sirén"
-  company: "University of California, Santa Cruz"
--
-  id: pc29
-  name: "Sharma V."
-  surname: "Thankachan"
-  company: "University of Central Florida"
--
-  id: pc30
-  name: "Xiaowo"
-  surname: "Wang"
-  company: "Tsinghua University"
--
-  id: pc31
-  name: "Catherine"
-  surname: "Welsh"
-  company: "Rhodes College"
+  name: "coming soon"
+
+#-
+#  id: pc1
+#  name: "Vikas"
+#  surname: "Bansal"
+#  company: "University of California San Diego"
+#-
+#  id: pc2
+#  name: "Christina"
+#  surname: "Boucher"
+#  company: "University of Florida"
+#-
+#  id: pc3
+#  name: "Rayan"
+#  surname: "Chikhi"
+#  company: "CNRS"
+#-
+#  id: pc4
+#  name: "Fabio"
+#  surname: "Cunial"
+#  company: "Broad Institute"
+#-
+#  id: pc5
+#  name: "Dan"
+#  surname: "DeBlasio"
+#  company: "University of Texas at El Paso"
+#-
+#  id: pc6
+#  name: "Jan"
+#  surname: "Fostier"
+#  company: "Ghent University"
+#-
+#  id: pc7
+#  name: "Travis"
+#  surname: "Gagie"
+#  company: "Dalhousie University"
+#-
+#  id: pc8
+#  name: "Shilpa"
+#  surname: "Garg"
+#  company: "University of Copenhagen"
+#-
+#  id: pc9
+#  name: "Faraz"
+#  surname: "Hach"
+#  company: "University of British Columbia and Vancouver Prostate Centre"
+#-
+#  id: pc10
+#  name: "Fereydoun"
+#  surname: "Hormozdiari"
+#  company: "University of Washington"
+#-
+#  id: pc11
+#  name: "Chirag"
+#  surname: "Jain"
+#  company: "Indian Institute of Science"
+#-
+#  id: pc12
+#  name: "Andre"
+#  surname: "Kahles"
+#  company: "ETH Zurich"
+#-
+#  id: pc13
+#  name: "Benjamin"
+#  surname: "Langmead"
+#  company: "Johns Hopkins University"
+#-
+#  id: pc14
+#  name: "Heng"
+#  surname: "Li"
+#  company: "Harvard University and Dana-Farber Cancer Institute"
+#-
+#  id: pc15
+#  name: "Antoine"
+#  surname: "Limasset"
+#  company: "CNRS"
+#-
+#  id: pc16
+#  name: "Ruibang"
+#  surname: "Luo"
+#  company: "The University of Hong Kong"
+#-
+#  id: pc17
+#  name: "Serghei"
+#  surname: "Mangul"
+#  company: "University of California, Los Angeles"
+#-
+#  id: pc18
+#  name: "Tobias"
+#  surname: "Marschall"
+#  company: "Saarland University / Max Planck Institute for Informatics"
+#-
+#  id: pc19
+#  name: "Niranjan"
+#  surname: "Nagarajan"
+#  company: "Genome Institute of Singapore"
+#-
+#  id: pc20
+#  name: "Rob"
+#  surname: "Patro"
+#  company: "University of Maryland"
+#-
+#  id: pc21
+#  name: "Giulio Ermanno"
+#  surname: "Pibiri"
+#  company: "Ca’ Foscari University of Venice"
+#-
+#  id: pc22
+#  name: "Sven"
+#  surname: "Rahmann"
+#  company: "Saarland University"
+#-
+#  id: pc23
+#  name: "Kristoffer"
+#  surname: "Sahlin"
+#  company: "Department of Mathematics, Stockholm University"
+#-
+#  id: pc24
+#  name: "Leena"
+#  surname: "Salmela"
+#  company: "University of Helsinki"
+#-
+#  id: pc25
+#  name: "Alexander"
+#  surname: "Schliep"
+#  company: "Gothenburg University"
+#-
+#  id: pc26
+#  name: "Marcel"
+#  surname: "Schulz"
+#  company: "Goethe University"
+#-
+#  id: pc27
+#  name: "Jouni"
+#  surname: "Sirén"
+#  company: "University of California, Santa Cruz"
+#-
+#  id: pc29
+#  name: "Sharma V."
+#  surname: "Thankachan"
+#  company: "University of Central Florida"
+#-
+#  id: pc30
+#  name: "Xiaowo"
+#  surname: "Wang"
+#  company: "Tsinghua University"
+#-
+#  id: pc31
+#  name: "Catherine"
+#  surname: "Welsh"
+#  company: "Rhodes College"
