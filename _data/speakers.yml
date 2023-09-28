@@ -14,7 +14,8 @@
   id: 2
   name: "Mona"
   surname: "Singh"
-  company: "Lewis-Sigler Institute for Integrative Genomics, Department of Computer Science, Princeton University"
+#company: "Lewis-Sigler Institute for Integrative Genomics, Department of Computer Science, Princeton University"
+  company: "Princeton University"
   thumbnailUrl: MonaSingh.jpeg
   title: "TBA"
   abstract: "<p>TBA</p>"
