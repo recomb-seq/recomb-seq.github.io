@@ -46,6 +46,7 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
  - 2011: Vancouver, Canada
 
 #### Keynote Speakers:
+ - 2024: Mona Singh and Heng Li 
  - 2023: Shilpa Garg and Gioele La Manno
  - 2022: Arang Rhie and Siavash Mirarab 
  - 2021: Ben Langmead and Nadia Pisanti
