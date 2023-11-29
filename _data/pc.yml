@@ -176,7 +176,7 @@
   id: pc30
   name: "Jian"
   surname: "Ma"
-  company: "Carnegie Mellon University (RECOMB 2024 program chair)"
+  company: "Carnegie Mellon University"
 
 -
   id: pc31
@@ -222,103 +222,103 @@
 
 -
   id: pc38
+  name: "Rob"
+  surname: "Patro"
+  company: "University of Maryland"
+
+-
+  id: pc39
   name: "Giulio Ermanno"
   surname: "Pibiri"
   company: "Ca’ Foscari University of Venice"
 
 -
-  id: pc39
+  id: pc40
   name: "Vaibhav"
   surname: "Ragan"
   company: "National University of Singapore"
 
 -
-  id: pc40
+  id: pc41
   name: "Sven"
   surname: "Rahmann"
   company: "Saarland University"
 
 -
-  id: pc41
+  id: pc42
   name: "Kristoffer"
   surname: "Sahlin"
   company: "Stockholm University"
 
 -
-  id: pc42
+  id: pc43
   name: "Alexander"
   surname: "Schliep"
   company: "Gothenburg University"
 
 -
-  id: pc43
+  id: pc44
   name: "Marcel"
   surname: "Schulz"
   company: "Goethe University"
 
 -
-  id: pc44
+  id: pc45
   name: "Mingfu"
   surname: "Shao"
-  company: "The Pennsylvania State University (RECOMB-seq 2024 co-chair)"
-
--
-  id: pc45
-  name: "Ritambhara"
-  surname: "Singh"
-  company: "Brown University (RECOMB-seq 2024 co-chair)"
+  company: "The Pennsylvania State University"
 
 -
   id: pc46
+  name: "Ritambhara"
+  surname: "Singh"
+  company: "Brown University"
+
+-
+  id: pc47
   name: "Jouni"
   surname: "Sirén"
   company: "University of California, Santa Cruz"
 
 -
-  id: pc47
+  id: pc48
   name: "Yanni"
   surname: "Sun"
   company: "City University of Hong Kong"
 
 -
-  id: pc48
+  id: pc49
   name: "Krister"
   surname: "Swenson"
   company: "Université Montpellier"
 
 -
-  id: pc49
+  id: pc50
   name: "Sharma V."
   surname: "Thankachan"
   company: "University of Central Florida"
 
 -
-  id: pc50
+  id: pc51
   name: "Alexandru"
   surname: "Tomescu"
   company: "University of Helsinki"
 
 -
-  id: pc51
+  id: pc52
   name: "Fillippo "
   surname: "Utro"
   company: "IBM Research"
 
 -
-  id: pc52
+  id: pc53
   name: "Lucia "
   surname: "Williams"
   company: "Montana State University"
 
 -
-  id: pc53
+  id: pc54
   name: "William"
   surname: "Yu"
   company: "Carnegie Mellon University"
-
--
-  id: pc54
-  name: "Xiuwei"
-  surname: "Zhang"
-  company: "Georgia Institute of Technology"
 
