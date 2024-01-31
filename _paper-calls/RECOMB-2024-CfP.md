@@ -22,10 +22,10 @@ The 14th RECOMB Satellite Conference on Biological Sequence Analysis (RECOMB-seq
 
 #### Key Dates
 
-Proceedings and Overlay tracks:
+Proceedings and Overlay tracks
 
- * Abstract registration deadline: January 30, 2024 at 23:59 AoE
- * Submission deadline: February 06, 2024 at 23:59 AoE (updates to existing submissions only)
+ * Abstract registration deadline: **February 06, 2024** at 23:59 AoE
+ * Submission deadline: **February 13, 2024** at 23:59 AoE (updates to existing registered abstracts only)
  * Author notification: March 12, 2024
 
 Short talks / Posters
