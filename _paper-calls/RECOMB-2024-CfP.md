@@ -3,6 +3,15 @@ layout: post
 title:  "RECOMB-seq 2024 Call for Papers"
 isStaticPost: true
 ---
+#### NEW UPDATE: RECOMB-seq 2024 Call for Posters 
+
+ * Abstract submission deadline: March 26, 2024 at 23:59 AoE
+ * Authors will be notified shortly after submission
+
+Regular abstracts describing original work, including software applications. These will be considered for short oral presentations or posters. A 1-2 page abstract describing the methods and key results should be submitted via the EasyChair system. Please include “[Posters]” at the end of the paper title.
+
+---
+
 #### RECOMB-seq 2024 Call for Papers 
 
 The 14th RECOMB Satellite Conference on Biological Sequence Analysis (RECOMB-seq 2024) will be held on 27-28 April 2024 in Boston, USA, just before the main RECOMB conference. The conference brings together leading researchers in computational genomics and genomic biology. The emphasis will be on new algorithmic and statistical methods for the analysis, management, inference, and interpretation of sequencing data as well as assembled genomes.
