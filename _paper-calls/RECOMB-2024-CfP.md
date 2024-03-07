@@ -10,6 +10,8 @@ isStaticPost: true
 
 Regular abstracts describing original work, including software applications. These will be considered for short oral presentations or posters. A 1-2 page abstract describing the methods and key results should be submitted via the EasyChair system. Please include “[Posters]” at the end of the paper title.
 
+In EasyChair, please select “RECOMB-seq 2024” track when you click “New Submission” in the “author” portal within the RECOMB conference at https://easychair.org/conferences/?conf=recomb2024.
+
 ---
 
 #### RECOMB-seq 2024 Call for Papers 
