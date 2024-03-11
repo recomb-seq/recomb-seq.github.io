@@ -3,7 +3,7 @@ layout: post
 title:  "RECOMB-seq 2024 Call for Papers"
 isStaticPost: true
 ---
-#### NEW UPDATE: RECOMB-seq 2024 Call for Posters 
+#### NEW UPDATE: RECOMB-seq 2024 Call for Posters / Short Talks
 
  * Abstract submission deadline: **March 26**, 2024 at 23:59 AoE
  * Authors will be notified shortly after submission
