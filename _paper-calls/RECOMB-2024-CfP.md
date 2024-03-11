@@ -5,7 +5,7 @@ isStaticPost: true
 ---
 #### NEW UPDATE: RECOMB-seq 2024 Call for Posters 
 
- * Abstract submission deadline: March 26, 2024 at 23:59 AoE
+ * Abstract submission deadline: **March 26**, 2024 at 23:59 AoE
  * Authors will be notified shortly after submission
 
 Regular abstracts describing original work, including software applications. These will be considered for short oral presentations or posters. A 1-2 page abstract describing the methods and key results should be submitted via the EasyChair system. Please include “[Posters]” at the end of the paper title.
@@ -39,9 +39,9 @@ Proceedings and Overlay tracks
  * Submission deadline: **February 13, 2024** at 23:59 AoE (updates to existing registered abstracts only)
  * Author notification: March 12, 2024
 
-Short talks / Posters
+Short talks / Posters (please see "NEW UPDATE" at the top of this page)
 
- * Abstract submission deadline: March 26, 2024 at 23:59 AoE
+ * Abstract submission deadline: **March 26**, 2024 at 23:59 AoE
  * Authors will be notified shortly after submission
 
 #### Tracks
