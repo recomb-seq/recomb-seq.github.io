@@ -8,9 +8,9 @@ isStaticPost: true
  * Abstract submission deadline: **March 26**, 2024 at 23:59 AoE
  * Authors will be notified shortly after submission
 
-Regular abstracts describing original work, including software applications. These will be considered for short oral presentations or posters. A 1-2 page abstract describing the methods and key results should be submitted via the EasyChair system. Please include “[Posters]” at the end of the paper title.
+Regular abstracts describing original work, including software applications. These will be considered for short oral presentations or posters. A 1-2 page abstract describing the methods and key results should be submitted via the EasyChair system. Please include “[Posters / Short talks]” at the end of the abstract title.
 
-In EasyChair, please select “RECOMB-seq 2024” track when you click “New Submission” in the “author” portal within the RECOMB conference at https://easychair.org/conferences/?conf=recomb2024.
+In EasyChair, please select “RECOMB-seq 2024” track when you click “New Submission” in the “author” portal within the RECOMB conference at https://easychair.org/conferences/?conf=recomb2024. (It is the same track with Proceedings/Overlay submissions.)
 
 ---
 
