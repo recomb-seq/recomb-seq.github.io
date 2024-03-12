@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Program of RECOMB-seq 2024"
+permalink: /program/
 isStaticPost: true
 ---
 
