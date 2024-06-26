@@ -12,9 +12,9 @@ This project is the website template and content used for RECOMB-SEQ, see the li
 * _data/speakers.yml: keynote spekers with bio + abstract, used on two places (keynotes and program)
 * _data/team.yml: PC chairs and SC
 * _includes/about.html: home page with basic info
-* _includes/posters.html: plain html list of posters
+* _includes/posters.html: plain html list of posters (this file was not used by RECOMB-seq 2024)
 * _includes/schedule-tbd.html: plain html schedule (earlier used to post the list of accepted papers; NOTE: the file used for RECOMB-seq 2024 is _includes/schedule2024.html; this file name is specified in schedule.html)
-* the file for CfP used by RECOMB-seq 2024 is _paper-calls/RECOMB-2024-CfP.md
+* CfP used by RECOMB-seq 2024 locates at _paper-calls/RECOMB-2024-CfP.md
 
 Some of the unused files were moved to _unused folder; more can be moved as well.
 
