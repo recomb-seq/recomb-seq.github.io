@@ -1,0 +1,17 @@
+---
+layout: default
+title: Keynote Speakers
+permalink: /speakers/
+modal: all
+---
+
+{% include top-section.html %}
+{%- comment -%}
+{% include speakers-tbd.html %}
+Commented out until speakers are determined.
+{%- endcomment -%}
+{% if site.showSessions %}
+    {% include speakers-list.html %}
+{% else %}
+    {% include speakers-list-2.html %}
+{% endif %}
