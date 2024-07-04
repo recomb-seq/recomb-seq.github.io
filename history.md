@@ -30,7 +30,7 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
  - 2011: Can Alkan
 
 #### Conference Venues
- - 2024: Boston, MA, USA
+ - 2024: Boston, MA, USA [About](./history/2024/about.html), [Program/Accepted Papers](./history/2024/schedule2024.html), [Keynotes](./history/2024/speakers.html), [Call for Papers](./2024/RECOMB-2024-CfP.md), [Committees](./history/2024/team.yml)
  - 2023: Istanbul, Turkey [About](./history/2023/about.html), [Proceedings](https://www.sciencedirect.com/journal/iscience/special-issue/103F93M98NT), [Program](./history/2023/program.html), [Keynotes](./history/2023/speakers.html), [Posters](./history/2023/posters.html), [Call for papers](./2023/CfP.html), [Committees](./history/2023/team.html)
  - 2022: San Diego, CA, USA [Website](https://recomb2022.net/recomb-seq/), [Proceedings](https://www.sciencedirect.com/journal/iscience/special-issue/10WWDRTKFT2)
  - 2021: Padova, Italy (virtual) [Proceedings](https://www.sciencedirect.com/journal/iscience/special-issue/10W0FF85C2N)
