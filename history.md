@@ -13,6 +13,22 @@ To reflect this, the conference name was changed in 2022 from "RECOMB Satellite 
                 
 You can watch some previous talks of the conference at our [YouTube channel](https://www.youtube.com/@recomb-seq).
 
+#### Previous iterations
+ - 2024: Boston, MA, USA [About](./history/2024/about.html), [Program & Accepted Papers/Posters](./history/2024/schedule.html), [Keynotes](./history/2024/speakers.html), [Call for Papers](./2024/RECOMB-2024-CfP.html), [Committees](./history/2024/team.html)
+ - 2023: Istanbul, Turkey [About](./history/2023/about.html), [Proceedings](https://www.sciencedirect.com/journal/iscience/special-issue/103F93M98NT), [Program](./history/2023/program.html), [Keynotes](./history/2023/speakers.html), [Posters](./history/2023/posters.html), [Call for papers](./2023/CfP.html), [Committees](./history/2023/team.html)
+ - 2022: San Diego, CA, USA [Website](https://recomb2022.net/recomb-seq/), [Proceedings](https://www.sciencedirect.com/journal/iscience/special-issue/10WWDRTKFT2)
+ - 2021: Padova, Italy (virtual) [Proceedings](https://www.sciencedirect.com/journal/iscience/special-issue/10W0FF85C2N)
+ - 2020: Padova, Italy (virtual) [Proceedings](https://www.sciencedirect.com/science/journal/25890042/vsi/10RXQZ3KPM1)
+ - 2019: Washington DC, USA
+ - 2018: Paris, France
+ - 2017: Hong Kong, China [Website](https://cb.csail.mit.edu/cb/recomb2017/recomb-seq.html)
+ - 2016: Los Angeles, CA, USA
+ - 2015: Warsaw, Poland
+ - 2014: Pittsburgh, PA, USA
+ - 2013: Beijing, China
+ - 2012: Barcelona. Spain
+ - 2011: Vancouver, Canada
+
 #### Program Committee Chairs
  - 2024: Ritambhara Singh and Mingfu Shao 
  - 2023: Broňa Brejová and A. Ercüment Çiçek
@@ -28,22 +44,6 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
  - 2013: Haixu Tang and Tao Jiang
  - 2012: Paul Medvedev and Eleazar Eskin
  - 2011: Can Alkan
-
-#### Conference Venues
- - 2024: Boston, MA, USA [About](./history/2024/about.html), [Program & Accepted Papers/Posters](./history/2024/schedule.html), [Keynotes](./history/2024/speakers.html), [Call for Papers](./2024/RECOMB-2024-CfP.html), [Committees](./history/2024/team.html)
- - 2023: Istanbul, Turkey [About](./history/2023/about.html), [Proceedings](https://www.sciencedirect.com/journal/iscience/special-issue/103F93M98NT), [Program](./history/2023/program.html), [Keynotes](./history/2023/speakers.html), [Posters](./history/2023/posters.html), [Call for papers](./2023/CfP.html), [Committees](./history/2023/team.html)
- - 2022: San Diego, CA, USA [Website](https://recomb2022.net/recomb-seq/), [Proceedings](https://www.sciencedirect.com/journal/iscience/special-issue/10WWDRTKFT2)
- - 2021: Padova, Italy (virtual) [Proceedings](https://www.sciencedirect.com/journal/iscience/special-issue/10W0FF85C2N)
- - 2020: Padova, Italy (virtual) [Proceedings](https://www.sciencedirect.com/science/journal/25890042/vsi/10RXQZ3KPM1)
- - 2019: Washington DC, USA
- - 2018: Paris, France
- - 2017: Hong Kong, China [Website](https://cb.csail.mit.edu/cb/recomb2017/recomb-seq.html)
- - 2016: Los Angeles, CA, USA
- - 2015: Warsaw, Poland
- - 2014: Pittsburgh, PA, USA
- - 2013: Beijing, China
- - 2012: Barcelona. Spain
- - 2011: Vancouver, Canada
 
 #### Keynote Speakers:
  - 2024: Mona Singh and Heng Li 
