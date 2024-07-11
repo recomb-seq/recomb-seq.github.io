@@ -50,10 +50,10 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "RECOMB-SEQ 2024"
-heroSubTitle: "The 14th RECOMB Satellite Conference on Biological Sequence Analysis"
-eventDate: "April 27-28, 2024"
-eventLocation: "Boston, MA, USA"
+heroTitle: "RECOMB-SEQ 2025"
+heroSubTitle: "The 15th RECOMB Satellite Conference on Biological Sequence Analysis"
+eventDate: "April 24-25, 2025"
+eventLocation: "Seoul, South Korea"
 #typeoutTextValues: '"2023"'
 #typeoutFallback: "2023"
 heroButtons:
@@ -90,15 +90,15 @@ eventLocationName: "TBD"
 eventLocationLink: "TBD"
 eventStreetAddress: "TBD"
 eventAddressLocality: ""
-eventAddressLocalityRegion: "Boston"
+eventAddressLocalityRegion: "Seoul"
 eventPostalCode: ""
-eventAddressCountry: "United States"
-eventStartTime: "2024-04-27T08:00"
+eventAddressCountry: "South Korea"
+eventStartTime: "2025-04-24T08:00"
 eventDoorTime: "09:00"
-eventEndTime: "2024-04-28T18:00"
-eventPlaceCoordinates: "42.3616134,-71.0932104"
-mapCenterCoordinates: "42.3616134,-71.0932104"
-mapMobileCenterCoordinates: "42.3616134,-71.0932104"
+eventEndTime: "2025-04-25T18:00"
+eventPlaceCoordinates: "37.5617613,126.9353254"
+mapCenterCoordinates: "37.5617613,126.9353254"
+mapMobileCenterCoordinates: "37.5617613,126.9353254"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -116,53 +116,6 @@ twitterHashTag: "recombseq"
 twitterFeed: " https://twitter.com/recombseq"
 
 
-# Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
-
-# Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
-ticketsOffers:
- -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
