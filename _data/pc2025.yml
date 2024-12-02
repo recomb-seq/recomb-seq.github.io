@@ -14,7 +14,7 @@
   id: pc3
   name: "Brona"
   surname: "Brejova"
-  company: "Comenius University, Bratislava"
+  company: "Comenius University, Bratislava, Slovakia"
 
 - 
   id: pc4
@@ -123,3 +123,15 @@
   name: "Yun William"
   surname: "Yu"
   company: "Carnegie Mellon University, US"
+
+- 
+  id: pc22
+  name: "John"
+  surname: "Lees"
+  company: "European Bioinformatics Institute, UK"
+  
+- 
+  id: pc23
+  name: "Shuai-Cheng "
+  surname: "Li"
+  company: "University of Hong Kong"
