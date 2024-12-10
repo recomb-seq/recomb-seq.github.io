@@ -46,7 +46,7 @@ To indicate your submission should be considered for the proceedings track, plea
 
 ##### Overlay Track
 
-Manuscripts submitted to this track will be reviewed by the program committee, and selected submissions will be invited for oral presentation. The manuscript should be hosted on a public preprint server (bioRxiv, arXiv, etc.) at the time of submission. There are no specific formatting requirements, but the paper should generally be formatted in a way that emphasizes the methodological contributions. We also encourage authors to keep the manuscripts within similar length limits as for the proceedings track. Manuscripts can be submitted elsewhere at the same time but should not be published or in press at the time of submission. For manuscripts that are in press or published, please consider the Highlights track of the main RECOMB conference.
+Manuscripts submitted to this track will be reviewed by the program committee, and selected submissions will be invited for oral presentation. The manuscript should be hosted on a public preprint server (bioRxiv, arXiv, etc.) at the time of submission. There are no specific formatting requirements, but the paper should generally be formatted in a way that emphasizes the methodological contributions. We also encourage authors to keep the manuscripts within similar length limits as for the proceedings track. Manuscripts can be submitted elsewhere at the same time but should not be published or in press at the time of submission, and authors will be required to post their manuscripts on a public preprint server (bioRxiv, arXiv, etc.) prior to the conference. For manuscripts that are in press or published, please consider the Highlights track of the main RECOMB conference.
 
 To indicate your submission should be considered for the overlay track, please include “[Overlay]” at the end of the paper title.
 
@@ -67,7 +67,7 @@ In addition to the program committee of RECOMB-seq, editors of iScience will eva
  * Do biological data support the study?
  * Is biological variability sufficiently accounted for?
 
-Authors who do not wish their manuscript to be considered for iScience should use the overlay track for submission. Publication in iScience is subject to an Open Access charge of approximately $1500 (a 50% discounted rate for the conference proceedings). Reduced Open Access charges for authors in developing countries and others in financial hardship are available.
+Authors who do not wish their manuscript to be considered for iScience should use the overlay track for submission. Publication in iScience is subject to an Open Access charge.
 
 #### Paper and Abstract Submission Procedures
 
