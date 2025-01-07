@@ -61,39 +61,24 @@
     - {name: "site", link: "https://homepages.cwi.nl/~as/"}
 - 
   id: 5
-  name: "Ritambhara"
-  surname: "Singh"
+  name: "Camille"
+  surname: "Marchet"
   title: "Program Committee Chair"
-  thumbnailUrl: RitambharaSingh.jpg
+  thumbnailUrl: CamilleMarchet.jpg
   subTeam: true
   social: 
-    - {name: "site", link: "https://rsinghlab.org"}
+    - {name: "twitter", link: "https://twitter.com/CamilleMrcht"}
+    - {name: "github", link: "https://github.com/kamimrcht"}
+    - {name: "site", link: "https://kamimrcht.github.io/webpage/"}
 - 
   id: 6
-  name: "Mingfu"
-  surname: "Shao"
+  name: "Yaron"
+  surname: "Orenstein"
   title: "Program Committee Chair"
-  thumbnailUrl: MingfuShao.jpg
+  thumbnailUrl: YaronOrenstein.jpg
   subTeam: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/shaomingfu"}
-    - {name: "site", link: "https://sites.psu.edu/mxs2589/"}
-#- 
-#  id: 5
-#  name: "Broňa"
-#  surname: "Brejová"
-#  title: "Program Committee Chair"
-#  thumbnailUrl: BronaBrejova.jpg
-#  subTeam: true
-#  social: 
-#    - {name: "site", link: "http://compbio.fmph.uniba.sk/~bbrejova/"}
-#- 
-#  id: 6
-#  name: "A. Ercüment"
-#  surname: "Çiçek"
-#  title: "Program Committee Chair"
-#  thumbnailUrl: ErcumentCicek.jpg
-#  subTeam: true
-#  social: 
-#    - {name: "twitter", link: "https://twitter.com/crashius"}
-#    - {name: "site", link: "http://ciceklab.cs.bilkent.edu.tr/"}
+    - {name: "twitter", link: "https://twitter.com/OrensteinYaron"}
+    - {name: "github", link: "https://github.com/OrensteinLab"}
+    - {name: "site", link: "https://yorenstein.wixsite.com/orensteinlab"}
+

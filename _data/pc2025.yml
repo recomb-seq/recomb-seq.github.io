@@ -1,0 +1,137 @@
+- 
+  id: pc1
+  name: "Amatur"
+  surname: "Rahman"
+  company: "The Pennsylvania State University, US"
+
+- 
+  id: pc2
+  name: "Andre"
+  surname: "Kahles"
+  company: "ETH, Switzerland"
+
+- 
+  id: pc3
+  name: "Brona"
+  surname: "Brejova"
+  company: "Comenius University, Bratislava, Slovakia"
+
+- 
+  id: pc4
+  name: "Giulio"
+  surname: "Pibiri"
+  company: "Ca' Foscari University of Venice, Italy"
+
+- 
+  id: pc5
+  name: "Jarno"
+  surname: "Alanko"
+  company: "University of Helsinki, Finland"
+
+- 
+  id: pc6
+  name: "Leena"
+  surname: "Salmela"
+  company: "University of Helsinki, Finland"
+
+- 
+  id: pc7
+  name: "Luiz"
+  surname: "Irber"
+  company: "UC Davis, US"
+
+- 
+  id: pc8
+  name: "Marcel"
+  surname: "Schulz"
+  company: "Goethe University and Uniklinikum, Frankfurt, Germany"
+
+- 
+  id: pc9
+  name: "Niranjan"
+  surname: "Nagarajan"
+  company: "Genome Institute of Singapore"
+
+- 
+  id: pc10
+  name: "Raluca"
+  surname: "Uricaru"
+  company: "University of Bordeaux, France"
+
+- 
+  id: pc11
+  name: "Sandra"
+  surname: "Smit"
+  company: "Wageningen University, Netherlands"
+
+- 
+  id: pc12
+  name: "Serghei"
+  surname: "Mangul"
+  company: "University of Southern California, US"
+
+- 
+  id: pc13
+  name: "Sven"
+  surname: "Rahmann"
+  company: "Saarland University, Germany"
+
+- 
+  id: pc14
+  name: "Tatiana"
+  surname: "Starikovskaya"
+  company: "ENS Paris, France"
+
+- 
+  id: pc15
+  name: "Tobias"
+  surname: "Marschall"
+  company: "Heinrich Heine University, Germany"
+
+- 
+  id: pc16
+  name: "Victoria"
+  surname: "Popic"
+  company: "Broad Institute, US"
+
+- 
+  id: pc17
+  name: "Wei"
+  surname: "Shen"
+  company: "Chongqing Medical University, China"
+
+- 
+  id: pc18
+  name: "Zhang"
+  surname: "Zhang"
+  company: "Beijing Institute of Genomics, China"
+
+- 
+  id: pc19
+  name: "Kristoffer"
+  surname: "Sahlin"
+  company: "Stockholm University, Sweden"
+
+- 
+  id: pc20
+  name: "Camila"
+  surname: "Duitama"
+  company: "Pasteur Institute, France"
+
+- 
+  id: pc21
+  name: "Yun William"
+  surname: "Yu"
+  company: "Carnegie Mellon University, US"
+
+- 
+  id: pc22
+  name: "John"
+  surname: "Lees"
+  company: "European Bioinformatics Institute, UK"
+  
+- 
+  id: pc23
+  name: "Shuai-Cheng "
+  surname: "Li"
+  company: "University of Hong Kong"
