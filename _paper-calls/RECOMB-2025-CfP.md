@@ -23,11 +23,11 @@ The 15th RECOMB Satellite Conference on Biological Sequence Analysis (RECOMB-seq
 
 #### Key Dates
 
-Proceedings and Overlay tracks
+Proceedings and Overlay tracks: **deadline extension**
 
- * Abstract registration deadline: **January 24, 2025** at 23:59 AoE
- * Submission deadline: **January 31, 2025** at 23:59 AoE (updates to existing registered abstracts only)
- * Author notification: March 3, 2025
+ * Abstract registration deadline: ~~January 24, 2025~~ **January 31, 2025** at 23:59 AoE
+ * Submission deadline: ~~January 31, 2025~~ **February 7, 2025** at 23:59 AoE (updates to existing registered abstracts only)
+ * Author notification: ~~March 3, 2025~~ March 10, 2025
 
 Short talks / Posters 
 
