@@ -1,137 +1,186 @@
 - 
   id: pc1
-  name: "Amatur"
-  surname: "Rahman"
-  company: "The Pennsylvania State University, US"
-
+  name: "Camille"
+  surname: "Marchet"
+  company: "CNRS, University of Lille"
 - 
   id: pc2
-  name: "Andre"
-  surname: "Kahles"
-  company: "ETH, Switzerland"
-
+  name: "Sriram"
+  surname: "Sankararaman"
+  company: "UCLA"
 - 
   id: pc3
-  name: "Brona"
-  surname: "Brejova"
-  company: "Comenius University, Bratislava, Slovakia"
-
+  name: "Yaron"
+  surname: "Orenstein"
+  company: "Bar-Ilan University"
 - 
   id: pc4
-  name: "Giulio"
-  surname: "Pibiri"
-  company: "Ca' Foscari University of Venice, Italy"
-
+  name: "Robert"
+  surname: "Patro"
+  company: "University of Maryland"
 - 
   id: pc5
-  name: "Jarno"
-  surname: "Alanko"
-  company: "University of Helsinki, Finland"
-
+  name: "Faraz"
+  surname: "Hach"
+  company: "University of British Columbia and Vancouver Prostate Centre"
 - 
   id: pc6
   name: "Leena"
   surname: "Salmela"
-  company: "University of Helsinki, Finland"
-
+  company: "University of Helsinki"
 - 
   id: pc7
-  name: "Luiz"
-  surname: "Irber"
-  company: "UC Davis, US"
-
+  name: "Amatur"
+  surname: "Rahman"
+  company: "The Pennsylvania State University"
 - 
   id: pc8
-  name: "Marcel"
-  surname: "Schulz"
-  company: "Goethe University and Uniklinikum, Frankfurt, Germany"
-
+  name: "Kristoffer"
+  surname: "Sahlin"
+  company: "Department of Mathematics, Stockholm University"
 - 
   id: pc9
+  name: "Luiz"
+  surname: "Irber"
+  company: "Department of Population Health and Reproduction, University of California, Davis"
+- 
+  id: pc10
   name: "Niranjan"
   surname: "Nagarajan"
   company: "Genome Institute of Singapore"
-
-- 
-  id: pc10
-  name: "Raluca"
-  surname: "Uricaru"
-  company: "University of Bordeaux, France"
-
 - 
   id: pc11
-  name: "Sandra"
-  surname: "Smit"
-  company: "Wageningen University, Netherlands"
-
+  name: "Andre"
+  surname: "Kahles"
+  company: "ETH Zurich"
 - 
   id: pc12
-  name: "Serghei"
-  surname: "Mangul"
-  company: "University of Southern California, US"
-
+  name: "Giulio"
+  surname: "Ermanno Pibiri"
+  company: "Ca' Foscari University of Venice"
 - 
   id: pc13
-  name: "Sven"
-  surname: "Rahmann"
-  company: "Saarland University, Germany"
-
+  name: "Wei"
+  surname: "Shen"
+  company: "Chongqing Medical University, China"
 - 
   id: pc14
-  name: "Tatiana"
-  surname: "Starikovskaya"
-  company: "ENS Paris, France"
-
+  name: "Marcel"
+  surname: "Schulz"
+  company: "Goethe University"
 - 
   id: pc15
   name: "Tobias"
   surname: "Marschall"
-  company: "Heinrich Heine University, Germany"
-
+  company: "Saarland University / Max Planck Institute for Informatics"
 - 
   id: pc16
-  name: "Victoria"
-  surname: "Popic"
-  company: "Broad Institute, US"
-
+  name: "Jarno"
+  surname: "Alanko"
+  company: "University of Helsinki"
 - 
   id: pc17
-  name: "Wei"
-  surname: "Shen"
-  company: "Chongqing Medical University, China"
-
+  name: "Raluca"
+  surname: "Uricaru"
+  company: "LaBRI, Université de Bordeaux"
 - 
   id: pc18
-  name: "Zhang"
-  surname: "Zhang"
-  company: "Beijing Institute of Genomics, China"
-
+  name: "Victoria"
+  surname: "Popic"
+  company: "Stanford University"
 - 
   id: pc19
-  name: "Kristoffer"
-  surname: "Sahlin"
-  company: "Stockholm University, Sweden"
-
+  name: "Serghei"
+  surname: "Mangul"
+  company: "University of California, Los Angeles"
 - 
   id: pc20
-  name: "Camila"
-  surname: "Duitama"
-  company: "Pasteur Institute, France"
-
+  name: "Sandra"
+  surname: "Smit"
+  company: "Wageningen University & Research"
 - 
   id: pc21
-  name: "Yun William"
-  surname: "Yu"
-  company: "Carnegie Mellon University, US"
-
+  name: "Brona"
+  surname: "Brejova"
+  company: "Faculty of Mathematics, Physics and Informatics, Comenius University in Bratislava"
 - 
   id: pc22
-  name: "John"
-  surname: "Lees"
-  company: "European Bioinformatics Institute, UK"
-  
+  name: "Tatiana"
+  surname: "Starikovskaya"
+  company: "École Normale Supérieure"
 - 
   id: pc23
-  name: "Shuai-Cheng "
-  surname: "Li"
-  company: "University of Hong Kong"
+  name: "Zhang"
+  surname: "Zhang"
+  company: "BIG Data Center, Beijing Institute of Genomics, Chinese Academy of Sciences"
+- 
+  id: pc24
+  name: "Sven"
+  surname: "Rahmann"
+  company: "Saarland University"
+- 
+  id: pc25
+  name: "Camila"
+  surname: "Duitama"
+  company: "Institut Pasteur Paris"
+- 
+  id: pc26
+  name: "Broňa"
+  surname: "Brejová"
+  company: "Comenius University in Bratislava"
+- 
+  id: pc27
+  name: "Yun"
+  surname: "William Yu"
+  company: "Carnegie Mellon University"
+- 
+  id: pc28
+  name: "Shuai"
+  surname: "Cheng Li"
+  company: "City University of Hong Kong"
+- 
+  id: pc29
+  name: "John"
+  surname: "Lees"
+  company: "EMBL-EBI"
+- 
+  id: pc30
+  name: "Alex"
+  surname: "Di-Genova"
+  company: "Universidad de O'Higgins"
+- 
+  id: pc31
+  name: "Guillaume"
+  surname: "Marçais"
+  company: "CMU"
+- 
+  id: pc32
+  name: "Christina"
+  surname: "Boucher"
+  company: "University of Florida"
+- 
+  id: pc33
+  name: "Nadia"
+  surname: "Pisanti"
+  company: "University of Pisa"
+- 
+  id: pc34
+  name: "Jasmijn"
+  surname: "Baaijens"
+  company: "TU Delft"
+- 
+  id: pc35
+  name: "Lucia"
+  surname: "Williams"
+  company: "University of Montana"
+- 
+  id: pc36
+  name: "Sarah"
+  surname: "Juliane Berkemer"
+  company: "LIX, Ecole Polytechnique"
+- 
+  id: pc37
+  name: "Ritambhara"
+  surname: "Singh"
+  company: "Brown University"
+
