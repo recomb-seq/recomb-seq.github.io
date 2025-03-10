@@ -31,7 +31,7 @@ Proceedings and Overlay tracks: **deadline extension**
 
 Short talks / Posters 
 
- * Abstract submission deadline: **March 7**, 2025 at 23:59 AoE
+ * Abstract submission deadline: ~~March, 7~~ **March 14**, 2025 at 23:59 AoE
  * Authors will be notified shortly after submission
 
 #### Tracks
