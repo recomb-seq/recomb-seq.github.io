@@ -52,8 +52,7 @@ To indicate your submission should be considered for the overlay track, please i
 
 ##### Abstracts for short talks or posters
 
-Regular abstracts describing original work, including software applications. These will be considered for short oral presentations or posters. A 1-2 page abstract describing the methods and key results should be submitted via the EasyChair system.
-
+Regular abstracts describing original work, including software applications. These will be considered for short oral presentations or posters. A short abstract (of up to 1 page) describing the methods and key results should be submitted via the EasyChair system.
 #### Partnership with iScience
 
 All submissions to the proceedings track will be simultaneously considered for publication in a special issue of the journal iScience if the authors agree. iScience is an open-access journal published by Cell Press for original research in the life, physical, and earth sciences.
