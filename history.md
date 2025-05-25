@@ -14,6 +14,7 @@ To reflect this, the conference name was changed in 2022 from "RECOMB Satellite 
 You can watch some previous talks of the conference at our [YouTube channel](https://www.youtube.com/@recomb-seq).
 
 #### Previous iterations
+ - 2025: Seoul, South Korea [About](./history/2025/about.html), [Papers](./history/2025/papers.html), [Program](./history/2025/schedule.html), [Keynotes](./history/2025/speakers.html), [Call for Papers](./2025/RECOMB-2025-CfP.html), [Committees](./history/2025/team.html) 
  - 2024: Boston, MA, USA [About](./history/2024/about.html), [Papers](./history/2024/papers.html), [Program](./history/2024/schedule.html), [Keynotes](./history/2024/speakers.html), [Call for Papers](./2024/RECOMB-2024-CfP.html), [Committees](./history/2024/team.html)
  - 2023: Istanbul, Turkey [About](./history/2023/about.html), [Proceedings](https://www.sciencedirect.com/journal/iscience/special-issue/103F93M98NT), [Program](./history/2023/program.html), [Keynotes](./history/2023/speakers.html), [Posters](./history/2023/posters.html), [Call for papers](./2023/CfP.html), [Committees](./history/2023/team.html)
  - 2022: San Diego, CA, USA [Website](https://recomb2022.net/recomb-seq/), [Proceedings](https://www.sciencedirect.com/journal/iscience/special-issue/10WWDRTKFT2)
