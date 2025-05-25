@@ -1,75 +1,82 @@
 ---
-layout: history
-title: Call for Papers
+layout: post
+title: Accepted Papers/Posters of RECOMB-seq 2025
 permalink: /history/2025/papers/
-image: blog.jpg
+isStaticPost: true
 ---
 
- {% include top-section.html %}
-
-<!-- Begin Papers based on Blog from Zeppelin-->
-<section id="blog" class="blog">
+<!-- Begin Schedule Section -->
+<section id="schedule" class="schedule">
     <div class="content-wrapper text-left">
-        <div class="col-md-10 col-sm-10 col-lg-offset-2 col-md-offset-2 col-sm-offset-1">
-            <h3>Call for Papers</h3>
-            <div class="col-lg-8 col-md-10 col-xs-12">
-                {% for post in site.paper-calls %}
-                    <article class="row post">
-                        <!-- <a href="{{ site.baseurl | append: post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>-->
-                        <div class="post-header">
-                            <div class="published col-md-6 col-xs-6 pull-left">
-                                <span class="caption">Posted:</span>
-                                <span class="publish-date" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</span>
-                            </div>
-                            <div class="share col-md-6 col-xs-6 pull-right">
-                                <ul class="social-links">
-                                    {% assign postUrl = site.url | append: site.baseurl | append: post.url %} 
-                                    <li>
-                                        <a href="#" onclick="window.open('https://twitter.com/home?status={{ postUrl }}', 'newwindow', 'width=600, height=250'); return false;">
-                                            <svg class="icon icon-twitter" viewBox="0 0 30 32">
-                                                <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-twitter"></use>
-                                            </svg>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u={{ postUrl }}', 'newwindow', 'width=600, height=500'); return false;">
-                                            <svg class="icon icon-facebook" viewBox="0 0 30 32">
-                                                <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-facebook"></use>
-                                            </svg>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <p class="post-body">{{ post.content }} {% if blog.readmore == false %}<a href="{{ site.baseurl | append: post.url }}">continue reading</a>{% endif %}</p>
-                    </article>
-                {% endfor %} 
 
-                {% if paginator.total_pages > 1 %}
-                <div class="row">
-                    <div class="pagination">
-                        {% if paginator.previous_page %}
-                        <a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
-                        {% else %}
-                        <span class="previous">Previous</span>
-                        {% endif %}
-                        <span class="page-number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-                        {% if paginator.next_page %}
-                        <a href="/page{{ paginator.next_page }}" class="next">Next</a>
-                        {% else %}
-                        <span class="next ">Next</span>
-                        {% endif %}
-                    </div>
-                </div>
-                {% endif %}
+		<h4>Accepted Papers to the Proceedings Track</h4>
 
-                <div class="row text-center">
-                    <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">via RSS</a>
-                    </p>
-                </div>
+		<ul style="list-style-type: disc;">
+		<li>Alessia Petescia, Luca Denti, Askar Gafurov, Viktória Hodorová, Jozef Nosek, Broňa Brejová and Tomas Vinar	Alignment-Free Detection of Differences Between Sequencing Data Sets</li>
+		<li>Oieswarya Bhowmik and Ananth Kalyanaraman	Tile-X: A vertex reordering approach for scalable long read assembly</li>
+		<li>Prannav Shankar, Huan Liang, Uthsav Chitra and Rohit Singh 	Decoding the causal drivers of spatial cellular topology </li>
+		<li>Zhenhao Gu, Hongyi Xin, Puru Sharma, Gary Yipeng Goh, Limsoon Wong and Niranjan Nagarajan	Efficient trace reconstruction in DNA storage systems using Bidirectional Beam Search</li>
+		<li>Zhao Ling, Shi Ying Li, Jingwan Wang, Xikang Feng, Bowen Tan and Shuai Cheng Li	Decoupling Hi-C matrices with non-negative matrix factorization to reveal assorted TADs </li>
+		<li>Lore Depuydt, Omar Y. Ahmed, Jan Fostier, Ben Langmead and Travis Gagie	Run-length compressed metagenomic read classification with SMEM-finding and tagging</li>
+		</ul>
+		
+		<h4>Accepted Papers to the Overlay Track</h4>
+		<ul style="list-style-type: disc;">
+		<li>Alexander Petri and Kristoffer Sahlin	De novo clustering of extensive long-read transcriptome datasets with isONclust3</li>
+		<li>Ivan Tolstoganov, Marcel Martin and Kristoffer Sahlin	Multi-context seeds enable fast and high-accuracy read mapping</li>
+		<li>Felix Kallenborn, Alejandro Chacon, Christian Hundt, Hassan Sirelkhatim, Kieran Didi, Sooyoung Cha, Christian Dallago, Milot Mirdita, Bertil Schmidt and Martin Steinegger	GPU-accelerated homology search with MMseqs2</li>
+		<li>Yi Ding, Jin Xiao, Bohao Zou and Lu Zhang	DeepMM: Identify and correct Metagenome Misassemblies with deep learning</li>
+		<li>Daanish Mahajan, Chirag Jain and Navin Kashyap	On the Coverage Required for Diploid Genome Assembly </li>
+		<li>Luca Denti, Paola Bonizzoni, Brona Brejova, Rayan Chikhi, Thomas Krannich, Tomas Vinar and Fereydoun Hormozdiari	Pangenome graph augmentation from unassembled long reads </li>
+		</ul>
 
-            </div>
-        </div>
-    </div>
+		<h4>Accepted Short Talks</h4>
+		<ul style="list-style-type: disc;">
+		<li>Pia Rautenstrauch and Uwe Ohler	Metrics Matter: Why We Need to Stop Using Silhouette in Single-Cell Benchmarking</li>
+		<li>Marie Van Hecke, Koen Deserranno, Elise Callens, Filip Van Nieuwerburgh and Kathleen Marchal	Full length isoform reconstruction in single cell data</li>
+		<li>Ondřej Sladký, Pavel Veselý and Karel Brinda	Masked superstrings as a compact, indexable, and dynamic representation of unconstrained k-mer sets</li>
+		<li>Alexander Sweeten, Adam Phillippy and Michael Schatz	Automated Annotation of Satellite DNA</li>
+		<li>Lore Depuydt, Luca Renders, Simon Van de Vyver, Lennart Veys, Travis Gagie and Jan Fostier	b-move: Faster Lossless Approximate Pattern Matching in a Run-Length Compressed Index</li>
+		<li>Konstantinn Bonnet and Tobias Marschall	strangepg: Toward Pangenome Scale Graph Visualization</li>
+		<li>Megan Le, Lillian Zhang, Can Koçkan, Barış Ekim, Houlin Yu, Brian Haas, Aziz Al'Khafaji, Bonnie Berger and Victoria Popic	Improved variant calling via latent breakpoint graphs</li>
+		<li>Junqiong Qiu, Seungmo Lee, Vivek Agarwal and William O'Brien	A Novel K-mer Masking Approach for Improving Specificity in Metagenomic Pathogen Detection</li>
+		<li>Mahler Revsine, Daniel Khashabi and Michael Schatz	Pre-Training Dataset Deduplication Improves Genomic LLMs</li>
+		<li>Sang Yoon Byun and Vikas Bansal	Edgecopy: Accurate CNV calling in duplicated genes using whole-exome sequencing</li>
+		<li>Bastien Degardins, Charles Paperman and Camille Marchet	Vizitig: context-rich exploration of sequencing datasets</li>
+		<li>Timothé Rouzé, Rayan Chikhi and Antoine Limasset	Inverted colored de Bruin Graph for practical kmer set storage</li>
+		<li>Yohan Hernandez Courbevoie, Mikaël Salson, Chloé Bessière, Haoliang Xue, Daniel Gautheret, Camille Marchet and Antoine Limasset	Reindeer2: practical abundance index at scale</li>
+		<li>Arghamitra Talukder, Shree Thavarekere, Madison Mehlferber, Gloria M Sheynkman and David A. Knowles	Multi-sample, multi-platform isoform quantification using empirical Bayes</li>
+		<li>Zülal Bingöl, Berkan Şahin, Konstantina Koliogeorgi, Ricardo Roman-Brenes, Klea Zambaku, Can Firtina, Onur Mutlu and Can Alkan	De Bruijn Graphs for Pangenomics: In-depth Performance Benchmarking of de Bruijn Graph-Based Tools for Read Mapping</li>
+		<li>Barbara Poszewiecka, Krzysztof Gogolewski and Anna Gambin	Efficient algorithm for resolving scenarios of Complex Chromosomal Rearrangements</li>
+		</ul>
+
+
+		<h4>Accepted Posters</h4>
+		<ul style="list-style-type: disc;">
+		<li>101. Accelerating gkm-SVM Training Through GPU Implementation</li>
+		<li>102. Identifying Potential Therapeutic Targets for Heart Failure through Systematic Transcriptome Analysis, Hello, Kim Min-Ju, Department of Pharmacy, Pusan National University</li>
+<li>103. Population-specific and universal molecular features of skeletal muscle aging: Comparative transcriptome analysis of Korean and GTEx datasets, Byeong-Don Min, Chungnam National University</li>
+<li>104. Unlocking Hidden Protein Functions with a Biochemically Informed Annotation Strategy</li>
+<li>105. Unraveling miRNA-seq data: a statistical framework to account for competition for expression towards accurate differential expression analysis</li>
+<li>106. Systematic evaluation of dimensionality reduction methods for capturing transcriptomic signatures responding to drug treatments</li>
+<li>107. GreedyMini: Generating low-density DNA minimizers, Yaron Orenstein, Bar-Ilan University</li>
+<li>108. GPU-accelerated homology search with MMseqs2</li>
+<li>109. strangepg: Toward Pangenome Scale Graph Visualization, Konstantinn Bonnet, Heinrich Heine University</li>
+<li>110. Vizitig: context-rich exploration of sequencing datasets, Camille Marchet, Université de Lille - CNRS</li>
+<li>111. Identifying gene-environment interactions for cancer incidence using epigenomic profiles, Younghoon Kim, KISTI</li>
+<li>112. stDyer enables spatial domain clustering with dynamic graph embedding</li>
+<li>113. Splicing Junction Classifier for Detecting Abnormal KEAP1-NRF2 System Activation</li>
+<li>114. Adapting broad protein language models to viruses</li>
+<li>115. b-move: Faster Lossless Approximate Pattern Matching in a Run-Length Compressed Index, Lore Depuydt, Ghent University</li>
+<li>116. Full length isoform reconstruction in single cell data, Marie Van Hecke, Ghent University - imec</li>
+<li>117. A Novel Computational Pipeline for the Functional Characterization and Deorphanization of G-Protein Coupled Receptors; Catherine Zhou, Stanford University</li>	
+<li>118. Parallel and space efficient exact local alignment, Evelin Aasna, Max Planck Institute for Molecular Genetics</li>
+<li>119. Pre-Training Dataset Deduplication Improves Genomic LLMs, Mahler Revsine, John Hopkins University</li>	
+		</ul>
+
+		</div>
+	</div>
+
+	</div>
 </section>
-<!-- End Blog -->
+<!-- End Schedule Section -->
