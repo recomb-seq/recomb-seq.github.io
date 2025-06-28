@@ -31,6 +31,7 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
  - 2011: Vancouver, Canada
 
 #### Program Committee Chairs
+ - 2025: Camille Marchet, Yaron Orenstein
  - 2024: Ritambhara Singh and Mingfu Shao 
  - 2023: Broňa Brejová and A. Ercüment Çiçek
  - 2022: Ben Langmead
@@ -47,6 +48,7 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
  - 2011: Can Alkan
 
 #### Keynote Speakers:
+ - 2025: Alicia Oshlack, Rayan Chikhi
  - 2024: Mona Singh and Heng Li 
  - 2023: Shilpa Garg and Gioele La Manno
  - 2022: Arang Rhie and Siavash Mirarab 
