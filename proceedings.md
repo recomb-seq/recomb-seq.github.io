@@ -42,7 +42,7 @@ isStaticPost: true
   - **Improved variant discovery and allele frequency estimation from pooled dna resequencing with Bayesian latent class analysis and compositional bias models.** Shom Paul and Aaron Mackey.
   - **Modeling and automation of sequencing-based determination of RNA structure.** Sharon Aviran, Cole Trapnell, Julius Lucks, Stefanie Mortimer, Shujun Luo, Gary Schroth, Jennifer Doudna, Adam Arkin and Lior Pachter.
   - **mTiM: margin-based transcript mapping from RNA-seq.** Georg Zeller, Nico Goernitz, Gunnar Raetsch, Jonas Behr, Andre Kahles, Soeren Sonnenburg and Pramod Mudrakarta.
-  - **Separating metagenomic data into genomes via clustering. Olga Tanaseichuk and Tao Jiang.
+  - **Separating metagenomic data into genomes via clustering.** Olga Tanaseichuk and Tao Jiang.
   - **TavernaPBS: custom next-generation sequence analysis workflows using high-performance computing resources with Taverna and PBS.** Mark Lawson, Paul Shuber and Aaron Mackey.
 
 
