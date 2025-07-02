@@ -7,6 +7,20 @@ isStaticPost: true
 
 #### Full Proceedings Papers
 
+##### 2012
+
+  - Exploiting sparseness in *de novo* genome assembly. Chengxi Ye, Zhanshan Sam Ma, Charles H Cannon, Mihai Pop and Douglas W Yu. [BMC Bioinformatics 13 (Suppl 6), S1 (2012)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S6-S1).
+  - MGMR: leveraging RNA-Seq population data to optimize expression estimation. Roye Rozov, Eran Halperin and Ron Shamir. [BMC Bioinformatics 13 (Suppl 6), S2 (2012)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S6-S2).
+  - Haplotype reconstruction using perfect phylogeny and sequence data. Anatoly Efros and Eran Halperin. [BMC Bioinformatics 13 (Suppl 6), S3 (2012)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S6-S3).
+  - Biases in read coverage demonstrated by interlaboratory and interplatform comparison of 117 mRNA and genome sequencing experiments. Ekaterina E Khrameeva and Mikhail S Gelfand. [BMC Bioinformatics 13 (Suppl 6), S4 (2012)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S6-S4).
+  - KIS SPLICE: de-novo calling alternative splicing events from RNA-seq data. Gustavo AT Sacomoto, Janice Kielbassa, Rayan Chikhi, Raluca Uricaru, Pavlos Antoniou, Marie-France Sagot,   Pierre Peterlongo and Vincent Lacroix. [BMC Bioinformatics 13 (Suppl 6), S5 (2012)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S6-S5).
+  - An improved approach for accurate and efficient calling of structural variations with low-coverage sequence data. Jin Zhang, Jiayin Wang and Yufeng Wu. [BMC Bioinformatics 13 (Suppl 6), S6 (2012)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S6-S6).
+  - PAIR: polymorphic *Alu* insertion recognition. Jón Ingi Sveinbjörnsson and Bjarni V Halldórsson. [BMC Bioinformatics 13 (Suppl 6), S7 (2012)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S6-S7).
+  - High-resolution genetic mapping with pooled sequencing. Matthew D Edwards and David K Gifford. [BMC Bioinformatics 13 (Suppl 6), S8 (2012)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S6-S8).
+  - A context-based approach to identify the most likely mapping for RNA-seq experiments. Thomas Bonfert, Gergely Csaba, Ralf Zimmer and Caroline C Friedel. [BMC Bioinformatics 13 (Suppl 6), S9 (2012)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S6-S9).
+  - Reconstructing cancer genomes from paired-end sequencing data. Layla Oesper, Anna Ritz, Sarah J Aerni, Ryan Drebin and Benjamin J Raphael. [BMC Bioinformatics 13 (Suppl 6), S10 (2012)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S6-S10).
+  - Challenges in estimating percent inclusion of alternatively spliced junctions from RNA-seq data. Boyko Kakaradov, Hui Yuan Xiong, Leo J Lee, Nebojsa Jojic and Brendan J Frey. [BMC Bioinformatics 13 (Suppl 6), S11 (2012)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S6-S11).
+
 ##### 2011
 
   - Inferring viral spectrum from 454 pyrosequencing reads. Irina Astrovskaya, Bassam Tork, Serghei Mangul, Kelly Westbrooks, Ion Mandoiu, Peter Balfe and Alex Zelikovsky. [BMC Bioinformatics 12 (Suppl 6), S1 (2011)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-S6-S1).
