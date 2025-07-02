@@ -81,3 +81,16 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
   - 2018: Damla Senol Cali *Accelerating Approximate Pattern Matching with PiM/SIMD Programming*
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
+
+#### Proceedings
+
+<details>
+
+<summary>2011</summary>
+
+  - Inferring Viral Spectrum from 454 Pyrosequencing Reads. Irina Astrovskaya, Bassam Tork, Serghei Mangul, Kelly Westbrooks, Ion Mandoiu, Peter Balfe and Alex Zelikovsky. [BMC Bioinformatics 12 (Suppl 6), S1 (2011)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-S6-S1).
+  - Genotyping common and rare variation using overlapping pool sequencing. Dan He, Noah Zaitlen, Bogdan Pasaniuc, Eleazar Eskin and Eran Halperin. [BMC Bioinformatics 12 (Suppl 6), S2 (2011)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-S6-S1).
+  - Assembly of non-unique insertion content using next-generation sequencing. Nathaniel Parrish, Farhad Hormozdiari and Eleazar Eskin. [BMC Bioinformatics 12 (Suppl 6), S3 (2011)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-S6-S1).
+  - A Hidden Markov Model for Copy Number Variant Prediction from Whole Genome Resequencing Data. Yufeng Shen, Yiwei Gu and Itsik Pe'Er. [BMC Bioinformatics 12 (Suppl 6), S4 (2011)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-S6-S1).
+</details>
+
