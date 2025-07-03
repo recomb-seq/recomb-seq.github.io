@@ -7,6 +7,17 @@ isStaticPost: true
 
 #### Full Proceedings Papers
 
+##### 2017
+
+  - **QUENTIN: accurate reconstruction of disease transmissions from viral quasispecies genomic data.** Pavel Skums, Alex Zelikovsky, Sergey Knyazev, Igor Mandric, Zoya Dimitrova, Sumathi Ramachandran, David Stiven Campo Rendon, Leonid Bunimovich, Elizabeth Costenbader, Connie Sexton, Siobhan O'Connor, Guo-Liang Xia and Yury Khudyakov. [Bioinformatics, 34 (1): 163-170, (2018)](https://academic.oup.com/bioinformatics/article/34/1/163/3870483)
+  - **An accurate algorithm for the detection of DNA fragments from dilution pool sequencing experiments.** Vikas Bansal. [Bioinformatics, 34 (1): 155-162, (2018)](https://academic.oup.com/bioinformatics/article/34/1/155/3952670)
+  - **A novel data structure to support ultra-fast taxonomic classification of metagenomic sequences with k-mer signatures.** Xinan Liu, Ye Yu, Jinpeng Liu, Chen Qian and Jinze Liu. [Bioinformatics, 34 (1): 171-178, (2018)](https://academic.oup.com/bioinformatics/article/34/1/171/3931858)
+  - **DIMM-SC: A Dirichlet mixture model for clustering droplet-based single cell transcriptomic data.** Zhe Sun, Ting Wang, Ke Deng, Xiao-Feng Wang, Robert Lafyatis, Ying Ding, Ming Hu and Wei Chen. [Bioinformatics, 34 (1): 139-146, (2018)](https://academic.oup.com/bioinformatics/article/34/1/139/4060554)
+  - **Transcription factor-8mer glossary with GENRE genomic background enables precise identification of lineage-specific co-regulators.** Luca Mariani, Kathryn Weinand, Anastasia Vedenko, Luis A Barrera and Martha L Bulyk. [Cell Systems, 5 (3):187-201.e7, (2017)](https://www.sciencedirect.com/science/article/pii/S2405471217302892)
+  - **In-silico read normalization using set multicover optimization.** Dilip Durai and Marcel Schulz. [Bioinformatics, 34 (19): 3273-3280, (2018)](https://academic.oup.com/bioinformatics/article/34/19/3273/4975418)
+  - **Repeat-aware evaluation of scaffolding tools.** Igor Mandric, Sergey Knyazev and Alex Zelikovsky. [Bioinformatics, 34 (15): 2530-2537, (2018)](https://academic.oup.com/bioinformatics/article/34/15/2530/4934936)
+  - **Faucet: streaming de novo assembly graph construction.** Roye Rozov, Gil Goldshlager, Ron Shamir and Eran Halperin. [Bioinformatics, 34 (1): 147-154, (2018)](https://academic.oup.com/bioinformatics/article/34/1/147/4004871)
+
 ##### 2016
 
   - **Accurate self correction of errors in long reads using de Bruijn graphs.** Leena Salmela, Riku Walve, Eric Rivals and Esko Ukkonen. [Bioinformatics, 33 (6): 799–806](https://academic.oup.com/bioinformatics/article/33/6/799/2525585)
