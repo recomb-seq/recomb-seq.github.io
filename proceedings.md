@@ -7,6 +7,26 @@ isStaticPost: true
 
 #### Full Proceedings Papers
 
+##### 2014
+
+  - **Assembly-free genome comparison based on next-generation sequencing reads and variable length patterns.** Matteo Comin and Michele Schimd. [BMC Bioinformatics 15 (Suppl 9) S1 (2014)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-S9-S1)
+  - **SWAP-Assembler: scalable and efficient genome assembly towards thousands of cores.** Jintao Meng, Bingqiang Wang, Yanjie Wei, Shengzhong Feng and Pavan Balaji. [BMC Bioinformatics 15 (Suppl 9) S2 (2014)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-S9-S2)
+  - **Piecing the puzzle together: a revisit to transcript reconstruction problem in RNA-seq.** Yan Huang, Yin Hu and Jinze Liu. [BMC Bioinformatics 15 (Suppl 9) S3 (2014)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-S9-S3)
+  - **Near-optimal assembly for shotgun sequencing with noisy reads.** Ka-Kit Lam, Asif Khalak and David Tse. [BMC Bioinformatics 15 (Suppl 9) S4 (2014)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-S9-S4)
+  - **On the complexity of Minimum Path Cover with Subpath Constraints for multi-assembly.** Romeo Rizzi, Alexandru I Tomescu and Veli Mäkinen. [BMC Bioinformatics 15 (Suppl 9) S5 (2014)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-S9-S5)
+  - **BADGE: A novel Bayesian model for accurate abundance quantification and differential analysis of RNA-Seq data.** Jinghua Gu, Xiao Wang, Leena Halakivi-Clarke, Robert Clarke and Jianhua Xuan. [BMC Bioinformatics 15 (Suppl 9) S6 (2014)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-S9-S6)
+  - **Fast lossless compression via cascading Bloom filters.** Roye Rozov, Ron Shamir and Eran Halperin. [BMC Bioinformatics 15 (Suppl 9) S7 (2014)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-S9-S7)
+  - **Gene finding in metatranscriptomic sequences.** Wazim Mohammed Ismail, Yuzhen Ye and Haixu Tang. [BMC Bioinformatics 15 (Suppl 9) S8 (2014)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-S9-S8)
+  - **ILP-based maximum likelihood genome scaffolding.** James Lindsay, Hamed Salooti, Ion Măndoiu and Alex Zelikovsky. [BMC Bioinformatics 15 (Suppl 9) S9 (2014)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-S9-S9)
+  - **CASPER: context-aware scheme for paired-end reads from high-throughput amplicon sequencing.** Sunyoung Kwon, Byunghan Lee and Sungroh Yoon. [BMC Bioinformatics 15 (Suppl 9) S10 (2014)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-S9-S10)
+  - **PuFFIN - a parameter-free method to build nucleosome maps from paired-end reads.** Anton Polishko, Evelien M Bunnik, Karine G Le Roch and Stefano Lonardi. [BMC Bioinformatics 15 (Suppl 9) S11 (2014)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-S9-S11)
+  - **ARYANA: Aligning Reads by Yet Another Approach.** Milad Gholami, Aryan Arbabi, Ali Sharifi-Zarchi, Hamidreza Chitsaz and Mehdi Sadeghi. [BMC Bioinformatics 15 (Suppl 9) S12 (2014)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-S9-S12)
+  - **Ensemble analysis of adaptive compressed genome sequencing strategies.** Zeinab Taghavi. [BMC Bioinformatics 15 (Suppl 9) S13 (2014)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-S9-S13)
+  - **A better sequence-read simulator program for metagenomics.** Stephen Johnson, Brett Trost, Jeffrey R Long, Vanessa Pittet and Anthony Kusalik. [BMC Bioinformatics 15 (Suppl 9) S14 (2014)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-S9-S14)
+  - **ProbeAlign: incorporating high-throughput sequencing-based structure probing information into ncRNA homology search.** Ping Ge, Cuncong Zhong and Shaojie Zhang. [BMC Bioinformatics 15 (Suppl 9) S15 (2014)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-S9-S15)
+  - **Detecting epigenetic motifs in low coverage and metagenomics settings.** Noam D Beckmann, Sashank Karri, Gang Fang and Ali Bashir. [BMC Bioinformatics 15 (Suppl 9) S16 (2014)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-S9-S16)
+
+
 ##### 2013
 
   - **Discovering motifs that induce sequencing errors.** Manuel Allhoff, Alexander Schönhuth, Marcel Martin, Ivan G Costa, Sven Rahmann and Tobias Marschall. [BMC Bioinformatics 14 (Suppl 5) S1 (2013)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S5-S1)
