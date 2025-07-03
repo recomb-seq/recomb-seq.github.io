@@ -7,9 +7,31 @@ isStaticPost: true
 
 #### Full Proceedings Papers
 
+##### 2013
+
+  - **Discovering motifs that induce sequencing errors.** Manuel Allhoff, Alexander Schönhuth, Marcel Martin, Ivan G Costa, Sven Rahmann and Tobias Marschall. [BMC Bioinformatics 14 (Suppl 5) S1 (2013)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S5-S1)
+  - **metaBEETL: high-throughput analysis of heterogeneous microbial populations from shotgun DNA sequences.** Christina Ander, Ole B Schulz-Trieglaff, Jens Stoye and Anthony J Cox. [BMC Bioinformatics 14 (Suppl 5) S2 (2013)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S5-S2)
+  - **Joint genotype inference with germline and somatic mutations.** Eric Bareke, Virginie Saillour, Jean-François Spinella, Ramon Vidal, Jasmine Healy, Daniel Sinnett and Miklós Csűrös. [BMC Bioinformatics 14 (Suppl 5) S3 (2013)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S5-S3)
+  - **Discovering and mapping chromatin states using a tree hidden Markov model.** Jacob Biesinger, Yuanfeng Wang and Xiaohui Xie. [BMC Bioinformatics 14 (Suppl 5) S4 (2013)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S5-S4)
+  - **Prioritization of candidate disease genes by topological similarity between disease and protein diffusion profiles.** Jie Zhu, Yufang Qin, Taigang Liu, Jun Wang and Xiaoqi Zheng. [BMC Bioinformatics 14 (Suppl 5) S5 (2013)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S5-S5)
+  - **Bellerophon: a hybrid method for detecting interchromo-somal rearrangements at base pair resolution using next-generation sequencing data.** Matthew Hayes and Jing Li. [BMC Bioinformatics 14 (Suppl 5) S6 (2013)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S5-S6)
+  - **De Bruijn superwalk with multiplicities problem is NP-hard.** Evgeny Kapun and Fedor Tsarev. [BMC Bioinformatics 14 (Suppl 5) S7 (2013)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S5-S7)
+  - **A random-permutations-based approach to fast read alignment.** Roy Lederman. [BMC Bioinformatics 14 (Suppl 5) S8 (2013)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S5-S8)
+  - **Assembling contigs in draft genomes using reversals and block-interchanges.** Chi-Long Li, Kun-Tze Chen and Chin Lung Lu. [BMC Bioinformatics 14 (Suppl 5) S9 (2013)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S5-S9)
+  - **An optimized algorithm for detecting and annotating regional differential methylation.** Sheng Li, Francine E Garrett-Bakelman, Altuna Akalin, Paul Zumbo, Ross Levine, Bik L To, Ian D Lewis, Anna L Brown, Richard J D'Andrea, Ari Melnick and Christopher E Mason. [BMC Bioinformatics 14 (Suppl 5) S10 (2013)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S5-S10)
+  - **A mixture model for expression deconvolution from RNA-seq in heterogeneous tissues.** Yi Li and Xiaohui Xie. [BMC Bioinformatics 14 (Suppl 5) S11 (2013)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S5-S11)
+  - **Gene prediction in metagenomic fragments based on the SVM algorithm.** Yongchu Liu, Jiangtao Guo, Gangqing Hu and Huaiqiu Zhu. [BMC Bioinformatics 14 (Suppl 5) S12 (2013)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S5-S12)
+  - **Evaluating genome architecture of a complex region via generalized bipartite matching.** Christine Lo, Sangwoo Kim, Shay Zakov and Vineet Bafna. [BMC Bioinformatics 14 (Suppl 5) S13 (2013)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S5-S13)
+  - **CLASS: constrained transcript assembly of RNA-seq reads.** Li Song and Liliana Florea. [BMC Bioinformatics 14 (Suppl 5) S14 (2013)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S5-S14)
+  - **A novel min-cost flow method for estimating transcript expression with RNA-Seq.** Alexandru I Tomescu, Anna Kuosmanen, Romeo Rizzi and Veli Mäkinen. [BMC Bioinformatics 14 (Suppl 5) S15 (2013)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S5-S15)
+  - **Gene set enrichment analysis of RNA-Seq data: integrating differential expression and splicing.** Xi Wang and Murray J Cairns. [BMC Bioinformatics 14 (Suppl 5) S16 (2013)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S5-S16)
+  - **De novo inference of stratification and local admixture in sequencing studies.** Yu Zhang. [BMC Bioinformatics 14 (Suppl 5) S17 (2013)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S5-S17)
+  - **Optimal assembly for high throughput shotgun sequencing.** Guy Bresler, Ma'ayan Bresler and David Tse. [BMC Bioinformatics 14 (Suppl 5) S18 (2013)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S5-S18)
+
+
 ##### 2012
 
-  - **Exploiting sparseness in *de novo* genome assembly. Chengxi Ye, Zhanshan Sam Ma, Charles H Cannon, Mihai Pop and Douglas W Yu.** [BMC Bioinformatics 13 (Suppl 6), S1 (2012)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S6-S1).
+  - **Exploiting sparseness in *de novo* genome assembly.** Chengxi Ye, Zhanshan Sam Ma, Charles H Cannon, Mihai Pop and Douglas W Yu. [BMC Bioinformatics 13 (Suppl 6), S1 (2012)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S6-S1).
   - **MGMR: leveraging RNA-Seq population data to optimize expression estimation.** Roye Rozov, Eran Halperin and Ron Shamir. [BMC Bioinformatics 13 (Suppl 6), S2 (2012)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S6-S2).
   - **Haplotype reconstruction using perfect phylogeny and sequence data.** Anatoly Efros and Eran Halperin. [BMC Bioinformatics 13 (Suppl 6), S3 (2012)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S6-S3).
   - **Biases in read coverage demonstrated by interlaboratory and interplatform comparison of 117 mRNA and genome sequencing experiments.** Ekaterina E Khrameeva and Mikhail S Gelfand. [BMC Bioinformatics 13 (Suppl 6), S4 (2012)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S6-S4).
