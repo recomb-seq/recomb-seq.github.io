@@ -7,6 +7,16 @@ isStaticPost: true
 
 #### Full Proceedings Papers
 
+##### 2018
+
+  - **Full-length de novo viral quasispecies assembly through variation graph construction.** Jasmijn Baaijens, Bastiaan van der Roest, Johannes Koster, Leen Stougie and Alexander Schoenhuth. [Bioinformatics, 35 (24): 5086-5094, (2019)](https://academic.oup.com/bioinformatics/article/35/24/5086/5506652)
+  - **Alignment-free clustering of barcode (UMI) tagged DNA molecules.** Baraa Orabi, Emre Erhan, Brian McConeghy, Stanislav V. Volik, Stephane Le Bihan, Collin C. Collins, Cedric Chauve and Faraz Hach. [Bioinformatics, 35 (11): 1829-1836, (2019)](https://academic.oup.com/bioinformatics/article/35/11/1829/5142725)
+  - **Toward perfect reads: self-correction of short reads via mapping on de Bruijn graphs.** Antoine Limasset, Jean-François Flot and Pierre Peterlongo. [Bioinformatics, 36 (5): 1374-1381, (2020)](https://academic.oup.com/bioinformatics/article/36/5/1374/5345559)
+  - **TNER: a novel background error suppression method for mutation detection in circulating tumor DNA.** Shibing Deng, Maruja Lira, Donghui Huang, Kai Wang, Crystal Valdez, Jennifer Kinong, Paul Rejto, Jadwiga Bienkowska, James Hardwick and Tao Xie. [BMC Bioinformatics, 18: 387, (2018)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2428-3)
+  - **Optimum search schemes for approximate string matching using bidirectional FM-Index.** Kiavash Kianfar, Christopher Pockrandt, Bahman Torkamandi, Haochen Luo and Knut Reinert. [bioRxiv 301085, (2018)](https://www.biorxiv.org/content/10.1101/301085v2)
+  - **Resistome SNP calling via read colored de Bruijn graphs .** Bahar Alipanahi, Martin Muggli, Musa Jundi, Noelle Noyes and Christina Boucher. [Bioinformatics, 36 (22-23): 5275-5281, (2021)](https://academic.oup.com/bioinformatics/article/36/22-23/5275/5734643)
+  - **Deconvoluting the diversity of within-host pathogen strains in a Multi-Locus Sequence Typing framework.** Guo Liang Gan, Elijah Willie, Cedric Chauve and Leonid Chindelevitch. [BMC Bioinformatics, 20: 637, (2019)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3204-8)
+
 ##### 2017
 
   - **QUENTIN: accurate reconstruction of disease transmissions from viral quasispecies genomic data.** Pavel Skums, Alex Zelikovsky, Sergey Knyazev, Igor Mandric, Zoya Dimitrova, Sumathi Ramachandran, David Stiven Campo Rendon, Leonid Bunimovich, Elizabeth Costenbader, Connie Sexton, Siobhan O'Connor, Guo-Liang Xia and Yury Khudyakov. [Bioinformatics, 34 (1): 163-170, (2018)](https://academic.oup.com/bioinformatics/article/34/1/163/3870483)
