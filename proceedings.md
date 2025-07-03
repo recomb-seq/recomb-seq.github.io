@@ -7,6 +7,16 @@ isStaticPost: true
 
 #### Full Proceedings Papers
 
+##### 2015
+
+  - **PopIns: population-scale detection of novel sequence insertions.** Birte Kehr, Pall Melsted and Bjarni Halldorsson. [Bioinformatics,  32 (7): 961-967, (2016)](https://academic.oup.com/bioinformatics/article/32/7/961/2240308?searchresult=1)
+  - **BMix: probabilistic modeling of occurring substitutions in PAR-CLIP data.** Monica Golumbeanu, Pejman Mohammadi and Niko Beerenwinkel. [Bioinformatics,  32 (7): 976-983, (2016)](https://academic.oup.com/bioinformatics/article/32/7/976/2288374?searchresult=1)
+  - **SV-Bay: structural variant detection in cancer genomes using a Bayesian approach with correction for GC-content and read mappability.** Daria Iakovishina, Isabelle Janoueix-Lerosey, Emmanuel Barillot, Mireille Regnier and Valentina Boeva. [Bioinformatics,  32 (7): 984-992, (2016)](https://academic.oup.com/bioinformatics/article/32/7/984/2288622?searchresult=1)
+  - **Inference of Markovian properties of molecular sequences from NGS data and applications to comparative genomics.** Jie Ren, Kai Song, Minghua Deng, Gesine Reinert, Chuck Cannon and Fengzhu Sun. [Bioinformatics,  32 (7): 993-1000, (2016)](https://academic.oup.com/bioinformatics/article/32/7/993/2240327?searchresult=1)
+  - **Utilizing de Bruijn graph of metagenome assembly for metatranscriptome analysis.** Yuzhen Ye and Haixu Tang . [Bioinformatics,  32 (7): 1001-1008, (2016)](https://academic.oup.com/bioinformatics/article/32/7/1001/2288363?searchresult=1)
+  - **OPTIMA: index-based map-to-sequence alignment in large eukaryotic genomes.** Davide Verzotto, Audrey S.M. Teo, Axel Hillmer and Niranjan Nagarajan. [GigaScience, 5 (1): s13742-016-0110-0, (2016)](https://academic.oup.com/gigascience/article/5/1/s13742-016-0110-0/2720967)
+  - **Rank regularized RNA-seq.** Nicolas Bray and Lior Pachter.
+
 ##### 2014
 
   - **Assembly-free genome comparison based on next-generation sequencing reads and variable length patterns.** Matteo Comin and Michele Schimd. [BMC Bioinformatics 15 (Suppl 9) S1 (2014)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-S9-S1)
