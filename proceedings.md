@@ -7,6 +7,12 @@ isStaticPost: true
 
 #### Full Proceedings Papers
 
+##### 2016
+
+  - **Accurate self correction of errors in long reads using de Bruijn graphs.** Leena Salmela, Riku Walve, Eric Rivals and Esko Ukkonen. [Bioinformatics, 33 (6): 799–806](https://academic.oup.com/bioinformatics/article/33/6/799/2525585)
+  - **Designing robust watermark barcodes for multiplex long-read sequencing.** Joaquín Ezpeleta, Flavia J. Krsticevic, Pilar Bulacio and Elizabeth Tapia. [Bioinformatics, 33 (6): 807-813](https://academic.oup.com/bioinformatics/article/33/6/807/2525586)
+  - **COCACOLA: binning metagenomic contigs using sequence COmposition, read CoverAge, CO-alignment, and paired-end read LinkAge.** Yang Lu, Ting Chen, Jed Fuhrman and Fengzhu Sun. [Bioinformatics, 33 (6): 791-798](https://academic.oup.com/bioinformatics/article/33/6/791/2525584)
+
 ##### 2015
 
   - **PopIns: population-scale detection of novel sequence insertions.** Birte Kehr, Pall Melsted and Bjarni Halldorsson. [Bioinformatics,  32 (7): 961-967, (2016)](https://academic.oup.com/bioinformatics/article/32/7/961/2240308?searchresult=1)
