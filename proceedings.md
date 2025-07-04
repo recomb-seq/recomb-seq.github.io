@@ -7,6 +7,24 @@ isStaticPost: true
 
 #### Full Proceedings Papers
 
+##### 2025
+
+  - **Alignment-free detection of differences between sequencing data sets.** Alessia Petescia, Luca Denti, Askar Gafurov, Viktória Hodorová, Jozef Nosek, Broňa Brejová and Tomas Vinar. 
+  - **Tile-X: A vertex reordering approach for scalable long read assembly.** Oieswarya Bhowmik and Ananth Kalyanaraman. [bioRxiv 2025.04.21.649853, (2025)](https://www.biorxiv.org/content/10.1101/2025.04.21.649853v1.full)
+  - **Decoding the causal drivers of spatial cellular topology.** Prannav Shankar, Huan Liang, Uthsav Chitra and Rohit Singh. [bioRxiv 2025.03.19.644241, (2025)](https://www.biorxiv.org/content/10.1101/2025.03.19.644241v2)
+  - **Efficient trace reconstruction in DNA storage systems using Bidirectional Beam Search.** Zhenhao Gu, Hongyi Xin, Puru Sharma, Gary Yipeng Goh, Limsoon Wong and Niranjan Nagarajan. [bioRxiv 2025.04.16.644694, (2025)](https://www.biorxiv.org/content/10.1101/2025.04.16.644694v1)
+  - **Decoupling Hi-C matrices with non-negative matrix factorization to reveal assorted TADs.** Zhao Ling, Shi Ying Li, Jingwan Wang, Xikang Feng, Bowen Tan and Shuai Cheng Li. 
+  - **Run-length compressed metagenomic read classification with SMEM-finding and tagging.** Lore Depuydt, Omar Y. Ahmed, Jan Fostier, Ben Langmead and Travis Gagie. [bioRxiv 2025.02.25.640119, (2025)](https://www.biorxiv.org/content/10.1101/2025.02.25.640119v2)
+
+##### 2023
+
+  - **TreeTerminus - creating transcript trees using inferential replicate counts.** Noor Pratap Singh, Michael I Love and Rob Patro. [iScience, 26 (6): 106961, (2023)](https://www.sciencedirect.com/science/article/pii/S2589004223010386)
+  - **DandD: efficient measurement of sequence growth and similarity.** Jessica Bonnie, Omar Ahmed and Ben Langmead. [iScience, 27 (3): 109054, (2024)](https://www.sciencedirect.com/science/article/pii/S258900422400275X)
+  - **ADEPT: autoencoder with differentially expressed genes and imputation for a robust spatial transcriptomics clusterin.** Yunfei Hu, Yuying Zhao, Curtis Schunk, Yingxiang Ma, Tyler Derr and Xin Maizie Zhou. [iScience, 26 (6): 106792, (2023)](https://www.sciencedirect.com/science/article/pii/S2589004223008696)
+  - **aKmerBroom: ancient oral DNA decontamination using Bloom filters on k-mer sets.** Camila Duitama González, Riccardo Vicedomini, Hugues Richard and Rayan Chikhi. [iScience, 26 (11): 108057, (2023)](https://www.sciencedirect.com/science/article/pii/S258900422302134X)
+  - **Masked superstrings as a unified framework for textual k-mer set representations.** Ondrej Sladky, Pavel Vesely and Karel Brinda. [bioRxiv 2023.02.01.526717, (2023)](https://www.biorxiv.org/content/10.1101/2023.02.01.526717v1)
+  - **WGT: tools and algorithms for recognizing, visualizing and generating Wheeler graphs.** Kuan-Hao Chao, Pei-Wei Chen, Sanjit A. Seshia and Ben Langmead. [iScience, 26 (8): 107402, (2023)](https://www.sciencedirect.com/science/article/pii/S2589004223014797)
+
 ##### 2022
 
   - **Sequence-based pangenomic core detection.** Tizian Schulz, Roland Wittler and Jens Stoye. [iScience, 25 (6): 104413, (2022)](https://www.sciencedirect.com/science/article/pii/S2589004222006848)
@@ -15,6 +33,14 @@ isStaticPost: true
   - **BOA: a partitioned view of genome assembly .** Priyanka Ghosh, Xiaojing An, Patrick Keppler, Sureyya Emre Kurt, Umit Catalyurek, Sriram Krishnamoorthy, Ponnuswamy Sadayappan, Aravind Sukumaran Rajam and Ananth Kalyanaraman. [iScience, 25 (11): 105273, (2022)](https://www.sciencedirect.com/science/article/pii/S2589004222015450)
   - **Mapping-friendly sequence reductions: going beyond homopolymer compression.** Luc Blassel, Paul Medvedev and Rayan Chikhi. [iScience, 25 (11): 105305, (2022)](https://www.sciencedirect.com/science/article/pii/S2589004222015772)
   - **BinSPreader: refine binning results for fuller MAG reconstruction .** Ivan Tolstoganov, Yury Kamenev, Roman Kruglikov, Sofia Ochkalova and Anton Korobeynikov. [iScience, 25 (8): 104770, (2022)](https://www.sciencedirect.com/science/article/pii/S2589004222010422)
+
+##### 2021
+
+  - **Dynamic partitioning of search patterns for approximate pattern matching using search schemes.** Luca Renders, Kathleen Marchal and Jan Fostier. [iScience, 24 (7): 102687, (2021)](https://www.cell.com/iscience/fulltext/S2589-0042(21)00655-6)
+  - **Linearization of genome sequence graphs revisited.** Anna Lisiecka and Norbert Dojer. [iScience, 24 (7): 102755, (2021)](https://www.cell.com/iscience/fulltext/S2589-0042(21)00723-9)
+  - **Pan-genomic matching statistics for targeted nanopore sequencing.** Omar Ahmed, Massimiliano Rossi, Sam Kovaka, Michael Schatz, Travis Gagie, Christina Boucher and Ben Langmead. [iScience, 24 (6): 102696, (2021)](https://www.cell.com/iscience/fulltext/S2589-0042(21)00664-7)
+  - **A molecular taxonomy of tumors independent of tissue-of-origin.** Peter Nguyen, Simon Coetzee, Daniel Lakeland and Dennis Hazelett . [iScience, 24 (10): 103084, (2021)](https://www.cell.com/iscience/fulltext/S2589-0042(21)01052-X)
+  - **A reference-free approach for cell type classification with scRNA-seq.** Qi Sun, Yifan Peng and Jinze Liu. [iScience, 24 (8): 102855, (2021)](https://www.cell.com/iscience/fulltext/S2589-0042(21)00823-3)
 
 ##### 2018
 
