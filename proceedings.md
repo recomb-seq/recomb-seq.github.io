@@ -7,6 +7,15 @@ isStaticPost: true
 
 #### Full Proceedings Papers
 
+##### 2022
+
+  - **Sequence-based pangenomic core detection.** Tizian Schulz, Roland Wittler and Jens Stoye. [iScience, 25 (6): 104413, (2022)](https://www.sciencedirect.com/science/article/pii/S2589004222006848)
+  - **scTagger: Fast and accurate matching of cellular barcodes across short- and long-reads of single-cell RNA-seq experiments.** Ghazal Ebrahimi, Baraa Orabi, Meghan Robinson, Cedric Chauve, Ryan Flannigan and Faraz Hach. [iScience, 25 (7): 104530, (2022)](https://www.sciencedirect.com/science/article/pii/S258900422200801X)
+  - **Genetic polyploid phasing from low-depth progeny samples.** Sven Schrinner, Rebecca Serra Mari, Richard Finkers, Paul Arens, Björn Usadel, Tobias Marschall and Gunnar W. Klau. [iScience, 25 (6): 104461, (2022)](https://www.sciencedirect.com/science/article/pii/S2589004222007325)
+  - **BOA: a partitioned view of genome assembly .** Priyanka Ghosh, Xiaojing An, Patrick Keppler, Sureyya Emre Kurt, Umit Catalyurek, Sriram Krishnamoorthy, Ponnuswamy Sadayappan, Aravind Sukumaran Rajam and Ananth Kalyanaraman. [iScience, 25 (11): 105273, (2022)](https://www.sciencedirect.com/science/article/pii/S2589004222015450)
+  - **Mapping-friendly sequence reductions: going beyond homopolymer compression.** Luc Blassel, Paul Medvedev and Rayan Chikhi. [iScience, 25 (11): 105305, (2022)](https://www.sciencedirect.com/science/article/pii/S2589004222015772)
+  - **BinSPreader: refine binning results for fuller MAG reconstruction .** Ivan Tolstoganov, Yury Kamenev, Roman Kruglikov, Sofia Ochkalova and Anton Korobeynikov. [iScience, 25 (8): 104770, (2022)](https://www.sciencedirect.com/science/article/pii/S2589004222010422)
+
 ##### 2018
 
   - **Full-length de novo viral quasispecies assembly through variation graph construction.** Jasmijn Baaijens, Bastiaan van der Roest, Johannes Koster, Leen Stougie and Alexander Schoenhuth. [Bioinformatics, 35 (24): 5086-5094, (2019)](https://academic.oup.com/bioinformatics/article/35/24/5086/5506652)
