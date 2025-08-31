@@ -16,6 +16,15 @@ isStaticPost: true
   - **Decoupling Hi-C matrices with non-negative matrix factorization to reveal assorted TADs.** Zhao Ling, Shi Ying Li, Jingwan Wang, Xikang Feng, Bowen Tan and Shuai Cheng Li. 
   - **Run-length compressed metagenomic read classification with SMEM-finding and tagging.** Lore Depuydt, Omar Y. Ahmed, Jan Fostier, Ben Langmead and Travis Gagie. [bioRxiv 2025.02.25.640119, (2025)](https://www.biorxiv.org/content/10.1101/2025.02.25.640119v2)
 
+##### 2024
+
+  - **Movi: a fast and cache-efficient full-text pangenome index.** Mohsen Zakeri, Nathaniel Brown, Omar Ahmed, Travis Gagie and Ben Langmead. [iScience, 27 (12): 111464, (2024) S1 (2014)](https://www.sciencedirect.com/science/article/pii/S2589004224026919)
+  - **Building a Pangenome Alignment Index via Recursive Prefix-Free Parsing.** Eddie Ferro, Marco Oliva, Travis Gagie and Christina Boucher. [iScience, 27 (10): 110933, (2024) S2 (2014)](https://www.sciencedirect.com/science/article/pii/S2589004224021588)
+  - **The Backpack Quotient Filter: a dynamic and space-efficient data structure for querying k-mers with abundance.** Victor Levallois, Pierre Peterlongo, Yoann Dufresne, Bertrand Le Gal and Francesco Andreace. [iScience, 27 (12): 111435, (2024) S3 (2014)](https://www.sciencedirect.com/science/article/pii/S2589004224026609)
+  - **Synthetic promoter design in Escherichia coli based on multinomial diffusion model.** Qixiu Du, May Nee Poon, Xiaocheng Zeng, Pengcheng Zhang, Zheng Wei, Haochen Wang, Ye Wang, Lei Wei and Xiaowo Wang. [iScience, 27 (11): 111207, (2024) S4 (2014)](https://www.sciencedirect.com/science/article/pii/S2589004224024325)
+  - **Quick and effective approximation of in silico saturation mutagenesis experiments with first-order Taylor expansion.** Alexander Sasse, Sara Mostafavi and Maria Chikina. [iScience, 27 (9): 110807, (2024) S5 (2014)](https://www.sciencedirect.com/science/article/pii/S2589004224020327)
+  - **Flowtigs: safety in flow decompositions for assembly graphs.** Francisco Sena, Eliel Ingervo, Shahbaz Khan, Andrey Prjibelski, Sebastian Schmidt and Alexandru Tomescu. [iScience, 27 (12): 111208, (2024) S6 (2014)](https://www.sciencedirect.com/science/article/pii/S2589004224024337)
+
 ##### 2023
 
   - **TreeTerminus - creating transcript trees using inferential replicate counts.** Noor Pratap Singh, Michael I Love and Rob Patro. [iScience, 26 (6): 106961, (2023)](https://www.sciencedirect.com/science/article/pii/S2589004223010386)
@@ -41,6 +50,16 @@ isStaticPost: true
   - **Pan-genomic matching statistics for targeted nanopore sequencing.** Omar Ahmed, Massimiliano Rossi, Sam Kovaka, Michael Schatz, Travis Gagie, Christina Boucher and Ben Langmead. [iScience, 24 (6): 102696, (2021)](https://www.cell.com/iscience/fulltext/S2589-0042(21)00664-7)
   - **A molecular taxonomy of tumors independent of tissue-of-origin.** Peter Nguyen, Simon Coetzee, Daniel Lakeland and Dennis Hazelett . [iScience, 24 (10): 103084, (2021)](https://www.cell.com/iscience/fulltext/S2589-0042(21)01052-X)
   - **A reference-free approach for cell type classification with scRNA-seq.** Qi Sun, Yifan Peng and Jinze Liu. [iScience, 24 (8): 102855, (2021)](https://www.cell.com/iscience/fulltext/S2589-0042(21)00823-3)
+
+##### 2020
+
+  - **Spherical thresholding improves sketching of single-cell transcriptomic heterogeneity.** Van Hoan Do, Khaled Elbassioni and Stefan Canzar. [iScience, 23(6): 101126, 2020 S1 (2014)](https://www.cell.com/iscience/fulltext/S2589-0042(20)30311-4)
+  - **HASLR: Fast Hybrid Assembly of Long Reads.** Ehsan Haghshenas, Hossein Asghari, Jens Stoye, Cedric Chauve and Faraz Hach. [iScience, 23(8): 101389, 2020 S2 (2014)](https://www.cell.com/iscience/fulltext/S2589-0042(20)30577-0)
+  - **BATMAN: fast and accurate integration of single-cell RNA-Seq datasets via minimum-weight matching.** Igor Mandric, Brian Hill, Malika Freund, Michael Thompson and Eran Halperin. [iScience 23(6): 101185, 2020 S3 (2014)](https://www.cell.com/iscience/fulltext/S2589-0042(20)30370-9)
+  - **Scalable pairwise whole-genome homology mapping of large genomes with BubbZ.** Ilia Minkin and Paul Medvedev. [iScience 23(6): 101224, 2020 S4 (2014)](https://www.cell.com/iscience/fulltext/S2589-0042(20)30409-0)
+  - **Hierarchically labeled database indexing allows scalable characterization of microbiomes.** Filippo Utro, Niina Haiminen, Enrico Siragusa, Laura-Jayne Gardiner, Edward Seabolt, Ritesh Krishna, James Kaufman and Laxmi Parida. [iScience 23(4): 100988, 2020 S5 (2014)](https://www.cell.com/iscience/fulltext/S2589-0042(20)30172-3)
+  - **Maximal Perfect Haplotype Blocks with Wildcards.** Lucia Williams and Brendan Mumey. [iScience 23(6): 101149, 2020 S6 (2014)](https://www.cell.com/iscience/fulltext/S2589-0042(20)30334-5)
+  - **CONNET: Accurate Diploid Genome Consensus in de novo Assembly of Nanopore Sequencing Data via Deep Learning.** Yifan Zhang, Chi-Man Liu, Henry Cm Leung, Ruibang Luo and Tak-Wah Lam. [iScience 23(5): 101128, 2020 S7 (2014)](https://www.cell.com/iscience/fulltext/S2589-0042(20)30313-8)
 
 ##### 2018
 
