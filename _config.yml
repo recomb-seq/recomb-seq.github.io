@@ -51,10 +51,10 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "RECOMB-SEQ 2025"
-heroSubTitle: "The 15th RECOMB Satellite Conference on Biological Sequence Analysis"
-eventDate: "April 24-25, 2025"
-eventLocation: "Seoul, South Korea"
+heroTitle: "RECOMB-SEQ 2026"
+heroSubTitle: "The 16th RECOMB Satellite Conference on Biological Sequence Analysis"
+eventDate: "May 24-25, 2026"
+eventLocation: "Thessaloniki, Greece"
 #typeoutTextValues: '"2023"'
 #typeoutFallback: "2023"
 heroButtons:
@@ -93,10 +93,10 @@ eventStreetAddress: "TBD"
 eventAddressLocality: ""
 eventAddressLocalityRegion: "Seoul"
 eventPostalCode: ""
-eventAddressCountry: "South Korea"
-eventStartTime: "2025-04-24T08:00"
+eventAddressCountry: "Greece"
+eventStartTime: "2026-05-24T08:00"
 eventDoorTime: "09:00"
-eventEndTime: "2025-04-25T18:00"
+eventEndTime: "2026-05-25T18:00"
 eventPlaceCoordinates: "37.5617613,126.9353254"
 mapCenterCoordinates: "37.5617613,126.9353254"
 mapMobileCenterCoordinates: "37.5617613,126.9353254"
@@ -168,35 +168,35 @@ logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
-directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
-directionDetailsWideCards:
- -
-  title: "Questions?"
-  subCards:
-   -
-    title: "Hotels"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Registration"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+#directionDetailsImage: "direction-details.jpg"
+#directionDetailsTitle: "Get around Lviv"
+#directionDetailsCards:
+# - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
+# - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
+# - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+#directionDetailsWideCards:
+# -
+#  title: "Questions?"
+#  subCards:
+#   -
+#    title: "Hotels"
+#    links:
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+#   -
+#    title: "Registration"
+#    links:
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+#   -
+#    title: "Attendance Details"
+#    links:
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
