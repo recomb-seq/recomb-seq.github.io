@@ -172,6 +172,15 @@ isStaticPost: true
   - **On the coverage required for diploid genome assembly.** Daanish Mahajan, Chirag Jain and Navin Kashyap.
   - **Pangenome graph augmentation from unassembled long reads.** Luca Denti, Paola Bonizzoni, Brona Brejova, Rayan Chikhi, Thomas Krannich, Tomas Vinar and Fereydoun Hormozdiari.
 
+##### 2024
+
+  - **PLA-complexity of k-mer multisets.** Md Hasin Abrar and Paul Medvedev.
+  - **Phasing Diploid Genome Assembly Graphs with Single-Cell Strand Sequencing.** Mir Henglin, Maryam Ghareghani, William Harvey, David Porubsky, Sergey Koren, Evan Eichler, Peter Ebert and Tobias Marschall.
+  - **CNVeil enables accurate and robust tumor subclone identification and copy number estimation from single cell sequencing data.** Weiman Yuan, Can Luo, Yunfei Hu, Liting Zhang, Zihang Wen, Yichen Henry Liu, Xian Mallory and Xin Maizie Zhou.
+  - **Quality assessment of splice site annotation based on conservation across multiple species.** Ilia Minkin and Steven Salzberg.
+  - **MaskGraphene: Advancing joint embedding, clustering, and batch correction for spatial transcriptomics using graph-based self-supervised learning.** Yunfei Hu, Yikang Li, Manfei Xie, Mingxing Rao, Yichen Henry Liu and Xin Maizie Zhou.
+  - **Investigating the performance of foundation models on human 3’UTR sequences.** Sergey Vilov and Matthias Heinig.
+
 ##### 2023
 
   - **Exploring high-quality microbial genomes by assembly of linked-reads with high barcode specificity using deep learning.** Zhenmiao Zhang, Hongbo Wang, Chao Yang, Yufen Huang, Zhen Yue, Yang Chen, Lijuan Han, Aiping Lyu, Xiaodong Fang and Lu Zhang.
@@ -208,6 +217,12 @@ isStaticPost: true
   - **Ariadne: barcoded linked-read deconvolution using de Bruijn graphs.** Lauren Mak, Dmitry Meleshko, David C. Danko, Waris Barakzai, Natan Belchikov and Iman Hajirasouliha.
   - **ACTIVA: realistic single-cell RNA-seq generation with automatic cell-type identification using introspective variational autoencoders.** A. Ali Heydari, Oscar Davalos, Lihong Zhao, Katrina Hoyer and Suzanne Sindi.
 
+##### 2020
+
+  - **TALC: Transcription-aware long read correction.** Lucile Broseus, Aubin Thomas and William Ritchie.
+  - **Metalign: Efficient alignment-based metagenomic profiling via containment min hash.** Nathan Lapierre, Mohammed Alser, Eleazar Eskin, David Koslicki and Serghei Mangul.
+  - **SCAPP: An algorithm for improved plasmid assembly in metagenomes.** David Pellow, Maraike Probst, Ori Furman, Alvah Zorea, Arik Segal, Itzik Mizrahi and Ron Shamir.
+
 
 #### Short Talks Selected from Abstracts
 
@@ -230,6 +245,20 @@ isStaticPost: true
   - **De Bruijn graphs for pangenomics: in-depth performance benchmarking of de Bruijn graph-based tools for read mapping.** Zülal Bingöl, Berkan Şahin, Konstantina Koliogeorgi, Ricardo Roman-Brenes, Klea Zambaku, Can Firtina, Onur Mutlu and Can Alkan .
   - **Efficient algorithm for resolving scenarios of complex chromosomal rearrangements.** Barbara Poszewiecka, Krzysztof Gogolewski and Anna Gambin .
 
+##### 2024
+
+  - **A whole-genome probe design for massively parallel variant validation using selective circularization.** Daniel Newburger, Georges Natsoulis, Hua Xu, Sue Grimes, John Bell and Hanlee Ji.
+  - **Accurate estimation of gene expression levels from dge sequencing data.** Marius Nicolae and Ion Mandoiu.
+  - **Constrained traversal of repeats with paired sequences.** Sébastien Boisvert, Élénie Godzaridis, François Laviolette and Jacques Corbeil.
+  - **Contig graph mining for duplication breakpoints.** Jurgen F. Nijkamp, Jean-Marc Daran, Marcel J.T. Reinders and Dick De Ridder.
+  - **Counting k-mers with a Bloom Filter.** Pall Melsted and Jonathan Pritchard.
+  - **Finding deletions with exact break points from noisy low coverage paired-end short sequence reads.** Jin Zhang and Yufeng Wu.
+  - **Improved variant discovery and allele frequency estimation from pooled dna resequencing with bayesian latent class analysis and compositional bias models.** Shom Paul and Aaron Mackey.
+  - **Modeling and automation of sequencing-based determination of RNA structure.** Sharon Aviran, Cole Trapnell, Julius Lucks, Stefanie Mortimer, Shujun Luo, Gary Schroth, Jennifer Doudna, Adam Arkin and Lior Pachter.
+  - **mTiM: margin-based transcript mapping from RNA-seq.** Georg Zeller, Nico Goernitz, Gunnar Raetsch, Jonas Behr, Andre Kahles, Soeren Sonnenburg and Pramod Mudrakarta.
+  - **Separating metagenomic data into genomes via clustering.** Olga Tanaseichuk and Tao Jiang.
+  - **TavernaPBS: custom next-generation sequence analysis workflows using high-performance computing resources with Taverna and PBS.** Mark Lawson, Paul Shuber and Aaron Mackey.
+
 ##### 2023
 
   - **TRIBAL: Tree inference of B cell clonal lineages.** Leah Weber, Derek Reiman, Mohammed El-Kebir and Aly Khan.
@@ -250,6 +279,15 @@ isStaticPost: true
   - **Rigorous benchmarking of T cell receptor repertoire profiling methods for cancer RNA sequencing.** Kerui Peng and Serghei Mangul.
   - **Detection of somatic mosaicism at short tandem repeats from NGS data.** Aarushi Sehgal and Melissa Gymrek.
 
+##### 2020
+
+  - **Visualisation of multiple sequence alignment structures.** Paulina Knut, Paulina Dziadkiewicz and Norbert Dojer.
+  - **Comparison of kNN and k-means optimization methods of reference set selection for improved CNV callers performance.** Wiktor Kuśmirek.
+  - **Enough to speak true: benchmarking long-read genome sequence alignment tools for human genomics applications.** Jonathan Lotempio, Emmanuele Delot and Eric Vilain.
+  - **Association of alternative splicing in PICALM with Alzheimer’s disease progression.** Juhyun Park, Senggyun Han, Kwangsik Nho and Younghee Lee.
+  - **Weighted minimizer sampling improves long read mapping.** Chirag Jain, Arang Rhie, Haowen Zhang, Claudia Chu, Sergey Koren and Adam Phillippy.
+  - **EpiScanpy: a single cell epigenomics analysis pipeline.** Anna Danese, Maria Richter, Kridsadakorn Chaichoompu, David Fischer, Fabian Theis and Maria Colomé-Tatché.
+
 ##### 2018
 
   - **Solving scaffolding problem with repeats.** Igor Mandric and Alex Zelikovsky.
@@ -262,6 +300,20 @@ isStaticPost: true
   - **Fast expectation maximization source tracking.** Liat Shenhav, Mike Thompson, Tyler Joseph, Ori Furman, David Bogumil, Itzik Mizrahi and Eran Halperin.
   - **Fast and accurate bisulfite alignment and methylation calling for mammalian genomes.** Jonas Fischer and Marcel Schulz.
   - **Identification of transcriptional signatures for cell types from single-cell RNA-Seq.** Lynn Yi, Vasilis Ntranos, Pall Melsted and Lior Pachter.
+
+##### 2017
+
+  - **Genomic reads forests for compressed representation of high throughput sequence data.** Tony Ginart, Kaiyuan Zhu, Joseph Hui, Ibrahim Numanagic, David Tse, Thomas Courtade and Cenk Sahinalp.
+  - **Faster omnitig listing for safe and complete contig assembly.** Massimo Cairo, Paul Medvedev, Nidia Obscura Acosta, Romeo Rizzi and Alexandru I. Tomescu.
+  - **Probabilistic estimation of overlap graphs for large sequence datasets.** Rahul Nihalani, Sriram P. Chockalingam, Shaowei Zhu, Vijay Vazirani and Srinivas Aluru.
+  - **TransPac: transposon detection and characterization from long-reads.** Xintong Chen, Oscar Rodriguez, Matthew Pendleton, Bojan Losic and Ali Bashir.
+  - **Variant tolerant read mapping using min-hashing.** Jens Quedenfeld and Sven Rahmann.
+  - **MetaCherchant – an algorithm for analyzing genomic environment of antibiotic resistance gene in gut microbiota.** Evgenii I. Olekhnovich, Artem T. Vasilyev, Vladimir I. Ulyantsev and Alexander V. Tyakht.
+  - **ARCS: assembly roundup by chromium scaffolding.** Sarah Yeo, Lauren Coombe, Justin Chu, Rene Warren and Inanc Birol.
+  - **Kohdista: a succinct solution to Rmap alignment.** Martin Muggli, Simon Puglisi and Christina Boucher.
+  - **A tensor factorization framework for haplotype assembly of diploids and polyploids.** Abolfazl Hashemi, Banghua Zhu and Haris Vikalo.
+  - **LEAP: a generalization of the landau-vishkin algorithm with custom gap penalties.** Hongyi Xin, Jeremie Kim, Sunny Nahar, Can Alkan and Onur Mutlu.
+  - **Theory and algorithm for the minimum path flow decomposition problem.** Mingfu Shao and Carl Kingsford.
 
 ##### 2016
 
@@ -319,6 +371,43 @@ isStaticPost: true
   - **A novel computational pipeline for the functional characterization and deorphanization of G-protein coupled receptors.** Catherine Zhou.
   - **Parallel and space efficient exact local alignment.** Evelin Aasna.
   - **Pre-training dataset deduplication improves genomic LLMs.** Mahler Revsine, Daniel Khashabi and Michael Schatz.
+
+##### 2024
+
+  - **Compressed Indexing for Pangenome Substring Queries .** Stephen Hwang, Nathaniel K. Brown, Omar Y. Ahmed, Katharine Jenike, Sam Kovaka, Michael C. Schatz and Ben Langmead.
+  - **Pan-genome de Bruijn Graph using the Bidirectional FM-index.** Lore Depuydt, Luca Renders, Thomas Abeel and Jan Fostier.
+  - **Mumemto: efficient maximal matching across multiple genomes.** Vikram Shivakumar and Ben Langmead.
+  - **A*PA & A*PA2: Up to 20 times faster exact global pairwise alignment.** Ragnar Groot Koerkamp and Pesho Ivanov.
+  - **Accelerating whole-genome alignment using parallel chaining algorithm.** Ghanshyam Chandra and Chirag Jain.
+  - **Full resolution HLA and KIR genes annotation for human genome assemblies.** Ying Zhou, Li Song and Heng Li.
+  - **Combining DNA and protein alignments to improve genome annotation with LiftOn.** Kuan-Hao Chao, Jakob M Heinz, Celine Hoh, Alan Mao, Alaina Shumate, Mihaela Pertea and Steven L Salzberg.
+  - **DupCaller enables robust detection of somatic mutations from Error-Corrected Sequencing.** Yuhe Cheng and Ludmil B Alexandrov.
+  - **Comprehensive Tissue-Specific Somatic Mutation Profiling via RNA-seq in Diverse Mice.** Alexis Garretson and Beth L Dumont.
+  - **VISTA: An integrated framework for structural variant discovery.** Varuni Sarwal, Seungmo Lee, Jianzhi Yang, Sriram Sankararaman, Mark Chaisson, Eleazar Eskin and Serghei Mangul.
+  - **An efficient and accurate germline SNP caller for long-read RNA sequencing data.** Neng Huang and Heng Li.
+  - **Analyzing the relatedness of genomic variation in malaria parasites using a reference-free approach.** Cecile P G Meier-Scherling, Tavor Baharav, Karamoko Niaré, Julia Salzman, Lorin Crawford and Jeffrey A Bailey.
+  - **Identification of B cell subsets based on antigen receptor sequences using deep learning.** Hyunho Lee, Kyoungseob Shin, Yongju Lee, Soobin Lee, Seungyoun Lee, Eunjae Lee, Seung Woo Kim, Ha Young Shin, Jong Hoon Kim, Junho Chung and Sunghoon Kwon.
+  - **Optimizing Design of Genomics Studies for Clonal Evolution Analysis.** Arjun Srivatsa and Russell Schwartz.
+  - **Comprehensive benchmarking of methods to infer from TCR-Seq data.** Mohammad Vahed, Yu Ning Huang, Jiaqi Fu, Kerui Peng and Serghei Mangul.
+  - **PA-Bench: A framework for benchmarking pairwise aligners.** Ragnar Groot Koerkamp and Daniel Liu.
+  - **Block Aligner: an adaptive SIMD-accelerated aligner for sequences and position-specific scoring matrices.** Daniel Liu and Martin Steinegger.
+  - **Gut derived Extracellular Vesicles Reaching Kupffer Cells: An alternative route for lipid transport out of the gut.** Estefania Torrejón, Akiko Teshima, Inês Ferreira, Ana Sofia Carvalho, Hans Christian Beck, Rune Matthiesen, Fabrizia Carli, Amalia Gastaldelli, Maria Paula Macedo and Rita Machado de Oliveira.
+  - **A Unitig-Centered Pan-Genome Approach for Predicting Antibiotic Resistance and Discovering Novel Resistance Genes in Bacterial Strains.** Thi Duyen Do, Ming-Ren Yang and Yu-Wei Wu.
+  - **Assessing Microbial Genome Representation Across Various Reference Databases: A Comprehensive Evaluation.** Grigore Boldirev, Nitesh Sharma, Alex Zelikovsky and Serghei Mangul.
+  - **Validating a liquid soil model to explore soil microbial community dynamics.** Siqin Li, Nicole Genesis Nicole Carpio Paucar and Natalie Farny.
+  - **Genetic Architecture of the Germline Mutation Rate and Reproductive Success in the Collaborative Cross.** Alexis Garretson and Beth L Dumont.
+  - **WGTDA: A Topological Framework for Biomarker Discovery in Gene Expression Data.** Ndivhuwo Nyase, Lebohang Mashatola, Stephanie Muller, Aviwe Kohlakala and Kahn Rhrissorrakrai.
+  - **QDSWorkflow: An Elastic Net-Based Tool for Modeling Cellular Dormancy.** Michelle Wei and Guang Yao.
+  - **Comprehensive characterization of pseudogenes across 26 human tissues.** Yunzhe Jiang, Beatrice Borsari and Mark Gerstein.
+  - **Partial gene predictions on unassembled reads: evaluating the Good, the Bad and the slightly ORF.** Amanda Clare, Wayne Aubrey, Mike Surette and Nicholas Dimonaco.
+  - **A unified hypothesis-free feature extraction framework for diverse epigenomic data.** Maria Chikina and Tugrul Balci.
+  - **Benchmarking of machine learning algorithms to predict mortality in sepsis from transcriptomic data.** Karishma Chhugani, Serghei Mangul, Oleg Arnaut, Nitesh Sharma and Belin Korukoğlu.
+  - **Comparative Evaluation of T-Cell Receptor Repertoire Sequencing Methods.** Dhrithi Deshpande and Serghei Mangul.
+  - **Statistical assessment of gene functional annotation clustering in graph models of chromosome conformation capture data.** Dallas Nygard, Julie St-Pierre and Mathieu Lavallée-Adam.
+  - **Community: A Novel R-Tool for Enhanced Differential Communication Analysis in scRNAseq Data.** Muhammet Celik, Felix Roman Salcher, Frank Ziemann, Maria Solovey and Maria Colome-Tatche.
+  - **Recovering approximate single cell distribution from aggregate measurements.** Pratik Worah.
+  - **scFedVI: A Privacy-Preserving Approach to Mitigating Batch Effects in Single-Cell RNA-Sequencing Data.** Parishad Mokhber, Alireza Gargoorimotlagh and Babak Khalaj.
+  - **sceptre: statistically rigorous, computationally efficient, and user-friendly single-cell CRISPR screen data analysis.** Timothy Barry, Joseph Deutch, Xihong Lin and Eugene Katsevich.
 
 ##### 2023
 
