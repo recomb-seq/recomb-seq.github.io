@@ -377,7 +377,7 @@ isStaticPost: true
   - **Compressed Indexing for Pangenome Substring Queries .** Stephen Hwang, Nathaniel K. Brown, Omar Y. Ahmed, Katharine Jenike, Sam Kovaka, Michael C. Schatz and Ben Langmead.
   - **Pan-genome de Bruijn Graph using the Bidirectional FM-index.** Lore Depuydt, Luca Renders, Thomas Abeel and Jan Fostier.
   - **Mumemto: efficient maximal matching across multiple genomes.** Vikram Shivakumar and Ben Langmead.
-  - **A*PA & A*PA2: Up to 20 times faster exact global pairwise alignment.** Ragnar Groot Koerkamp and Pesho Ivanov.
+  - **A\*PA & A\*PA2: Up to 20 times faster exact global pairwise alignment.** Ragnar Groot Koerkamp and Pesho Ivanov.
   - **Accelerating whole-genome alignment using parallel chaining algorithm.** Ghanshyam Chandra and Chirag Jain.
   - **Full resolution HLA and KIR genes annotation for human genome assemblies.** Ying Zhou, Li Song and Heng Li.
   - **Combining DNA and protein alignments to improve genome annotation with LiftOn.** Kuan-Hao Chao, Jakob M Heinz, Celine Hoh, Alan Mao, Alaina Shumate, Mihaela Pertea and Steven L Salzberg.
