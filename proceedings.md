@@ -15,6 +15,12 @@ isStaticPost: true
   - **Efficient trace reconstruction in DNA storage systems using Bidirectional Beam Search.** Zhenhao Gu, Hongyi Xin, Puru Sharma, Gary Yipeng Goh, Limsoon Wong and Niranjan Nagarajan. [bioRxiv 2025.04.16.644694, (2025)](https://www.biorxiv.org/content/10.1101/2025.04.16.644694v1)
   - **Decoupling Hi-C matrices with non-negative matrix factorization to reveal assorted TADs.** Zhao Ling, Shi Ying Li, Jingwan Wang, Xikang Feng, Bowen Tan and Shuai Cheng Li. 
   - **Run-length compressed metagenomic read classification with SMEM-finding and tagging.** Lore Depuydt, Omar Y. Ahmed, Jan Fostier, Ben Langmead and Travis Gagie. [bioRxiv 2025.02.25.640119, (2025)](https://www.biorxiv.org/content/10.1101/2025.02.25.640119v2)
+  - **De novo clustering of extensive long-read transcriptome datasets with isONclust3.** Alexander Petri and Kristoffer Sahlin. [overlay preprint](https://doi.org/10.1101/2024.10.29.620862)
+  - **Multi-context seeds enable fast and high-accuracy read mapping.** Ivan Tolstoganov, Marcel Martin and Kristoffer Sahlin. [overlay preprint](https://doi.org/10.1101/2024.10.29.620855)
+  - **GPU-accelerated homology search with MMseqs2.** Felix Kallenborn, Alejandro Chacon, Christian Hundt, Hassan Sirelkhatim, Kieran Didi, Sooyoung Cha, Christian Dallago, Milot Mirdita, Bertil Schmidt and Martin Steinegger. [overlay preprint](https://doi.org/10.1101/2024.11.13.623350)
+  - **DeepMM: identify and correct metagenome bisassemblies with deep learning.** Yi Ding, Jin Xiao, Bohao Zou and Lu Zhang. [overlay preprint](https://doi.org/10.1101/2025.02.07.637187)
+  - **On the coverage required for diploid genome assembly.** Daanish Mahajan, Chirag Jain and Navin Kashyap. [overlay preprint](https://doi.org/10.48550/arXiv.2405.05734)
+  - **Pangenome graph augmentation from unassembled long reads.** Luca Denti, Paola Bonizzoni, Brona Brejova, Rayan Chikhi, Thomas Krannich, Tomas Vinar and Fereydoun Hormozdiari. [overlay preprint](https://doi.org/10.1101/2025.02.07.637057)
 
 ##### 2024
 
@@ -24,6 +30,12 @@ isStaticPost: true
   - **Synthetic promoter design in Escherichia coli based on multinomial diffusion model.** Qixiu Du, May Nee Poon, Xiaocheng Zeng, Pengcheng Zhang, Zheng Wei, Haochen Wang, Ye Wang, Lei Wei and Xiaowo Wang. [iScience, 27 (11): 111207, (2024) S4 (2014)](https://www.sciencedirect.com/science/article/pii/S2589004224024325)
   - **Quick and effective approximation of in silico saturation mutagenesis experiments with first-order Taylor expansion.** Alexander Sasse, Sara Mostafavi and Maria Chikina. [iScience, 27 (9): 110807, (2024) S5 (2014)](https://www.sciencedirect.com/science/article/pii/S2589004224020327)
   - **Flowtigs: safety in flow decompositions for assembly graphs.** Francisco Sena, Eliel Ingervo, Shahbaz Khan, Andrey Prjibelski, Sebastian Schmidt and Alexandru Tomescu. [iScience, 27 (12): 111208, (2024) S6 (2014)](https://www.sciencedirect.com/science/article/pii/S2589004224024337)
+ - **PLA-complexity of k-mer multisets.** Md Hasin Abrar and Paul Medvedev. [overlay preprint](https://doi.org/10.1101/2024.02.08.579510)
+  - **Phasing Diploid Genome Assembly Graphs with Single-Cell Strand Sequencing.** Mir Henglin, Maryam Ghareghani, William Harvey, David Porubsky, Sergey Koren, Evan Eichler, Peter Ebert and Tobias Marschall. [overlay preprint](https://doi.org/10.1101/2024.02.15.580432)
+  - **CNVeil enables accurate and robust tumor subclone identification and copy number estimation from single cell sequencing data.** Weiman Yuan, Can Luo, Yunfei Hu, Liting Zhang, Zihang Wen, Yichen Henry Liu, Xian Mallory and Xin Maizie Zhou. [overlay preprint](https://doi.org/10.1101/2024.02.21.581409)
+  - **Quality assessment of splice site annotation based on conservation across multiple species.** Ilia Minkin and Steven Salzberg. [overlay preprint](https://doi.org/10.1101/2023.12.01.569581)
+  - **MaskGraphene: Advancing joint embedding, clustering, and batch correction for spatial transcriptomics using graph-based self-supervised learning.** Yunfei Hu, Yikang Li, Manfei Xie, Mingxing Rao, Yichen Henry Liu and Xin Maizie Zhou. [overlay preprint](https://doi.org/10.1101/2024.02.21.581387)
+  - **Investigating the performance of foundation models on human 3’UTR sequences.** Sergey Vilov and Matthias Heinig. [overlay preprint](https://doi.org/10.1101/2024.02.09.579631)
 
 ##### 2023
 
@@ -33,6 +45,15 @@ isStaticPost: true
   - **aKmerBroom: ancient oral DNA decontamination using Bloom filters on k-mer sets.** Camila Duitama González, Riccardo Vicedomini, Hugues Richard and Rayan Chikhi. [iScience, 26 (11): 108057, (2023)](https://www.sciencedirect.com/science/article/pii/S258900422302134X)
   - **Masked superstrings as a unified framework for textual k-mer set representations.** Ondrej Sladky, Pavel Vesely and Karel Brinda. [bioRxiv 2023.02.01.526717, (2023)](https://www.biorxiv.org/content/10.1101/2023.02.01.526717v1)
   - **WGT: tools and algorithms for recognizing, visualizing and generating Wheeler graphs.** Kuan-Hao Chao, Pei-Wei Chen, Sanjit A. Seshia and Ben Langmead. [iScience, 26 (8): 107402, (2023)](https://www.sciencedirect.com/science/article/pii/S2589004223014797)
+  - **Exploring high-quality microbial genomes by assembly of linked-reads with high barcode specificity using deep learning.** Zhenmiao Zhang, Hongbo Wang, Chao Yang, Yufen Huang, Zhen Yue, Yang Chen, Lijuan Han, Aiping Lyu, Xiaodong Fang and Lu Zhang. [overlay preprint](https://doi.org/10.1101/2022.09.07.506963)
+  - **A safety framework for flow decomposition problems via integer linear programming.** Fernando Hugo Cunha Dias, Manuel Caceres, Lucia Williams, Brendan Mumey and Alexandru I. Tomescu. [overlay preprint](https://doi.org/10.48550/arXiv.2301.13245)
+  - **Coverage-preserving sparsification of overlap graphs for long-read assembly.** Chirag Jain. [overlay preprint](https://doi.org/10.1101/2022.03.17.484715 )
+  - **Predicting transcription factor activity using prior biological information.** Joseph Estabrook, William Yashar, Hannah Holly, Julia Somers, Olga Nikolova, Ozgun Babur, Theodore Braun and Emek Demir. [overlay preprint](https://doi.org/10.1101/2022.12.16.520295)
+  - **On minimizers and convolutional filters: a partial justification for the effectiveness of CNNs in categorical sequence analysis.** Yun William Yu. [overlay preprint](https://doi.org/10.48550/arXiv.2111.08452)
+  - **TargetCall: eliminating the wasted computation in basecalling via pre-basecalling filtering.** Meryem Banu Cavlak, Gagandeep Singh, Mohammed Alser, Can Firtina, Joël Lindegger, Mohammad Sadrosadati, Nika Mansouri Ghiasi, Can Alkan and Onur Mutlu. [overlay preprint](https://doi.org/10.48550/arXiv.2212.04953)
+  - **An intrinsically interpretable neural network architecture for sequence to function learning.** Ali Tugrul Balci, Mark Maher Ebeid, Panayiotis Benos, Dennis Kostka and Maria Chikina. [overlay preprint](https://doi.org/10.1101/2023.01.25.525572)
+  - **Scrooge: a fast and memory-frugal genomic sequence aligner for CPUs, GPUs, and ASICs.** Joël Lindegger, Damla Senol Cali, Mohammed Alser, Juan Gómez-Luna, Nika Mansouri Ghiasi and Onur Mutlu. [overlay preprint](https://doi.org/10.48550/arXiv.2208.09985)
+
 
 ##### 2022
 
@@ -42,6 +63,13 @@ isStaticPost: true
   - **BOA: a partitioned view of genome assembly .** Priyanka Ghosh, Xiaojing An, Patrick Keppler, Sureyya Emre Kurt, Umit Catalyurek, Sriram Krishnamoorthy, Ponnuswamy Sadayappan, Aravind Sukumaran Rajam and Ananth Kalyanaraman. [iScience, 25 (11): 105273, (2022)](https://www.sciencedirect.com/science/article/pii/S2589004222015450)
   - **Mapping-friendly sequence reductions: going beyond homopolymer compression.** Luc Blassel, Paul Medvedev and Rayan Chikhi. [iScience, 25 (11): 105305, (2022)](https://www.sciencedirect.com/science/article/pii/S2589004222015772)
   - **BinSPreader: refine binning results for fuller MAG reconstruction .** Ivan Tolstoganov, Yury Kamenev, Roman Kruglikov, Sofia Ochkalova and Anton Korobeynikov. [iScience, 25 (8): 104770, (2022)](https://www.sciencedirect.com/science/article/pii/S2589004222010422)
+  - **Flexible seed size enables ultra-fast and accurate read alignment.** Kristoffer Sahlin. [overlay preprint](https://doi.org/10.1101/2021.06.18.449070)
+  - **Sparse and skew hashing of k-mers.** Giulio Ermanno Pibiri. [overlay preprint](https://doi.org/10.1101/2022.01.15.476199)
+  - **Metagenome assembly of high-fidelity long reads with hifiasm-meta.** Xiaowen Feng, Haoyu Cheng, Daniel Portik and Heng Li. [overlay preprint]()
+  - **Scalable sequence database search using Partitioned Aggregated Bloom Comb-Trees.** Camille Marchet and Antoine Limasset. [overlay preprint](https://doi.org/10.1101/2022.02.11.480089)
+  - **Improved structural variant discovery in hard-to-call regions using sample-specific string detection from accurate long reads.** Luca Denti, Parsoa Khorsand, Paola Bonizzoni, Fereydoun Hormozdiari and Rayan Chikhi. [overlay preprint](https://doi.org/10.1101/2022.02.12.480198)
+  - **The minimizer Jaccard estimator is biased and inconsistent.** Mahdi Belbasi, Antonio Blanca, Robert S. Harris, David Koslicki and Paul Medvedev. [overlay preprint](https://doi.org/10.1101/2022.01.14.476226)
+
 
 ##### 2021
 
@@ -50,6 +78,19 @@ isStaticPost: true
   - **Pan-genomic matching statistics for targeted nanopore sequencing.** Omar Ahmed, Massimiliano Rossi, Sam Kovaka, Michael Schatz, Travis Gagie, Christina Boucher and Ben Langmead. [iScience, 24 (6): 102696, (2021)](https://www.cell.com/iscience/fulltext/S2589-0042(21)00664-7)
   - **A molecular taxonomy of tumors independent of tissue-of-origin.** Peter Nguyen, Simon Coetzee, Daniel Lakeland and Dennis Hazelett . [iScience, 24 (10): 103084, (2021)](https://www.cell.com/iscience/fulltext/S2589-0042(21)01052-X)
   - **A reference-free approach for cell type classification with scRNA-seq.** Qi Sun, Yifan Peng and Jinze Liu. [iScience, 24 (8): 102855, (2021)](https://www.cell.com/iscience/fulltext/S2589-0042(21)00823-3)
+  - **Accurate spliced alignment of long RNA sequencing reads.** Kristoffer Sahlin and Veli Mäkinen.
+  - **Algorithms and complexity on indexing founder graphs.** Massimo Equi, Tuukka Norri, Jarno Alanko, Bastien Cazaux, Alexandru I. Tomescu and Veli Mäkinen.
+  - **HolistIC: leveraging Hi-C and whole genome shotgun sequencing for double minute chromosome discovery.** Matthew Hayes, Angela Nguyen, Rahib Islam, Caryn Butler, Ethan Tran, Derrick Mullins and Chindo Hicks.
+  - **CONSULT: Accurate contamination removal usinglocality-sensitive hashing.** Eleonora Rachtman, Vineet Bafna and Siavash Mirarab.
+  - **DeepDRIM: a deep neural network to reconstruct cell-type-specific gene regulatory network using single-cell RNA-seq data.** Jiaxing Chen, Chinwang Cheong, Liang Lan, Xin Zhou, Jiming Liu, Aiping Lyu, William K Cheung and Lu Zhang.
+  - **Conditional resampling improves calibration and sensitivity in single-cell CRISPR screen analysis.** Timothy Barry, Xuran Wang, Kathryn Roeder and Eugene Katsevich.
+  - **Accel-Align: a fast sequence mapper and aligner based on the seed–embed–extend method.** Yiqing Yan, Nimisha Chaturvedi and Raja Appuswamy.
+  - **BiTSC2: Bayesian inference of tumor clonal tree by joint analysis of single-cell SNV and CNA data.** Ziwei Chen, Fuzhou Gong, Lin Wan and Liang Ma.
+  - **Automated strain separation in low-complexity metagenomes using long reads.** Riccardo Vicedomini, Christopher Quince, Aaron Darling and Rayan Chikhi.
+  - **Real-time, direct classification of nanopore signals with SquiggleNet.** Yuwei Bao, Jack Wadden, John Erb-Downward, Piyush Ranjan, Robert Dickson, David Blaauw and Joshua Welch.
+  - **Population-scale detection of non-reference sequence variants using colored de Bruijn graphs.** Thomas Krannich, W. Timothy J. White, Sebastian Niehus, Guillaume Holley, Bjarni V. Halldorsson and Birte Kehr.
+  - **Ariadne: barcoded linked-read deconvolution using de Bruijn graphs.** Lauren Mak, Dmitry Meleshko, David C. Danko, Waris Barakzai, Natan Belchikov and Iman Hajirasouliha.
+  - **ACTIVA: realistic single-cell RNA-seq generation with automatic cell-type identification using introspective variational autoencoders.** A. Ali Heydari, Oscar Davalos, Lihong Zhao, Katrina Hoyer and Suzanne Sindi.
 
 ##### 2020
 
@@ -60,6 +101,10 @@ isStaticPost: true
   - **Hierarchically labeled database indexing allows scalable characterization of microbiomes.** Filippo Utro, Niina Haiminen, Enrico Siragusa, Laura-Jayne Gardiner, Edward Seabolt, Ritesh Krishna, James Kaufman and Laxmi Parida. [iScience 23(4): 100988, 2020 S5 (2014)](https://www.cell.com/iscience/fulltext/S2589-0042(20)30172-3)
   - **Maximal Perfect Haplotype Blocks with Wildcards.** Lucia Williams and Brendan Mumey. [iScience 23(6): 101149, 2020 S6 (2014)](https://www.cell.com/iscience/fulltext/S2589-0042(20)30334-5)
   - **CONNET: Accurate Diploid Genome Consensus in de novo Assembly of Nanopore Sequencing Data via Deep Learning.** Yifan Zhang, Chi-Man Liu, Henry Cm Leung, Ruibang Luo and Tak-Wah Lam. [iScience 23(5): 101128, 2020 S7 (2014)](https://www.cell.com/iscience/fulltext/S2589-0042(20)30313-8)
+  - **TALC: Transcription-aware long read correction.** Lucile Broseus, Aubin Thomas and William Ritchie. [overlay preprint](https://doi.org/10.1101/2020.01.10.901728)
+  - **Metalign: Efficient alignment-based metagenomic profiling via containment min hash.** Nathan Lapierre, Mohammed Alser, Eleazar Eskin, David Koslicki and Serghei Mangul. [overlay preprint](https://doi.org/10.1101/2020.01.17.910521)
+  - **SCAPP: An algorithm for improved plasmid assembly in metagenomes.** David Pellow, Maraike Probst, Ori Furman, Alvah Zorea, Arik Segal, Itzik Mizrahi and Ron Shamir. [overlay preprint](https://doi.org/10.1101/2020.01.12.903252)
+
 
 ##### 2018
 
@@ -160,68 +205,6 @@ isStaticPost: true
   - **Genotyping common and rare variation using overlapping pool sequencing.** Dan He, Noah Zaitlen, Bogdan Pasaniuc, Eleazar Eskin and Eran Halperin. [BMC Bioinformatics 12 (Suppl 6), S2 (2011)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-S6-S2).
   - **Assembly of non-unique insertion content using next-generation sequencing.** Nathaniel Parrish, Farhad Hormozdiari and Eleazar Eskin. [BMC Bioinformatics 12 (Suppl 6), S3 (2011)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-S6-S3).
   - **A Hidden Markov Model for copy number variant prediction from whole genome resequencing data.** Yufeng Shen, Yiwei Gu and Itsik Pe'Er. [BMC Bioinformatics 12 (Suppl 6), S4 (2011)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-S6-S4).
-
-#### Overlay Papers (full papers published elsewhere)
-
-##### 2025
-
-  - **De novo clustering of extensive long-read transcriptome datasets with isONclust3.** Alexander Petri and Kristoffer Sahlin.
-  - **Multi-context seeds enable fast and high-accuracy read mapping.** Ivan Tolstoganov, Marcel Martin and Kristoffer Sahlin.
-  - **GPU-accelerated homology search with MMseqs2.** Felix Kallenborn, Alejandro Chacon, Christian Hundt, Hassan Sirelkhatim, Kieran Didi, Sooyoung Cha, Christian Dallago, Milot Mirdita, Bertil Schmidt and Martin Steinegger.
-  - **DeepMM: identify and correct metagenome bisassemblies with deep learning.** Yi Ding, Jin Xiao, Bohao Zou and Lu Zhang.
-  - **On the coverage required for diploid genome assembly.** Daanish Mahajan, Chirag Jain and Navin Kashyap.
-  - **Pangenome graph augmentation from unassembled long reads.** Luca Denti, Paola Bonizzoni, Brona Brejova, Rayan Chikhi, Thomas Krannich, Tomas Vinar and Fereydoun Hormozdiari.
-
-##### 2024
-
-  - **PLA-complexity of k-mer multisets.** Md Hasin Abrar and Paul Medvedev.
-  - **Phasing Diploid Genome Assembly Graphs with Single-Cell Strand Sequencing.** Mir Henglin, Maryam Ghareghani, William Harvey, David Porubsky, Sergey Koren, Evan Eichler, Peter Ebert and Tobias Marschall.
-  - **CNVeil enables accurate and robust tumor subclone identification and copy number estimation from single cell sequencing data.** Weiman Yuan, Can Luo, Yunfei Hu, Liting Zhang, Zihang Wen, Yichen Henry Liu, Xian Mallory and Xin Maizie Zhou.
-  - **Quality assessment of splice site annotation based on conservation across multiple species.** Ilia Minkin and Steven Salzberg.
-  - **MaskGraphene: Advancing joint embedding, clustering, and batch correction for spatial transcriptomics using graph-based self-supervised learning.** Yunfei Hu, Yikang Li, Manfei Xie, Mingxing Rao, Yichen Henry Liu and Xin Maizie Zhou.
-  - **Investigating the performance of foundation models on human 3’UTR sequences.** Sergey Vilov and Matthias Heinig.
-
-##### 2023
-
-  - **Exploring high-quality microbial genomes by assembly of linked-reads with high barcode specificity using deep learning.** Zhenmiao Zhang, Hongbo Wang, Chao Yang, Yufen Huang, Zhen Yue, Yang Chen, Lijuan Han, Aiping Lyu, Xiaodong Fang and Lu Zhang.
-  - **A safety framework for flow decomposition problems via integer linear programming.** Fernando Hugo Cunha Dias, Manuel Caceres, Lucia Williams, Brendan Mumey and Alexandru I. Tomescu.
-  - **Coverage-preserving sparsification of overlap graphs for long-read assembly.** Chirag Jain.
-  - **Predicting transcription factor activity using prior biological information.** Joseph Estabrook, William Yashar, Hannah Holly, Julia Somers, Olga Nikolova, Ozgun Babur, Theodore Braun and Emek Demir.
-  - **On minimizers and convolutional filters: a partial justification for the effectiveness of CNNs in categorical sequence analysis.** Yun William Yu.
-  - **TargetCall: eliminating the wasted computation in basecalling via pre-basecalling filtering.** Meryem Banu Cavlak, Gagandeep Singh, Mohammed Alser, Can Firtina, Joël Lindegger, Mohammad Sadrosadati, Nika Mansouri Ghiasi, Can Alkan and Onur Mutlu.
-  - **An intrinsically interpretable neural network architecture for sequence to function learning.** Ali Tugrul Balci, Mark Maher Ebeid, Panayiotis Benos, Dennis Kostka and Maria Chikina.
-  - **Scrooge: a fast and memory-frugal genomic sequence aligner for CPUs, GPUs, and ASICs.** Joël Lindegger, Damla Senol Cali, Mohammed Alser, Juan Gómez-Luna, Nika Mansouri Ghiasi and Onur Mutlu.
-
-##### 2022
-
-  - **Flexible seed size enables ultra-fast and accurate read alignment.** Kristoffer Sahlin.
-  - **Sparse and skew hashing of k-mers.** Giulio Ermanno Pibiri.
-  - **Metagenome assembly of high-fidelity long reads with hifiasm-meta.** Xiaowen Feng, Haoyu Cheng, Daniel Portik and Heng Li.
-  - **Scalable sequence database search using Partitioned Aggregated Bloom Comb-Trees.** Camille Marchet and Antoine Limasset.
-  - **Improved structural variant discovery in hard-to-call regions using sample-specific string detection from accurate long reads.** Luca Denti, Parsoa Khorsand, Paola Bonizzoni, Fereydoun Hormozdiari and Rayan Chikhi.
-  - **The minimizer Jaccard estimator is biased and inconsistent.** Mahdi Belbasi, Antonio Blanca, Robert S. Harris, David Koslicki and Paul Medvedev.
-
-##### 2021
-
-  - **Accurate spliced alignment of long RNA sequencing reads.** Kristoffer Sahlin and Veli Mäkinen.
-  - **Algorithms and complexity on indexing founder graphs.** Massimo Equi, Tuukka Norri, Jarno Alanko, Bastien Cazaux, Alexandru I. Tomescu and Veli Mäkinen.
-  - **HolistIC: leveraging Hi-C and whole genome shotgun sequencing for double minute chromosome discovery.** Matthew Hayes, Angela Nguyen, Rahib Islam, Caryn Butler, Ethan Tran, Derrick Mullins and Chindo Hicks.
-  - **CONSULT: Accurate contamination removal usinglocality-sensitive hashing.** Eleonora Rachtman, Vineet Bafna and Siavash Mirarab.
-  - **DeepDRIM: a deep neural network to reconstruct cell-type-specific gene regulatory network using single-cell RNA-seq data.** Jiaxing Chen, Chinwang Cheong, Liang Lan, Xin Zhou, Jiming Liu, Aiping Lyu, William K Cheung and Lu Zhang.
-  - **Conditional resampling improves calibration and sensitivity in single-cell CRISPR screen analysis.** Timothy Barry, Xuran Wang, Kathryn Roeder and Eugene Katsevich.
-  - **Accel-Align: a fast sequence mapper and aligner based on the seed–embed–extend method.** Yiqing Yan, Nimisha Chaturvedi and Raja Appuswamy.
-  - **BiTSC2: Bayesian inference of tumor clonal tree by joint analysis of single-cell SNV and CNA data.** Ziwei Chen, Fuzhou Gong, Lin Wan and Liang Ma.
-  - **Automated strain separation in low-complexity metagenomes using long reads.** Riccardo Vicedomini, Christopher Quince, Aaron Darling and Rayan Chikhi.
-  - **Real-time, direct classification of nanopore signals with SquiggleNet.** Yuwei Bao, Jack Wadden, John Erb-Downward, Piyush Ranjan, Robert Dickson, David Blaauw and Joshua Welch.
-  - **Population-scale detection of non-reference sequence variants using colored de Bruijn graphs.** Thomas Krannich, W. Timothy J. White, Sebastian Niehus, Guillaume Holley, Bjarni V. Halldorsson and Birte Kehr.
-  - **Ariadne: barcoded linked-read deconvolution using de Bruijn graphs.** Lauren Mak, Dmitry Meleshko, David C. Danko, Waris Barakzai, Natan Belchikov and Iman Hajirasouliha.
-  - **ACTIVA: realistic single-cell RNA-seq generation with automatic cell-type identification using introspective variational autoencoders.** A. Ali Heydari, Oscar Davalos, Lihong Zhao, Katrina Hoyer and Suzanne Sindi.
-
-##### 2020
-
-  - **TALC: Transcription-aware long read correction.** Lucile Broseus, Aubin Thomas and William Ritchie.
-  - **Metalign: Efficient alignment-based metagenomic profiling via containment min hash.** Nathan Lapierre, Mohammed Alser, Eleazar Eskin, David Koslicki and Serghei Mangul.
-  - **SCAPP: An algorithm for improved plasmid assembly in metagenomes.** David Pellow, Maraike Probst, Ori Furman, Alvah Zorea, Arik Segal, Itzik Mizrahi and Ron Shamir.
 
 
 #### Short Talks Selected from Abstracts
