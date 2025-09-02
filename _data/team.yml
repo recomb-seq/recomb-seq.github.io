@@ -61,24 +61,23 @@
     - {name: "site", link: "https://homepages.cwi.nl/~as/"}
 - 
   id: 5
-  name: "Camille"
-  surname: "Marchet"
+  name: "Victoria"
+  surname: "Popic"
   title: "Program Committee Chair"
-  thumbnailUrl: CamilleMarchet.jpg
+  thumbnailUrl: VictoriaPopic.png
   subTeam: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/CamilleMrcht"}
-    - {name: "github", link: "https://github.com/kamimrcht"}
-    - {name: "site", link: "https://kamimrcht.github.io/webpage/"}
+    - {name: "github", link: "https://github.com/viq854"}
+    - {name: "site", link: "https://www.broadinstitute.org/bios/victoria-popic"}
 - 
   id: 6
-  name: "Yaron"
-  surname: "Orenstein"
+  name: "Kristoffer"
+  surname: "Sahlin"
   title: "Program Committee Chair"
-  thumbnailUrl: YaronOrenstein.jpg
+  thumbnailUrl: KristofferSahlin.png
   subTeam: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/OrensteinYaron"}
-    - {name: "github", link: "https://github.com/OrensteinLab"}
-    - {name: "site", link: "https://yorenstein.wixsite.com/orensteinlab"}
+    - {name: "twitter", link: "https://x.com/krsahlin"}
+    - {name: "github", link: "https://github.com/ksahlin"}
+    - {name: "site", link: "https://sahlingroup.github.io/"}
 
