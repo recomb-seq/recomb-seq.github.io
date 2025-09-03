@@ -80,19 +80,19 @@ isStaticPost: true
   - **Pan-genomic matching statistics for targeted nanopore sequencing.** Omar Ahmed, Massimiliano Rossi, Sam Kovaka, Michael Schatz, Travis Gagie, Christina Boucher and Ben Langmead. [iScience, 24 (6): 102696, (2021)](https://www.cell.com/iscience/fulltext/S2589-0042(21)00664-7)
   - **A molecular taxonomy of tumors independent of tissue-of-origin.** Peter Nguyen, Simon Coetzee, Daniel Lakeland and Dennis Hazelett . [iScience, 24 (10): 103084, (2021)](https://www.cell.com/iscience/fulltext/S2589-0042(21)01052-X)
   - **A reference-free approach for cell type classification with scRNA-seq.** Qi Sun, Yifan Peng and Jinze Liu. [iScience, 24 (8): 102855, (2021)](https://www.cell.com/iscience/fulltext/S2589-0042(21)00823-3)
-  - **Accurate spliced alignment of long RNA sequencing reads.** Kristoffer Sahlin and Veli Mäkinen.
-  - **Algorithms and complexity on indexing founder graphs.** Massimo Equi, Tuukka Norri, Jarno Alanko, Bastien Cazaux, Alexandru I. Tomescu and Veli Mäkinen.
-  - **HolistIC: leveraging Hi-C and whole genome shotgun sequencing for double minute chromosome discovery.** Matthew Hayes, Angela Nguyen, Rahib Islam, Caryn Butler, Ethan Tran, Derrick Mullins and Chindo Hicks.
-  - **CONSULT: Accurate contamination removal usinglocality-sensitive hashing.** Eleonora Rachtman, Vineet Bafna and Siavash Mirarab.
-  - **DeepDRIM: a deep neural network to reconstruct cell-type-specific gene regulatory network using single-cell RNA-seq data.** Jiaxing Chen, Chinwang Cheong, Liang Lan, Xin Zhou, Jiming Liu, Aiping Lyu, William K Cheung and Lu Zhang.
-  - **Conditional resampling improves calibration and sensitivity in single-cell CRISPR screen analysis.** Timothy Barry, Xuran Wang, Kathryn Roeder and Eugene Katsevich.
-  - **Accel-Align: a fast sequence mapper and aligner based on the seed–embed–extend method.** Yiqing Yan, Nimisha Chaturvedi and Raja Appuswamy.
-  - **BiTSC2: Bayesian inference of tumor clonal tree by joint analysis of single-cell SNV and CNA data.** Ziwei Chen, Fuzhou Gong, Lin Wan and Liang Ma.
-  - **Automated strain separation in low-complexity metagenomes using long reads.** Riccardo Vicedomini, Christopher Quince, Aaron Darling and Rayan Chikhi.
-  - **Real-time, direct classification of nanopore signals with SquiggleNet.** Yuwei Bao, Jack Wadden, John Erb-Downward, Piyush Ranjan, Robert Dickson, David Blaauw and Joshua Welch.
-  - **Population-scale detection of non-reference sequence variants using colored de Bruijn graphs.** Thomas Krannich, W. Timothy J. White, Sebastian Niehus, Guillaume Holley, Bjarni V. Halldorsson and Birte Kehr.
-  - **Ariadne: barcoded linked-read deconvolution using de Bruijn graphs.** Lauren Mak, Dmitry Meleshko, David C. Danko, Waris Barakzai, Natan Belchikov and Iman Hajirasouliha.
-  - **ACTIVA: realistic single-cell RNA-seq generation with automatic cell-type identification using introspective variational autoencoders.** A. Ali Heydari, Oscar Davalos, Lihong Zhao, Katrina Hoyer and Suzanne Sindi.
+  - **Accurate spliced alignment of long RNA sequencing reads.** Kristoffer Sahlin and Veli Mäkinen. [overlay preprint](https://doi.org/10.1101/2020.09.02.279208)
+  - **Algorithms and complexity on indexing founder graphs.** Massimo Equi, Tuukka Norri, Jarno Alanko, Bastien Cazaux, Alexandru I. Tomescu and Veli Mäkinen. [overlay preprint](https://doi.org/10.48550/arXiv.2102.12822)
+  - **HolistIC: leveraging Hi-C and whole genome shotgun sequencing for double minute chromosome discovery.** Matthew Hayes, Angela Nguyen, Rahib Islam, Caryn Butler, Ethan Tran, Derrick Mullins and Chindo Hicks. [overlay preprint](https://doi.org/10.1101/2021.03.22.435038)
+  - **CONSULT: Accurate contamination removal usinglocality-sensitive hashing.** Eleonora Rachtman, Vineet Bafna and Siavash Mirarab. [overlay preprint](https://doi.org/10.1101/2021.03.18.436035)
+  - **DeepDRIM: a deep neural network to reconstruct cell-type-specific gene regulatory network using single-cell RNA-seq data.** Jiaxing Chen, Chinwang Cheong, Liang Lan, Xin Zhou, Jiming Liu, Aiping Lyu, William K Cheung and Lu Zhang. [overlay preprint](https://doi.org/10.1101/2021.02.03.429484)
+  - **Conditional resampling improves calibration and sensitivity in single-cell CRISPR screen analysis.** Timothy Barry, Xuran Wang, Kathryn Roeder and Eugene Katsevich. [overlay preprint](https://doi.org/10.1101/2020.08.13.250092)
+  - **Accel-Align: a fast sequence mapper and aligner based on the seed–embed–extend method.** Yiqing Yan, Nimisha Chaturvedi and Raja Appuswamy. [overlay preprint](https://doi.org/10.1101/2020.07.20.211888)
+  - **BiTSC2: Bayesian inference of tumor clonal tree by joint analysis of single-cell SNV and CNA data.** Ziwei Chen, Fuzhou Gong, Lin Wan and Liang Ma. [overlay preprint](https://doi.org/10.1101/2020.11.30.380949)
+  - **Automated strain separation in low-complexity metagenomes using long reads.** Riccardo Vicedomini, Christopher Quince, Aaron Darling and Rayan Chikhi. [overlay preprint](https://doi.org/10.1101/2021.02.24.429166)
+  - **Real-time, direct classification of nanopore signals with SquiggleNet.** Yuwei Bao, Jack Wadden, John Erb-Downward, Piyush Ranjan, Robert Dickson, David Blaauw and Joshua Welch. [overlay preprint](https://doi.org/10.1101/2021.01.15.426907)
+  - **Population-scale detection of non-reference sequence variants using colored de Bruijn graphs.** Thomas Krannich, W. Timothy J. White, Sebastian Niehus, Guillaume Holley, Bjarni V. Halldorsson and Birte Kehr. [overlay preprint](https://doi.org/10.1101/2021.03.23.436560)
+  - **Ariadne: barcoded linked-read deconvolution using de Bruijn graphs.** Lauren Mak, Dmitry Meleshko, David C. Danko, Waris Barakzai, Natan Belchikov and Iman Hajirasouliha. [overlay preprint](https://doi.org/10.1101/2021.05.09.443255)
+  - **ACTIVA: realistic single-cell RNA-seq generation with automatic cell-type identification using introspective variational autoencoders.** A. Ali Heydari, Oscar Davalos, Lihong Zhao, Katrina Hoyer and Suzanne Sindi. [overlay preprint](https://doi.org/10.1093/bioinformatics/btac095)
 
 ##### 2020
 
