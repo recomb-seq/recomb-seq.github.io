@@ -107,6 +107,22 @@ isStaticPost: true
   - **Metalign: Efficient alignment-based metagenomic profiling via containment min hash.** Nathan Lapierre, Mohammed Alser, Eleazar Eskin, David Koslicki and Serghei Mangul. [overlay preprint](https://doi.org/10.1101/2020.01.17.910521)
   - **SCAPP: An algorithm for improved plasmid assembly in metagenomes.** David Pellow, Maraike Probst, Ori Furman, Alvah Zorea, Arik Segal, Itzik Mizrahi and Ron Shamir. [overlay preprint](https://doi.org/10.1101/2020.01.12.903252)
 
+##### 2019
+
+  - **GenMap: Fast and Exact Computation of Genome Mappability.** Christopher Pockrandt, Mai Alzamel, Costas Iliopoulos and Knut Reinert. [Bioinformatics, 36(12): 3687-3692, 2020](https://academic.oup.com/bioinformatics/article/36/12/3687/5815974)
+  - **Samovar: Single-sample mosaic SNV calling with linked reads.** Charlotte A. Darby, James R. Fitch, Patrick J. Brennan, Benjamin J. Kelly, Natalie Bir, Vincent Magrini, Jeffrey Leonard, Catherine E. Cottrell, Julie M. Gastier-Foster, Richard K. Wilson, Elaine R. Mardis, Peter White, Ben Langmead and Michael C. Schatz . [iScience, 18: 1-10](https://www.cell.com/iscience/fulltext/S2589-0042(19)30174-9)
+  - **PathRacer: racing profile HMM paths on assembly graph.** Alexander Shlemov and Anton Korobeynikov. [bioRxiv 562579](https://www.biorxiv.org/content/10.1101/562579v1)
+  - **Accurate and Efficient Mapping of the Cross-linked microRNA-mRNA Duplex Reads.** Cuncong Zhong and Shaojie Zhang. [iScience, 18: 11-19](https://www.sciencedirect.com/science/article/pii/S2589004219301750?via%3Dihub)
+  - **MALVA: genotyping by Mapping-free ALlele detection of known VAriants.** Giulia Bernardini, Paola Bonizzoni, Luca Denti, Marco Previtali and Alexander Schönhuth. [iScience, 18: 20-27](https://www.sciencedirect.com/science/article/pii/S2589004219302366)
+  - **Kevlar: a mapping-free framework for accurate discovery of de novo variants.** Daniel Standage, C. Titus Brown and Fereydoun Hormozdiari. [iScience, 18: 28-36](https://www.sciencedirect.com/science/article/pii/S2589004219302597)
+  - **Parallel decompression of gzip-compressed files and random access to DNA sequences.** Maël Kerbiriou and Rayan Chikhi. [overlay preprint]()
+  - **Indexing De Bruijn graphs with minimizers.** Camille Marchet, Maël Kerbiriou and Antoine Limasset. [overlay preprint]()
+  - **CONSENT: Scalable self-correction of long reads with multiple sequence alignment.** Pierre Morisse, Camille Marchet, Antoine Limasset, Thierry Lecroq and Arnaud Lefebvre. [overlay preprint]()
+  - **Graph analysis of fragmented long-read bacterial genome assemblies.** Pierre Marijon, Rayan Chikhi and Jean-Stéphane Varré. [overlay preprint]()
+  - **Improved Representation of Sequence Bloom Trees.** Robert S. Harris and Paul Medvedev. [overlay preprint]()
+  - **Scalable multiple whole-genome alignment and locally collinear block construction with SibeliaZ.** Ilia Minkin and Paul Medvedev. [overlay preprint]()
+  - **Nebula: Ultra-efficient mapping free structural variant genotyper.** Parsoa Khorsand and Fereydoun Hormozdiari. [overlay preprint]()
+
 
 ##### 2018
 
