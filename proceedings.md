@@ -5,7 +5,7 @@ permalink: /proceedings/
 isStaticPost: true
 ---
 
-[RECOMB-Seq Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=GrrEQ5QAAAAJ)
+[RECOMB-Seq Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=GrrEQ5QAAAAJ){:target="_blank"}
 
 #### Full Proceedings Papers
 
