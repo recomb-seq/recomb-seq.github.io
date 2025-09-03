@@ -5,6 +5,8 @@ permalink: /proceedings/
 isStaticPost: true
 ---
 
+[RECOMB-Seq Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=GrrEQ5QAAAAJ)
+
 #### Full Proceedings Papers
 
 ##### 2025
@@ -18,7 +20,7 @@ isStaticPost: true
   - **De novo clustering of extensive long-read transcriptome datasets with isONclust3.** Alexander Petri and Kristoffer Sahlin. [overlay preprint](https://doi.org/10.1101/2024.10.29.620862)
   - **Multi-context seeds enable fast and high-accuracy read mapping.** Ivan Tolstoganov, Marcel Martin and Kristoffer Sahlin. [overlay preprint](https://doi.org/10.1101/2024.10.29.620855)
   - **GPU-accelerated homology search with MMseqs2.** Felix Kallenborn, Alejandro Chacon, Christian Hundt, Hassan Sirelkhatim, Kieran Didi, Sooyoung Cha, Christian Dallago, Milot Mirdita, Bertil Schmidt and Martin Steinegger. [overlay preprint](https://doi.org/10.1101/2024.11.13.623350)
-  - **DeepMM: identify and correct metagenome bisassemblies with deep learning.** Yi Ding, Jin Xiao, Bohao Zou and Lu Zhang. [overlay preprint](https://doi.org/10.1101/2025.02.07.637187)
+  - **DeepMM: identify and correct metagenome misassemblies with deep learning.** Yi Ding, Jin Xiao, Bohao Zou and Lu Zhang. [overlay preprint](https://doi.org/10.1101/2025.02.07.637187)
   - **On the coverage required for diploid genome assembly.** Daanish Mahajan, Chirag Jain and Navin Kashyap. [overlay preprint](https://doi.org/10.48550/arXiv.2405.05734)
   - **Pangenome graph augmentation from unassembled long reads.** Luca Denti, Paola Bonizzoni, Brona Brejova, Rayan Chikhi, Thomas Krannich, Tomas Vinar and Fereydoun Hormozdiari. [overlay preprint](https://doi.org/10.1101/2025.02.07.637057)
 
