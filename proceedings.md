@@ -115,13 +115,13 @@ isStaticPost: true
   - **Accurate and Efficient Mapping of the Cross-linked microRNA-mRNA Duplex Reads.** Cuncong Zhong and Shaojie Zhang. [iScience, 18: 11-19, 2019](https://www.sciencedirect.com/science/article/pii/S2589004219301750?via%3Dihub)
   - **MALVA: genotyping by Mapping-free ALlele detection of known VAriants.** Giulia Bernardini, Paola Bonizzoni, Luca Denti, Marco Previtali and Alexander Schönhuth. [iScience, 18: 20-27, 2019](https://www.sciencedirect.com/science/article/pii/S2589004219302366)
   - **Kevlar: a mapping-free framework for accurate discovery of de novo variants.** Daniel Standage, C. Titus Brown and Fereydoun Hormozdiari. [iScience, 18: 28-36, 2019](https://www.sciencedirect.com/science/article/pii/S2589004219302597)
-  - **Parallel decompression of gzip-compressed files and random access to DNA sequences.** Maël Kerbiriou and Rayan Chikhi. [overlay preprint]()
-  - **Indexing De Bruijn graphs with minimizers.** Camille Marchet, Maël Kerbiriou and Antoine Limasset. [overlay preprint]()
-  - **CONSENT: Scalable self-correction of long reads with multiple sequence alignment.** Pierre Morisse, Camille Marchet, Antoine Limasset, Thierry Lecroq and Arnaud Lefebvre. [overlay preprint]()
-  - **Graph analysis of fragmented long-read bacterial genome assemblies.** Pierre Marijon, Rayan Chikhi and Jean-Stéphane Varré. [overlay preprint]()
-  - **Improved Representation of Sequence Bloom Trees.** Robert S. Harris and Paul Medvedev. [overlay preprint]()
-  - **Scalable multiple whole-genome alignment and locally collinear block construction with SibeliaZ.** Ilia Minkin and Paul Medvedev. [overlay preprint]()
-  - **Nebula: Ultra-efficient mapping free structural variant genotyper.** Parsoa Khorsand and Fereydoun Hormozdiari. [overlay preprint]()
+  - **Parallel decompression of gzip-compressed files and random access to DNA sequences.** Maël Kerbiriou and Rayan Chikhi. [overlay preprint](https://doi.org/10.48550/arXiv.1905.07224)
+  - **Indexing De Bruijn graphs with minimizers.** Camille Marchet, Maël Kerbiriou and Antoine Limasset. [overlay preprint](https://doi.org/10.1101/546309)
+  - **CONSENT: Scalable self-correction of long reads with multiple sequence alignment.** Pierre Morisse, Camille Marchet, Antoine Limasset, Thierry Lecroq and Arnaud Lefebvre. [overlay preprint](https://doi.org/10.1101/546630)
+  - **Graph analysis of fragmented long-read bacterial genome assemblies.** Pierre Marijon, Rayan Chikhi and Jean-Stéphane Varré. [overlay preprint](https://doi.org/10.1093/bioinformatics/btz219)
+  - **Improved Representation of Sequence Bloom Trees.** Robert S. Harris and Paul Medvedev. [overlay preprint](https://doi.org/10.1101/501452)
+  - **Scalable multiple whole-genome alignment and locally collinear block construction with SibeliaZ.** Ilia Minkin and Paul Medvedev. [overlay preprint](https://doi.org/10.1101/548123)
+  - **Nebula: Ultra-efficient mapping free structural variant genotyper.** Parsoa Khorsand and Fereydoun Hormozdiari. [overlay preprint](https://doi.org/10.1101/566620)
 
 
 ##### 2018
