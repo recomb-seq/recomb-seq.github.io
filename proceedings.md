@@ -227,7 +227,7 @@ isStaticPost: true
 
 #### Short Talks Selected from Abstracts
 
-(testing links)[/abstracts]
+[testing links](/abstracts)
 
 ##### 2025
 
