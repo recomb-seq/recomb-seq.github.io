@@ -225,5 +225,5 @@ isStaticPost: true
   - **A Hidden Markov Model for copy number variant prediction from whole genome resequencing data.** Yufeng Shen, Yiwei Gu and Itsik Pe'Er. [BMC Bioinformatics 12 (Suppl 6), S4 (2011)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-S6-S4).
 
 
-#### [Short Talks Selected from Abstracts](/abstracts)
+##### [Short Talks Selected from Abstracts and Posters](/abstracts)
 
