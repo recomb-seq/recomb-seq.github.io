@@ -11,7 +11,7 @@ isStaticPost: true
 
 ##### 2025
 
-  - **Alignment-free detection of differences between sequencing data sets.** Alessia Petescia, Luca Denti, Askar Gafurov, Viktória Hodorová, Jozef Nosek, Broňa Brejová and Tomas Vinar. 
+  - **Alignment-free detection of differences between sequencing data sets.** Alessia Petescia, Luca Denti, Askar Gafurov, Viktória Hodorová, Jozef Nosek, Broňa Brejová and Tomas Vinar. [](https://doi.org/10.1016/j.isci.2025.113828) 
   - **Tile-X: A vertex reordering approach for scalable long read assembly.** Oieswarya Bhowmik and Ananth Kalyanaraman. [bioRxiv 2025.04.21.649853, (2025)](https://www.biorxiv.org/content/10.1101/2025.04.21.649853v1.full)
   - **Decoding the causal drivers of spatial cellular topology.** Prannav Shankar, Huan Liang, Uthsav Chitra and Rohit Singh. [bioRxiv 2025.03.19.644241, (2025)](https://www.biorxiv.org/content/10.1101/2025.03.19.644241v2)
   - **Efficient trace reconstruction in DNA storage systems using Bidirectional Beam Search.** Zhenhao Gu, Hongyi Xin, Puru Sharma, Gary Yipeng Goh, Limsoon Wong and Niranjan Nagarajan. [bioRxiv 2025.04.16.644694, (2025)](https://www.biorxiv.org/content/10.1101/2025.04.16.644694v1)
