@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "RECOMB-seq Conference"
-email: "calkan@gmail.com"
+email: "recombseq@gmail.com"
 description: "RECOMB-seq is the RECOMB Satellite Conference on Biological Sequence Analysis"
 baseurl: ""
 url: "https://recomb-seq.github.io"
@@ -50,7 +50,7 @@ rightNavigationButtons:
 # - {link: "https://bit.ly/dfua-c4p", text: "Submit a paper"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "hero.png"
 heroTitle: "RECOMB-SEQ 2026"
 heroSubTitle: "The 16th RECOMB Satellite Conference on Biological Sequence Analysis"
 eventDate: "May 24-25, 2026"
