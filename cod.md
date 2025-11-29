@@ -13,4 +13,4 @@ RECOMB-seq prides itself on being an open, respectful, and inclusive community. 
 If someone is bothering you, please tell RECOMB-seq Organizers immediately and they will take care of it. We want to maintain RECOMB-seq’s awesomeness.
 
 
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
+<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/sections-background/history.png" style="display:none">

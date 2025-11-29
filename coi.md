@@ -85,4 +85,4 @@ On the other hand you do not automatically have a COI just because
 If you have doubts, please discuss the issue with the PC chairs.
 
 
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
+<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/sections-background/history.png" style="display:none">

@@ -80,6 +80,6 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
   - 2023: Vikram Shivakumar, Omar Ahmed, Sam Kovaka, Mohsen Zakeri and Ben Langmead. *Sigmoni: Efficient Pangenome Multi-Classification of Nanopore Signal*
   - 2018: Damla Senol Cali *Accelerating Approximate Pattern Matching with PiM/SIMD Programming*
 
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
+<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/sections-background/history.png" style="display:none">
 
 
