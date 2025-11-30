@@ -43,7 +43,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Keynote Speakers"}
  - {permalink: "/program/", text: "Program"}
  - {permalink: "/history/", text: "History of RECOMB SEQ"}
- - {permalink: "https://recomb-seq.github.io/proceedings-seq/", text: "Proceedings", target: "_blank"}
+ - {link: "https://recomb-seq.github.io/proceedings-seq/", text: "Proceedings"}
 bottomNavigationLinks:
 # - {link: "https://bit.ly/dfua-c4p", text: "Submit a paper"}
 rightNavigationButtons:
