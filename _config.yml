@@ -123,6 +123,7 @@ socialLinks:
  - {link: "https://twitter.com/recombseq", icon: "twitter"}
 # - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {link: "https://www.youtube.com/@recomb-seq", icon: "youtube"}
+ - {link: "https://bsky.app/profile/recombseq.bsky.social", icon: "bluesky"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
