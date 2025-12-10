@@ -124,7 +124,7 @@ socialLinks:
  - {link: "https://www.youtube.com/@recomb-seq", icon: "youtube"}
  - {link: "https://bsky.app/profile/recombseq.bsky.social", icon: "bluesky"}
  - {link: "https://www.linkedin.com/groups/15794046/", icon: "linkedin"}
- - {permalink: "/feed.xml", icon: "rss"}
+ # - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
