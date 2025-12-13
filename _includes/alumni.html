@@ -1,0 +1,37 @@
+<!-- Begin Alumni List-->
+<section id="alumni" class="team">
+    <div class="content-wrapper">
+        {% if site.alumniBlockDescription %}
+        <div class="col-lg-10 col-lg-offset-1">
+            <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.alumniBlockDescription }}</p>
+        </div>
+        {% endif %}
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Steering Committee Alumni</h4>
+            {% for member in site.data.alumni %} {% if member.team != null %}
+            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
+                <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ member.id }}">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: member.thumbnailUrl }})">
+                        <div class="overlay solid-overlay"></div>
+                        <figcaption>
+                            <div class="col-md-8 col-xs-8 text-left">
+                                <h2 class="name">{{ member.name }} <span>{{ member.surname }}</span></h2>
+                                <div class="clearfix"></div>
+                                <span class="position">{{ member.title }}</span>
+                            </div>
+                            {% for social in member.social %}
+                            <a href="{{ social["link"] }}" target="_blank">
+                                <svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
+                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+                                </svg>
+                            </a>
+                            {% endfor %}
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+            {% endif %} {% endfor %}
+        </div>
+    </div>
+</section>
+<!-- End Alumni List -->

@@ -1,0 +1,68 @@
+- 
+  id: 0
+  name: "Inanc"
+  surname: "Birol"
+  title: "Steering Committee Alumni"
+  thumbnailUrl: InancBirol.png
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "site", link: "https://www.bcgsc.ca/people/inanc-birol"}
+- 
+  id: 1
+  name: "Michael"
+  surname: "Brudno"
+  title: "Steering Committee Alumni"
+  thumbnailUrl: MichaelBrudno.png
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "site", link: "https://brudno.uhndata.io/"}
+- 
+  id: 2
+  name: "Eran"
+  surname: "Halperin"
+  title: "Steering Committee Alumni"
+  thumbnailUrl: EranHalperin.png
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "twitter", link: "https://x.com/halperineran"}
+    - {name: "site", link: "https://x.com/halperineran"}
+- 
+  id: 3
+  name: "Pavel"
+  surname: "Pevzner"
+  title: "Steering Committee Alumni"
+  thumbnailUrl: PavelPevzner.png
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "site", link: "hhttps://bioalgorithms.ucsd.edu/"}
+
+- 
+  id: 4
+  name: "Benjamin"
+  surname: "Raphael"
+  title: "Steering Committee Alumni"
+  thumbnailUrl: BenRaphael.png
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "x", link: "https://x.com/benjraphael"}
+    - {name: "site", link: "https://engineering.princeton.edu/faculty/ben-raphael"}
+- 
+  id: 5
+  name: "S. Cenk"
+  surname: "Sahinalp"
+  title: "Steering Committee Alumni"
+  thumbnailUrl: CenkSahinalp.png
+  team: true
+  social: 
+    - {name: "twitter", link: "https://x.com/cenksahinalp"}
+    - {name: "site", link: "https://ccr.cancer.gov/staff-directory/s-cenk-sahinalp"}
