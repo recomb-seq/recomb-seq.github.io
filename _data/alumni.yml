@@ -42,7 +42,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "site", link: "hhttps://bioalgorithms.ucsd.edu/"}
+    - {name: "site", link: "https://bioalgorithms.ucsd.edu/"}
 
 - 
   id: 4
