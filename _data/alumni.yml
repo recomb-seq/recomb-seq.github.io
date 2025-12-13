@@ -54,7 +54,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
-    - {name: "x", link: "https://x.com/benjraphael"}
+    - {name: "twitter", link: "https://x.com/benjraphael"}
     - {name: "site", link: "https://engineering.princeton.edu/faculty/ben-raphael"}
 - 
   id: 5
