@@ -41,7 +41,7 @@ navigationLinks:
 
  - {permalink: "/team/", text: "Committees"}
  - {permalink: "/speakers/", text: "Keynote Speakers"}
- - {permalink: "/program/", text: "Program"}
+
  - {permalink: "/history/", text: "History of RECOMB SEQ"}
  - {link: "https://recomb-seq.github.io/proceedings-seq/", text: "Proceedings"}
 bottomNavigationLinks:
@@ -57,10 +57,9 @@ eventDate: "May 24-25, 2026"
 eventLocation: "Thessaloniki, Greece"
 #typeoutTextValues: '"2023"'
 #typeoutFallback: "2023"
-heroButtons:
- #- {link: "https://bit.ly/dfua-c4p", text: "Submit a paper"}
- #- {permalink: "/#tickets", text: "Attend RECOMB SEQ 2023"}
+#heroButtons:
 
+ 
 # About Block
 aboutTitle: "About RECOMB SEQ"
 # aboutBlock:
@@ -88,7 +87,7 @@ rockstarSpeakersButtonText: "See all speakers"
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "TBD"
-eventLocationLink: "TBD"
+eventLocationLink: "https://recomb-seq.github.io/seq2026"
 eventStreetAddress: "TBD"
 eventAddressLocality: ""
 eventAddressLocalityRegion: "Seoul"
