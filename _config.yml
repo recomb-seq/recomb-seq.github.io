@@ -57,8 +57,8 @@ eventDate: "May 24-25, 2026"
 eventLocation: "Thessaloniki, Greece"
 #typeoutTextValues: '"2023"'
 #typeoutFallback: "2023"
-#heroButtons:
-
+heroButtons:
+ - {link: "https://recomb-seq.github.io/seq2026", text: "Next Conference: RECOMB-Seq 2026"}
  
 # About Block
 aboutTitle: "About RECOMB SEQ"
