@@ -38,7 +38,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/papers/", text: "Call for Contributions"}
+
  - {permalink: "/team/", text: "Committees"}
  - {permalink: "/speakers/", text: "Keynote Speakers"}
  - {permalink: "/program/", text: "Program"}
@@ -146,9 +146,8 @@ blogCommentsEnabled: true
 discusShortName: "devfestua"
 
 # Collections
-collections:
-  paper-calls:
-    output: true
+
+
 # Speakers List Block
 showSessions: true
 
